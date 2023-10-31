@@ -1,4 +1,4 @@
-﻿#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPV6",CCTV-1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPV6",CCTV-1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视IPV6",CCTV-2
@@ -1575,8 +1575,6 @@ http://live.bygd.cn/byzh/sd/live.m3u8?gansu
 http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 #EXTINF:-1 group-title="地方台",「广东」广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
-#EXTINF:-1 group-title="地方台",「广东」广东文化
-https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
 
 #EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="地方台",广州综合
 https://justsometime.gztv.com/sec/zhonghe.m3u8
