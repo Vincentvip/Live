@@ -102,52 +102,71 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
 
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视IPV4",CCTV1
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv1hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv1
 
 
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视IPV4",CCTV2
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv2hd8m/8000000
+
+https://cntv.lat/tv?auth=202311030915&id=cctv2
+
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视IPV4",CCTV3
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv38m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv3
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV4",CCTV4
-
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv4hd8m/8000000
-
+https://cntv.lat/tv?auth=202311030915&id=cctv4
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视IPV4",CCTV5
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv58m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv5
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视IPV4",CCTV5+
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv5phd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv5p
 #EXTINF:-1,tvg-id="" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视IPV4",CCTV6
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv6hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv6
 #EXTINF:-1,tvg-id="" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视IPV4",CCTV7
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv7hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv7
 #EXTINF:-1,tvg-id="" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视IPV4",CCTV8
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv8hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视IPV4",CCTV9
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv9hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv9
+
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视IPV4",CCTV10
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv10hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv10
+
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视IPV4",CCTV11
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv11hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv11
+
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视IPV4",CCTV12
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv12hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv12
+
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视IPV4",CCTV13
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv13xwhd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv13
+
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视IPV4",CCTV14
-http://live.aptvapp.com/PLTV/bestv.php?id=cctvsehd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv14
+
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视IPV4",CCTV15
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv15hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv15
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视IPV4",CCTV16
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv16hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv16
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视IPV4",CCTV17
-http://live.aptvapp.com/PLTV/bestv.php?id=cctv17hd8m/8000000
+https://cntv.lat/tv?auth=202311030915&id=cctv17
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视IPV4",CCTV16-4K
-https://cntv.sbs/tv?auth=2310201855&id=cctv164k
+https://cntv.lat/tv?auth=202311030915&id=cctv164k
+
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视IPV4",CCTV-4K
-https://cntv.sbs/tv?auth=2310201855&id=cctv4k
+https://cntv.lat/tv?auth=202311030915&id=cctv4k
+
+
 
 
 
