@@ -217,6 +217,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="央视IPV6",环球纪录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
+
+
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="卫视IPV6",凤凰中文IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 
@@ -1102,103 +1104,81 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
 #EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",看天下精选
-
-https://cntv.sbs/tv?auth=2310201855&id=ktxjx
+https://cntv.lat/tv?auth=202311030915&id=ktxjx
 
 
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",华语影院
-
-https://cntv.sbs/tv?auth=2310201855&id=hyyy
+https://cntv.lat/tv?auth=202311030915&id=hyyy
 
 
 #EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",电竞天堂
 
-https://cntv.sbs/tv?auth=2310201855&id=djtt
+https://cntv.lat/tv?auth=202311030915&id=djtt
 
 
 #EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",青春动漫
-
-https://cntv.sbs/tv?auth=2310201855&id=qcdm
+https://cntv.lat/tv?auth=202311030915&id=qcdm
 
 
 #EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",星光影院
-
-https://cntv.sbs/tv?auth=2310201855&id=xgyy
-
+https://cntv.lat/tv?auth=202311030915&id=xgyy
 
 #EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",谍战剧场
-
-https://cntv.sbs/tv?auth=2310201855&id=dzjc
+https://cntv.lat/tv?auth=202311030915&id=dzjc
 
 
 #EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",全球大片
-
-https://cntv.sbs/tv?auth=2310201855&id=qqdp
+https://cntv.lat/tv?auth=202311030915&id=qqdp
 
 
 #EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",热门剧场
-
-https://cntv.sbs/tv?auth=2310201855&id=rmjc
+https://cntv.lat/tv?auth=202311030915&id=rmjc
 
 
 #EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",热门综艺
-
-https://cntv.sbs/tv?auth=2310201855&id=rmzy
+https://cntv.lat/tv?auth=202311030915&id=rmzy
 
 
 #EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",戏曲精选
-
-https://cntv.sbs/tv?auth=2310201855&id=xqjx
+https://cntv.lat/tv?auth=202311030915&id=xqjx
 
 
 #EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",健康养生
-
-https://cntv.sbs/tv?auth=2310201855&id=jkys
+https://cntv.lat/tv?auth=202311030915&id=jkys
 
 
 #EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百变课堂
-
-https://cntv.sbs/tv?auth=2310201855&id=bbkt
+https://cntv.lat/tv?auth=202311030915&id=bbkt
 
 
 #EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",宝宝动画
-
-https://cntv.sbs/tv?auth=2310201855&id=bbdh
-
+https://cntv.lat/tv?auth=202311030915&id=bbdh
 
 
 #EXTINF:-1 tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育1
-
-https://cntv.sbs/tv?auth=2310201855&id=sport1
+https://cntv.lat/tv?auth=202311030915&id=sport1
 
 
 #EXTINF:-1 tvg-id="百视通体育2" tvg-name="百视通体育2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育2
-
-https://cntv.sbs/tv?auth=2310201855&id=sport2
+https://cntv.lat/tv?auth=202311030915&id=sport2
 
 
 #EXTINF:-1 tvg-id="百视通体育3" tvg-name="百视通体育3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育3
-
-https://cntv.sbs/tv?auth=2310201855&id=sport3
-
+https://cntv.lat/tv?auth=202311030915&id=sport3
 #EXTINF:-1 tvg-id="百视通体育4" tvg-name="百视通体育4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育4
-
-https://cntv.sbs/tv?auth=2310201855&id=sport4
+https://cntv.lat/tv?auth=202311030915&id=sport4
 
 
 #EXTINF:-1 tvg-id="百视通体育5" tvg-name="百视通体育5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育5
-
-https://cntv.sbs/tv?auth=2310201855&id=sport5
+https://cntv.lat/tv?auth=202311030915&id=sport5
 
 
 #EXTINF:-1 tvg-id="百视通体育6" tvg-name="百视通体育6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育6
-
-https://cntv.sbs/tv?auth=2310201855&id=sport6
+https://cntv.lat/tv?auth=202311030915&id=sport6
 
 
 #EXTINF:-1 tvg-id="百视通体育7" tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育7
-
-https://cntv.sbs/tv?auth=2310201855&id=sport7
+https://cntv.lat/tv?auth=202311030915&id=sport7
 
 #EXTINF:-1 group-title="百视",百视电影1
 https://bp-caster.bestv.com.cn/88/3/video.m3u8
@@ -1639,7 +1619,8 @@ https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="4K测试",华数高清
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
 
 #EXTINF:-1,tvg-id="4K电影" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="4K测试",4K超高清电影
