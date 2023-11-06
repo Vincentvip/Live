@@ -30,9 +30,9 @@ https://pi.0472.org/tv/fct.php?auth=202311030915
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳台",翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="粤港澳台",無綫新聞台
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="粤港澳台",无线新闻
 http://r.jdshipin.com/CkuBd
-#EXTINF:-1 tvg-id="無綫財經·體育·資訊台" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="粤港澳台",無綫財經資訊台
+#EXTINF:-1 tvg-id="無綫財經·體育·資訊台" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="粤港澳台",无线财经台
 https://sc2022.stream-link.org/tv2306.php?id=h07
 #EXTINF:-1 tvg-id="EV体育1" tvg-name="EV体育1"  group-title="粤港澳台",EV体育1
 https://pull-f5-spe.ixigua.com/yeslivetv.com/686415690-572689995/index.m3u8?by=yeslivetv.com
@@ -61,9 +61,9 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 https://sc2022.stream-link.org/tv2306.php?id=h03
 #EXTINF:-1 tvg-id="J2" tvg-name="J2台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_j2.png" group-title="粤港澳台",J2台
 http://r.jdshipin.com/ndGgS
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="粤港澳台",無綫新聞台
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="粤港澳台",无线新闻台
 https://sc2022.stream-link.org/tv2306.php?id=h04
-#EXTINF:-1 tvg-id="無綫財經·資訊台" tvg-name="無綫財經·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="粤港澳台",無綫財經資訊台
+#EXTINF:-1 tvg-id="無綫財經·資訊台" tvg-name="無綫財經·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="粤港澳台",无线财经台
 https://sc2022.stream-link.org/tv2306.php?id=h05
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="粤港澳台",凤凰中文
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
