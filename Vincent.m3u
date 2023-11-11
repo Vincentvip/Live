@@ -6241,3 +6241,5 @@ http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249
 
 #EXTINF:-1 group-title="敏",国家地理
 https://stream5.woniuzfb.com/live/gjdl/yavVgySk.m3u8
+#EXTINF:-1 group-title="敏",Tvbs高清
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
