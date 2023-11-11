@@ -41,7 +41,10 @@ http://cloud.yumixiu768.com/tmp/123.m3u8
 https://pull-f5-spe.ixigua.com/yeslivetv.com/265607175-15730022/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="玮来日本" tvg-name="玮来日本"  group-title="粤港澳台",玮来日本
 https://pull-f5-spe.ixigua.com/yeslivetv.com/207696875-188726589/index.m3u8?by=yeslivetv.com
-
+#EXTINF:-1 group-title="粤港澳台",三立台湾台
+https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+#EXTINF:-1 group-title="粤港澳台",三立都会台
+https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="粤港澳台",澳视澳门
 http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="粤港澳台",香港卫视
