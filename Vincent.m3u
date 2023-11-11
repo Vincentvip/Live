@@ -24,9 +24,9 @@ http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳台",翡翠台
 https://pull-f5-spe.ixigua.com/yeslivetv.com/188116512-246085305/index.m3u8?by=yeslivetv.com
 
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="粤港澳台",无线新闻
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="粤港澳台",无线新闻台
 http://r.jdshipin.com/CkuBd
-#EXTINF:-1 tvg-id="無綫財經·體育·資訊台" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="粤港澳台",无线财经台
+#EXTINF:-1 tvg-id="无线财经台" tvg-name="无线财经台" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="粤港澳台",无线财经台
 https://sc2022.stream-link.org/tv2306.php?id=h07
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="粤港澳台",明珠台
