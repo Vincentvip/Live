@@ -6223,12 +6223,16 @@ http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 #EXTINF:-1 group-title="敏",HBO
 http://185.188.188.235/live/hbo/playlist.m3u8
 
+#EXTINF:-1 group-title="敏",HBO家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 
+#EXTINF:-1 group-title="敏",HBO喜剧
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
+#EXTINF:-1 group-title="敏",HBO强档巨献
+http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 
-
-
-
-
+#EXTINF:-1 group-title="敏",HBO原创巨献
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
 
