@@ -6220,6 +6220,8 @@ http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
 http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 
 
+#EXTINF:-1 group-title="敏",HBO
+http://185.188.188.235/live/hbo/playlist.m3u8
 
 
 
