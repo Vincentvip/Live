@@ -6241,8 +6241,11 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
 
 #EXTINF:-1 group-title="敏",国家地理
-https://stream5.woniuzfb.com/live/gjdl/yavVgySk.m3u8
+https://stream5.woniuzfb.com/live/gjdl/KAOJMcRB.m3u8
 #EXTINF:-1 group-title="敏",TVBS高清
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="敏",TVBS新闻
 https://pull-f5-spe.ixigua.com/yeslivetv.com/2177241-676037635/index.m3u8?by=yeslivetv.com
+#EXTINF:-1 group-title="敏",BBC
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+
