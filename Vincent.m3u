@@ -1056,6 +1056,9 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K测试",CCTV-4K超高清
 https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视IPV6",CCTV5-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+
 #EXTINF:-1,tvg-id="CCTV16-4K" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K测试",CCTV16-4K
 http://live.aptvapp.com/PLTV/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1,tvg-id="CCTV-4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K测试",CCTV-4K
