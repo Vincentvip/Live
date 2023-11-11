@@ -328,7 +328,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 IPV4央视
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视IPV4",CCTV1
-https://cntv.lat/tv?auth=202311030915&id=cctv1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视IPV4",CCTV2
 https://cntv.lat/tv?auth=202311030915&id=cctv2
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视IPV4",CCTV3
