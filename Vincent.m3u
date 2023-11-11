@@ -6244,4 +6244,4 @@ https://stream5.woniuzfb.com/live/gjdl/yavVgySk.m3u8
 #EXTINF:-1 group-title="敏",TVBS高清
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="敏",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
