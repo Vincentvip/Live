@@ -59,9 +59,9 @@ https://sc2022.stream-link.org/tv2306.php?id=h03
 #EXTINF:-1 tvg-id="J2" tvg-name="J2台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_j2.png" group-title="粤港澳台",J2台
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="粤港澳台",无线新闻台
-https://sc2022.stream-link.org/tv2306.php?id=h04
+http://live.cooltv.top/tv/tvb.php?id=00
 #EXTINF:-1 tvg-id="無綫財經·資訊台" tvg-name="無綫財經·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="粤港澳台",无线财经台
-https://cdn5.woniuzfb.com/live/tvbhk_tvbfinanceinformationchannel/LTHKKDao.m3u8
+http://r.jdshipin.com/jUx8K
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="粤港澳台",凤凰中文
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="粤港澳台",凤凰资讯
