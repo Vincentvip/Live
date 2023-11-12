@@ -378,8 +378,6 @@ http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 
 
 
-IPV4卫视
-
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视IPV4",北京卫视
 http://live.aptvapp.com/PLTV/bestv.php?id=bjwshd8m/8000000bjws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视IPV4",东方卫视
@@ -1053,6 +1051,8 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="4K电影" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="4K测试",4K超高清电影
 https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
+#EXTINF:-1, group-title="4K测试",斗鱼4K影院
+http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K测试",CCTV-4K超高清
 https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视IPV6",CCTV5-4K
