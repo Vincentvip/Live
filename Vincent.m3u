@@ -275,6 +275,9 @@ http://r.jdshipin.com/qClQf
 https://pull-f5-spe.ixigua.com/yeslivetv.com/188116512-246085305/index.m3u8?by=yeslivetv.com
 #EXTINF:-1,tvg-id="HOY资讯" tvg-name="HOY资讯" tvg-logo="https://epg.112114.xyz/logo/HOY资讯.png" group-title="粤港澳台",HOY资讯
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
+#EXTINF:-1,tvg-id="香港国际财经" tvg-name="香港国际财经" tvg-logo="https://epg.112114.xyz/logo/香港国际财经台.png" group-title="粤港澳台",香港国际财经
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
+
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="粤港澳台",无线新闻台
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="无线财经台" tvg-name="无线财经台" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="粤港澳台",无线财经台
@@ -2485,6 +2488,10 @@ http://ip2121.com:8081/live/cnn/playlist.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-id="国际频道" tvg-name="国际频道" tvg-logo=" .png" group-title="国际",加拿大ONE
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1,tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://epg.112114.xyz/logo/ABC News.png" group-title="国际",ABC News(澳大利亞)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1,tvg-id="NHK華語視界" tvg-name="NHK華語視界" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD-JAPAN.png" group-title="国际",NHK華語視界(日本)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN
 https://cntv.sbs/tv?auth=2310201855&id=cgtn
 #EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="国际",CGTN记录
