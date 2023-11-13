@@ -6311,4 +6311,22 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 https://pull-f5-spe.ixigua.com/yeslivetv.com/2177241-676037635/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="敏",BBC
 http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="敏",公视
+https://pull-f5-spe.ixigua.com/yeslivetv.com/399e061f-ba37-4f8e-a57f-5153db9559a6/index.m3u8?by=yeslivetv.com
+#EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="敏",年代新闻台
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
+
+#EXTINF:-1,tvg-id="FOX Live Now" tvg-name="FOX Live Now" tvg-logo="https://upload.112114.xyz/logo/FOXLIVENOW.png" group-title="敏",FOX Live Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-id="CGTN Europe" tvg-name="CGTN Europe" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="敏",CGTN Europe
+https://live.cgtn.com/1000/prog_index.m3u8
+
+
+
+
+
+
+
+
+
 
