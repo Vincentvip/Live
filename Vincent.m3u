@@ -1087,6 +1087,12 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="4K电影" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="4K测试",4K超高清电影
 https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
+#EXTINF:-1 tvg-name="LoveNrture" group-title="4K测试",Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K测试",时尚4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+
 #EXTINF:-1, group-title="4K测试",斗鱼4K影院
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K测试",CCTV-4K超高清
@@ -2549,6 +2555,98 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="国际",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="游戏赛事",「虎牙」英雄联盟-1
+https://yang-1989.eu.org/live/huya/660000
+#EXTINF:-1 group-title="游戏赛事",「虎牙」英雄联盟-2
+https://yang-1989.eu.org/live/huya/660001
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」英雄联盟-3
+https://yang-1989.eu.org/live/douyu/288016
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」英雄联盟-4
+https://yang-1989.eu.org/live/douyu/705690
+#EXTINF:-1 group-title="游戏赛事",「虎牙」王者荣耀-1
+https://yang-1989.eu.org/live/huya/660002
+#EXTINF:-1 group-title="游戏赛事",「虎牙」王者荣耀-2
+https://yang-1989.eu.org/live/huya/660164
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-3
+https://yang-1989.eu.org/live/douyu/1863767
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-4
+https://yang-1989.eu.org/live/douyu/1984839
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-5
+https://yang-1989.eu.org/live/douyu/2045445
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-6
+https://yang-1989.eu.org/live/douyu/3606468
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-♀
+https://yang-1989.eu.org/live/douyu/667319
+#EXTINF:-1 group-title="游戏赛事",「虎牙」绝地求生-1
+https://yang-1989.eu.org/live/huya/660004
+#EXTINF:-1 group-title="游戏赛事",「虎牙」绝地求生-2
+https://yang-1989.eu.org/live/huya/660005
+#EXTINF:-1 group-title="游戏赛事",「虎牙」绝地求生-3
+https://yang-1989.eu.org/live/huya/660136
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」绝地求生-4
+https://yang-1989.eu.org/live/douyu/100
+#EXTINF:-1 group-title="游戏赛事",「虎牙」和平精英-1
+https://yang-1989.eu.org/live/huya/660006
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」和平精英-2
+https://yang-1989.eu.org/live/douyu/999
+#EXTINF:-1 group-title="•铲铲游戏赛事",「虎牙」金之战-1
+https://yang-1989.eu.org/live/huya/660579
+#EXTINF:-1 group-title="•铲铲游戏赛事",「斗鱼」金之战-2
+https://yang-1989.eu.org/live/douyu/9715241
+#EXTINF:-1 group-title="游戏赛事",「虎牙」CSGO
+https://yang-1989.eu.org/live/huya/eslcsgo
+#EXTINF:-1 group-title="游戏赛事",「虎牙」DOTA2-1
+https://yang-1989.eu.org/live/huya/660118
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」DOTA2-2
+https://yang-1989.eu.org/live/douyu/30
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」云顶之弈
+https://yang-1989.eu.org/live/douyu/522423
+#EXTINF:-1 group-title="游戏赛事",「虎牙」永劫无间
+https://yang-1989.eu.org/live/huya/660115
+#EXTINF:-1 group-title="游戏赛事",「虎牙」使命召唤·手游-1
+https://yang-1989.eu.org/live/huya/11718629
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」使命召唤·手游-2
+https://yang-1989.eu.org/live/douyu/9223245
+#EXTINF:-1 group-title="游戏赛事",「虎牙」穿越火线-1
+https://yang-1989.eu.org/live/huya/660101
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」穿越火线-2
+https://yang-1989.eu.org/live/douyu/605964
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」穿越火线-3
+https://yang-1989.eu.org/live/douyu/5388537
+#EXTINF:-1 group-title="游戏赛事",「虎牙」穿越火线·手游
+https://yang-1989.eu.org/live/huya/660102
+#EXTINF:-1 group-title="游戏赛事",「虎牙」第五人格-1
+https://yang-1989.eu.org/live/huya/idvesports
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」第五人格-2
+https://yang-1989.eu.org/live/douyu/3226194
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」第五人格-3
+https://yang-1989.eu.org/live/douyu/11030737
+#EXTINF:-1 group-title="游戏赛事",「虎牙」逆战
+https://yang-1989.eu.org/live/huya/nsl2021
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」原神
+https://yang-1989.eu.org/live/douyu/10853239
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」QQ飞车·手游
+https://yang-1989.eu.org/live/douyu/5040227
+#EXTINF:-1 group-title="游戏赛事",「虎牙」无畏契约-1
+https://yang-1989.eu.org/live/huya/660679
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」无畏契约-2
+https://yang-1989.eu.org/live/douyu/4585645
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」JJ斗地主
+https://yang-1989.eu.org/live/douyu/488743
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」我的世界
+https://yang-1989.eu.org/live/douyu/738878
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」FIFA
+https://yang-1989.eu.org/live/douyu/7692166
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」火影忍者
+https://yang-1989.eu.org/live/douyu/1997723
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」跑跑卡丁车
+https://yang-1989.eu.org/live/douyu/7722576
+#EXTINF:-1 group-title="游戏赛事",「斗鱼」跑跑卡丁车·手游
+https://yang-1989.eu.org/live/douyu/6672862
+#EXTINF:-1 group-title="游戏赛事",穿越火线
+http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe78 38e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 
 
 #EXTINF:-1 group-title="游戏赛事",和平精英•手游
