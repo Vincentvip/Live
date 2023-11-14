@@ -1861,6 +1861,198 @@ https://cntv.sbs/tv?auth=2310201855&id=xzzyws
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视IPV4",康巴卫视
 https://cntv.sbs/tv?auth=2310201855&id=kbws
 
+#EXTINF:-1 tvg-name="上海东方影视" group-title="地方台IPV6",「上海」东方影视「IPV6」
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8？
+#EXTINF:-1 tvg-name="上海都市" group-title="地方台IPV6",「上海」都市「IPV6」
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8？
+#EXTINF:-1 tvg-name="上海教育电视台" group-title="地方台IPV6",「上海」教育电视台「IPV6」
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8？
+#EXTINF:-1 tvg-name="上海外语频道" group-title="地方台IPV6",「上海」外语频道「IPV6」
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8？
+#EXTINF:-1 tvg-name="上海新闻综合" group-title="地方台IPV6",「上海」新闻综合「IPV6」
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8？
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」江苏交通广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw546624575_-1910844548/ott.mobaibox.com/PLTV/3/224/3221227937/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」江苏健康广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw600036240_383613297/ott.mobaibox.com/PLTV/3/224/3221227952/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」江苏交通广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw647596804_-5801787/ott.mobaibox.com/PLTV/3/224/3221227990/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」江苏文艺广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw715522857_-1424246390/ott.mobaibox.com/PLTV/3/224/3221227987/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」江苏新闻广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw769954038_1328455700/ott.mobaibox.com/PLTV/3/224/3221227984/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」江苏新闻综合广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw833550595_1143544585/ott.mobaibox.com/PLTV/3/224/3221227934/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」江苏经典流行音乐广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw878817645_-701348812/ott.mobaibox.com/PLTV/3/224/3221227943/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」江苏财经之声广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw933154163_1181121507/ott.mobaibox.com/PLTV/3/224/3221227946/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」金陵之声广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1001680748_68258733/ott.mobaibox.com/PLTV/3/224/3221227940/index.m3u8
+#EXTINF:-1 tvg-name="null" group-title="地方台IPV6",「江苏」江苏音乐广播「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1053240669_34336301/ott.mobaibox.com/PLTV/3/224/3221227949/index.m3u8
+#EXTINF:-1 tvg-name="南京信息" group-title="地方台IPV6",「江苏」南京信息「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
+#EXTINF:-1 tvg-name="南京娱乐" group-title="地方台IPV6",「江苏」南京娱乐「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+#EXTINF:-1 tvg-name="南京新闻综合" group-title="地方台IPV6",「江苏」南京新闻综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+#EXTINF:-1 tvg-name="崇川" group-title="地方台IPV6",「江苏」崇川「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1512301981_1454766575/ott.mobaibox.com/PLTV/4/224/3221228533/index.m3u8
+#EXTINF:-1 tvg-name="南通3" group-title="地方台IPV6",「江苏」南通3「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8
+#EXTINF:-1 tvg-name="南通2" group-title="地方台IPV6",「江苏」南通2「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw1356203236_1007889310/ott.mobaibox.com/PLTV/4/224/3221228448/index.m3u8
+#EXTINF:-1 tvg-name="盐城1" group-title="地方台IPV6",「江苏」盐城1「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8
+#EXTINF:-1 tvg-name="盐城2" group-title="地方台IPV6",「江苏」盐城2「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw1131928239_2039612798/ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
+#EXTINF:-1 tvg-name="盐城3" group-title="地方台IPV6",「江苏」盐城3「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw1299375729_1661164560/ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
+#EXTINF:-1 tvg-name="徐州1" group-title="地方台IPV6",「江苏」徐州1「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw449482893_-1418519228/ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-name="徐州2" group-title="地方台IPV6",「江苏」徐州2「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw554442372_-1047030766/ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-name="徐州3" group-title="地方台IPV6",「江苏」徐州3「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw612056802_-2107448704/ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-name="徐州4" group-title="地方台IPV6",「江苏」徐州4「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw646564841_-1162201747/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-name="连云港公共" group-title="地方台IPV6",「江苏」连云港公共「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
+#EXTINF:-1 tvg-name="连云港新闻综合" group-title="地方台IPV6",「江苏」连云港新闻综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
+#EXTINF:-1 tvg-name="仪化前缀" group-title="地方台IPV6",「江苏」仪化语音「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb0c]/wh7f454c46tw2007904333_996227273/ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
+#EXTINF:-1 tvg-name="东海综合" group-title="地方台IPV6",「江苏」东海综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2532366382_-413976163/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
+#EXTINF:-1 tvg-name="沛县经济生活" group-title="地方台IPV6",「江苏」沛县经济生活「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2485154935_560997466/ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
+#EXTINF:-1 tvg-name="沛县文化影视" group-title="地方台IPV6",「江苏」沛县文化影视「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2571577223_-1607544057/ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
+#EXTINF:-1 tvg-name="沛县新闻综合" group-title="地方台IPV6",「江苏」沛县新闻综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2694495294_-336953709/ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
+#EXTINF:-1 tvg-name="泰州1" group-title="地方台IPV6",「江苏」泰州1「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2988629058_378021149/ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
+#EXTINF:-1 tvg-name="泰州2" group-title="地方台IPV6",「江苏」泰州2「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3054465711_-1323742279/ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
+#EXTINF:-1 tvg-name="泰州3" group-title="地方台IPV6",「江苏」泰州3「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3111075443_-1954595974/ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
+#EXTINF:-1 tvg-name="睢宁三农" group-title="地方台IPV6",「江苏」睢宁三农「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3159943533_-631245355/ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
+#EXTINF:-1 tvg-name="睢宁生活教育" group-title="地方台IPV6",「江苏」睢宁生活教育「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3266215445_-1224675069/ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8
+#EXTINF:-1 tvg-name="睢宁综合" group-title="地方台IPV6",「江苏」睢宁综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2711841019_318571591/ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
+#EXTINF:-1 tvg-name="睢宁资讯" group-title="地方台IPV6",「江苏」睢宁资讯「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2785939281_491930384/ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8
+#EXTINF:-1 tvg-name="常州公共" group-title="地方台IPV6",「江苏」常州公共「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
+#EXTINF:-1 tvg-name="常州新闻综合" group-title="地方台IPV6",「江苏」常州新闻综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3810615020_450111224/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
+#EXTINF:-1 tvg-name="常州生活" group-title="地方台IPV6",「江苏」常州生活「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3951544714_750576923/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
+#EXTINF:-1 tvg-name="常州都市" group-title="地方台IPV6",「江苏」常州都市「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4002153568_939060722/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
+#EXTINF:-1 tvg-name="宝应新闻综合" group-title="地方台IPV6",「江苏」宝应新闻综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2870965829_-39927312/ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
+#EXTINF:-1 tvg-name="宝应生活资讯" group-title="地方台IPV6",「江苏」宝应生活资讯「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2889103905_1760287796/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
+#EXTINF:-1 tvg-name="铜山3" group-title="地方台IPV6",「江苏」铜山3「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3277816327_1610783039/ott.mobaibox.com/PLTV/3/224/3221228055/index.m3u8
+#EXTINF:-1 tvg-name="铜山2" group-title="地方台IPV6",「江苏」铜山2「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3266023742_-315157707/ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
+#EXTINF:-1 tvg-name="铜山1" group-title="地方台IPV6",「江苏」铜山1「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3676988403_-40659425/ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
+#EXTINF:-1 tvg-name="镇江新闻综合" group-title="地方台IPV6",「江苏」镇江新闻综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw1100784708_827843552/ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
+#EXTINF:-1 tvg-name="赣榆" group-title="地方台IPV6",「江苏」赣榆「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1171115665_-517528173/ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
+#EXTINF:-1 tvg-name="邳州综合" group-title="地方台IPV6",「江苏」邳州综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2533804280_-725162855/ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8
+#EXTINF:-1 tvg-name="宿迁公共" group-title="地方台IPV6",「江苏」宿迁公共「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1756901329_237803346/ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8
+#EXTINF:-1 tvg-name="镇江2" group-title="地方台IPV6",「江苏」镇江2「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3271148643_-1965191630/ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8
+#EXTINF:-1 tvg-name="镇江3" group-title="地方台IPV6",「江苏」镇江3「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw2461344193_395316009/ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「江苏」国学与家道「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3793293799_-1723707003/ott.mobaibox.com/PLTV/4/224/3221227736/index.m3u8
+#EXTINF:-1 tvg-name="镇江新闻综合l" group-title="地方台IPV6",「江苏」镇江新闻综合「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3949322656_1360725434/ott.mobaibox.com/PLTV/4/224/3221228246/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江文体" group-title="地方台IPV6",「黑龙江」黑龙江文体「IPV6」
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江农业科教" group-title="地方台IPV6",「黑龙江」黑龙江农业科教「IPV6」
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市" group-title="地方台IPV6",「黑龙江」黑龙江都市「IPV6」
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" group-title="地方台IPV6",「黑龙江」黑龙少儿「IPV6」
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江影视" group-title="地方台IPV6",「黑龙江」黑龙江影视「IPV6」
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+#EXTINF:-1 tvg-name="黑龙新闻基础" group-title="地方台IPV6",「黑龙江」黑龙新闻基础「IPV6」
+http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:-1 tvg-name="鹤岗新闻综合" group-title="地方台IPV6",「黑龙江」鹤岗新闻综合「IPV6」
+http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「黑龙江」佳木斯新闻综合「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「黑龙江」齐齐哈尔经济法制「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「黑龙江」齐齐哈尔新闻综合「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「黑龙江」双鸭山公共「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「黑龙江」双鸭山综合「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 tvg-name="海南自贸" group-title="地方台IPV6",「海南」海南自贸「IPV6」
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
+#EXTINF:-1 tvg-name="海南新闻" group-title="地方台IPV6",「海南」海南新闻「IPV6」
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
+#EXTINF:-1 tvg-name="海南文旅" group-title="地方台IPV6",「海南」海南文旅「IPV6」
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
+#EXTINF:-1 tvg-name="海南少儿" group-title="地方台IPV6",「海南」海南少儿「IPV6」
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
+#EXTINF:-1 tvg-name="海南公共" group-title="地方台IPV6",「海南」海南公共「IPV6」
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
+#EXTINF:-1 group-title="地方台IPV6",「陕西」宝鸡1「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
+#EXTINF:-1 tvg-id="2409:8087:7001:20:3::3" group-title="地方台IPV6",「陕西」宝鸡2「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」安康综合「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」西乡融媒「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」商洛1「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」城园「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」扶风「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」汉中1「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」汉中2「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」汉中3「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」千阳「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」神木1「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」石泉电视台
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」岐山「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」吴起电视台「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226967/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」洋县电视台1「IPV6」
+http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」紫阳综合「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」FGTV 1「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
+#EXTINF:-1 group-title="地方台IPV6",「陕西」佛坪电视台「IPV6」
+http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+
+
 
 #EXTINF:-1 group-title="虎牙轮播",虎牙-周星星
 https://live.metshop.top/huya/11342412
