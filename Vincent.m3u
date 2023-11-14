@@ -6317,6 +6317,43 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915
 
 
 
+
+
+
+#EXTINF:-1 group-title="音乐",音乐石榴
+https://yang-1989.eu.org/live/huya/17091681
+#EXTINF:-1 group-title="音乐",治愈•放松
+https://yang-1989.eu.org/live/huya/21241811
+#EXTINF:-1 group-title="音乐",新歌速递
+https://yang-1989.eu.org/live/huya/19439762
+#EXTINF:-1 group-title="音乐",阅读•学习
+https://yang-1989.eu.org/live/huya/21241813
+#EXTINF:-1 group-title="音乐",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 group-title="音乐",复古
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="音乐",M2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="音乐",性感韩国流行音乐
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="音乐",Vibee
+http://de1se01.v2beat.live/chunks.m3u8
+#EXTINF:-1 group-title="音乐",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="音乐",音乐顶部
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="音乐",MTV 最大流行音乐
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 group-title="音乐",MTV Spankin
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV 哟！
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8#EXTINF:-1%20group-title=%22%E5%B9%BF%E6%92%AD% 22%20tvg-logo=%22https://live.fanmingming.com/radio/988.png%22,988%E5%8F%8B%E5%A3%B0%E6%9C%89%E8%89%B2
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-web-us-west-2-tunein-com.s3-us-west-2.amazonaws.com/assets/img/shared/tiles/todays-hits-small.jpg" group-title="广播" radio="true",Today’s Hits
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/newpophits.png" group-title="广播" radio="true",Pop Hits
