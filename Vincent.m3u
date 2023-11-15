@@ -491,11 +491,10 @@ http://mqiptv.com:8014/ch/custom49/mqlive.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视IPV4",湖南卫视
 http://cntv.lat/tv/live.php?auth=231110&id=hunanHD
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视IPV4",江西卫视
-https://live.metshop.top/bestv.php?id=jxws8m/8000000
+http://cntv.lat/tv/live.php?auth=231110&id=jiangxiHD
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视IPV4",江苏卫视
 http://cntv.lat/tv/live.php?auth=231110&id=jiangsuHD
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视IPV4",浙江卫视
-https://live.metshop.top/bestv.php?id=zjwshd8m/8000000
+
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视IPV4",东南卫视
 http://cntv.lat/tv/live.php?auth=231110&id=dongnanHD
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视IPV4",海峡卫视
@@ -509,7 +508,7 @@ http://cntv.lat/tv/live.php?auth=231110&id=shenzhenHD
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视IPV4",广西卫视
 http://mqiptv.com:8014/ch/custom54/mqlive.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视IPV4",云南卫视
-https://live.metshop.top/bestv.php?id=ynwshd8m/8000000
+http://cntv.lat/tv/live.php?auth=231110&id=yunnanSD
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视IPV4",贵州卫视
 http://cntv.lat/tv/live.php?auth=231110&id=guizhouHD
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视IPV4",四川卫视
@@ -1131,15 +1130,12 @@ https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K测试",时尚4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-
 #EXTINF:-1, group-title="4K测试",斗鱼4K影院
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K测试",CCTV-4K超高清
 https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视IPV6",CCTV5-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-
 #EXTINF:-1,tvg-id="CCTV16-4K" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K测试",CCTV16-4K
 http://live.aptvapp.com/PLTV/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1,tvg-id="CCTV-4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K测试",CCTV-4K
@@ -1851,19 +1847,6 @@ http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 #EXTINF:-1 group-title="地方台",「浙江」诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 
-
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视IPV4",三沙卫视
-https://cntv.sbs/tv?auth=2310201855&id=ssws
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视IPV4",新疆卫视
-https://cntv.sbs/tv?auth=2310201855&id=xjws
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视IPV4",兵团卫视
-https://cntv.sbs/tv?auth=2310201855&id=btws
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视IPV4",西藏卫视
-https://cntv.sbs/tv?auth=2310201855&id=xzws
-#EXTINF:-1 tvg-id="西藏藏语卫视" tvg-name="西藏藏语卫视" tvg-logo="https://live.fanmingming.com/tv/西藏藏语卫视.png" group-title="卫视IPV4",西藏藏语卫视
-https://cntv.sbs/tv?auth=2310201855&id=xzzyws
-#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视IPV4",康巴卫视
-https://cntv.sbs/tv?auth=2310201855&id=kbws
 
 #EXTINF:-1 tvg-name="上海东方影视" group-title="地方台IPV6",「上海」东方影视「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8？
