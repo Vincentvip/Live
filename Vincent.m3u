@@ -810,9 +810,22 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
 
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="粤港澳台",广东珠江
+https://epg.pw/stream/2edf350407f7d14d96462c234b64d1d5ce353df9741f8b8ed1d63d50ed33256d.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="粤港澳台",广东珠江
+http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="粤港澳台",广东经济科教
 http://113.117.74.17:8081/hls/66/index.m3u8
-
+#EXTINF:-1 group-title="粤港澳台",广东新闻
+https://epg.pw/stream/306b0c28c52f4dda8a6c1fe43724b1ab5eb77c847760adb81df408dbc35de1cd.m3u8
+#EXTINF:-1 group-title="粤港澳台",广东新闻
+https://php.17186.eu.org/gdtv/xwpd.m3u8
+#EXTINF:-1 tvg-id="14227" tvg-name="廣東體育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png" group-title="粤港澳台",广东体育
+https://epg.pw/stream/1f8c60e6c05b69be6816ad240d74aa967881eec688ed90972c434d2f6a79f5df.m3u8
+#EXTINF:-1 tvg-id="14227" tvg-name="廣東體育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png" group-title="粤港澳台",广东体育
+https://epg.pw/stream/836af75f6a9d7292a256cf4a30da02f240d47095a83a85c377351a219fd0f6f9.ctv
+#EXTINF:-1 group-title="粤港澳台",大湾区卫视
+https://epg.pw/stream/c079dca70700c8feb4f52998795bbdb5dc4b21508edc7b98e99429c0492694f3.m3u8
 #EXTINF:-1 group-title="粤港澳台",大湾区卫视
 http://113.117.74.17:8081/hls/80/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="粤港澳台",凤凰中文
@@ -825,8 +838,10 @@ http://113.117.74.18:8081/hls/38/index.m3u8
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳台",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
 https://pi.0472.org/tv/fct.php?auth=231110
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="粤港澳台",明珠台
 https://fake-stream.livednow.com/cdn/tvb_pearl?token=5e7cb9b1fbb689f099275fc83f567fa0
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="粤港澳台",明珠台
@@ -838,7 +853,7 @@ http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="粤港澳台",无线新闻
 https://tv.iill.top/tvb/4
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="粤港澳台",无线新闻
-https://fake-stream.livednow.com/cdn/tvb_news?token=e5cbc531c1b82e3c6468d51b24bb702a
+http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="粤港澳台",无线财经
 https://fake-stream.livednow.com/cdn/tvb_finance?token=b73036ea1f1169514ce0a27a9788e48e
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="粤港澳台",无线财经
@@ -850,7 +865,7 @@ http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&
 #EXTINF:-1 tvg-id="ELEVEN体育二台" tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN體育2台.png" group-title="粤港澳台",ELEVEN体育2
 https://fake-stream.livednow.com/cdn/eleven2?token=bdb4cf2ea26b34f0e7f8aec38dcc97fe
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="粤港澳台",纬来体育
-https://fake-stream.livednow.com/cdn/videoland_sports?token=c638c2160968a9b1a92eb13ea5a3b61e
+https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="粤港澳台",緯來日本
 http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="粤港澳台",緯來日本台
@@ -876,9 +891,27 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 group-title="粤港澳台",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="粤港澳台",Tvbs
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="粤港澳台",Tvbs新闻
+https://epg.pw/stream/f6bd1775936bd64434c97e59f867bbb4d97f014a277ee2221ff407e60d75b59e.m3u8
+#EXTINF:-1 tvg-id="13944" tvg-name="台視新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png" group-title="粤港澳台",台视新闻
+https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png" group-title="粤港澳台",民视新闻台
+https://epg.pw/stream/1d469cbfb06b06cde4dc59c21272a4e6da364621e97513d03523c96d0c7afe1e.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="粤港澳台",澳门澳视卫视台
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="粤港澳台",澳门澳视葡文台
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="粤港澳台",澳门2
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="粤港澳台",澳門Macau
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="粤港澳台",澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="粤港澳台",香港电台
+http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
 
 
 
@@ -1043,7 +1076,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="NewTV系列IPV4",军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-
+#EXTINF:-1 tvg-id="M1905电影网" tvg-name="M1905电影网" tvg-logo="https://epg.112114.xyz/logo/M电影网.png" group-title="NewTV系列IPV4",M1905电影网
+http://nas.jdshipin.com:8801/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="NewTV系列IPV4",精品大剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV明星大片" tvg-name="NEWTV明星大片" tvg-logo="https://live.fanmingming.com/tv/NEWTV明星大片.png" group-title="NewTV系列IPV4",明星大片
