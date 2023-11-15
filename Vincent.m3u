@@ -239,9 +239,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 
 
-#EXTINF:-1,tvg-id="大湾区" tvg-name="大湾区" group-title="粤港澳台",大湾区
-http://113.117.74.17:8081/hls/80/index.m3u8
-
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="粤港澳台",广东珠江
 https://php.17186.eu.org/gdtv/gdzj.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="粤港澳台",广东珠江
@@ -256,6 +253,9 @@ http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/inde
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1,tvg-id="广东经济" tvg-name="广东经济" group-title="粤港澳台",广东经济
 http://113.117.74.17:8081/hls/66/index.m3u8
+#EXTINF:-1,tvg-id="大湾区" tvg-name="大湾区" group-title="粤港澳台",大湾区
+http://113.117.74.17:8081/hls/80/index.m3u8
+
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="粤港澳台",广东影视
 https://php.17186.eu.org/gdtv/web/gdys.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="粤港澳台",凤凰中文
@@ -312,7 +312,7 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="粤港澳台",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 tvg-id="J2" tvg-name="J2台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_j2.png" group-title="粤港澳台",J2台
-https://sc2022.stream-link.org/tv2306.php?id=h03
+https://yeslivetv.com/hls/memfs/c0f7c11b-9028-439b-a7bd-94ab80b80cbf.m3u8
 #EXTINF:-1 tvg-id="J2" tvg-name="J2台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_j2.png" group-title="粤港澳台",J2台
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="粤港澳台",无线新闻台
