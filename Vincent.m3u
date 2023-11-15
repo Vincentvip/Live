@@ -812,8 +812,7 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=Fifa
 
 #EXTINF:-1 group-title="粤港澳台",广东经济科教
 http://113.117.74.17:8081/hls/66/index.m3u8
-#EXTINF:-1 group-title="粤港澳台",广东4k
-http://113.117.74.17:8081/hls/145/index.m3u8
+
 #EXTINF:-1 group-title="粤港澳台",大湾区卫视
 http://113.117.74.17:8081/hls/80/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="粤港澳台",凤凰中文
@@ -846,7 +845,7 @@ https://fake-stream.livednow.com/cdn/tvb_finance?token=b73036ea1f1169514ce0a27a9
 https://tv.iill.top/tvb/6
 #EXTINF:-1 tvg-name="星河台" group-title="粤港澳台",星河台
 http://113.117.74.17:8081/hls/135/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="粤港澳台",ELEVEN体育1台
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="粤港澳台",ELEVEN体育1
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 #EXTINF:-1 tvg-id="ELEVEN体育二台" tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN體育2台.png" group-title="粤港澳台",ELEVEN体育2
 https://fake-stream.livednow.com/cdn/eleven2?token=bdb4cf2ea26b34f0e7f8aec38dcc97fe
@@ -1189,7 +1188,8 @@ https://cntv.lat/tv?auth=202311030915&id=sport6
 https://cntv.lat/tv?auth=202311030915&id=sport7
 
 
-
+#EXTINF:-1 group-title="4K测试",广东4k
+http://113.117.74.17:8081/hls/145/index.m3u8
 
 #EXTINF:-1,tvg-id="苏州4K频道" tvg-name="苏州4K频道" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="4K测试",苏州4K频道
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -1227,8 +1227,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u
 https://cntv.sbs/tv?auth=2310201855&id=cctv4k
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K测试",CCTV-16-4K
 https://cntv.sbs/tv?auth=2310201855&id=cctv164k
-#EXTINF:-1,tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" group-title="4K测试",广州南国都市
-https://justsometime.gztv.com/sec/shenghuos.m3u8
+
 
 
 
@@ -1421,8 +1420,6 @@ http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
 #EXTINF:-1 group-title="地方台",「河南」禹州综合
 http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
-#EXTINF:-1 group-title="地方台",「黑龙江」伊春综合
-http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8?zheild
 #EXTINF:-1 group-title="地方台",「湖北」保康新闻综合
 http://bktvplay.gdnewmedia.cc/live/bk_xwzh.m3u8?zhubd
 #EXTINF:-1 group-title="地方台",「湖北」荆门新闻综合
@@ -1561,10 +1558,6 @@ http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8?zneimd
 http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8?zneimd
 #EXTINF:-1 group-title="地方台",「内蒙古」乌兰察布新闻综合
 http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8?zneimd
-#EXTINF:-1 group-title="地方台",「宁夏」宁夏公共
-http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
-#EXTINF:-1 group-title="地方台",「宁夏」宁夏经济
-http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
 #EXTINF:-1 group-title="地方台",「宁夏」吴忠公共
 http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 #EXTINF:-1 group-title="地方台",「宁夏」吴忠综合
