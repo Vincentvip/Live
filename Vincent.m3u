@@ -66,30 +66,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视IPV6",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-name="生活时尚" group-title="央视IPV6",SiTV五星体育「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8？
-#EXTINF:-1 tvg-name="东方财经" group-title="央视IPV6",SiTV东方财经「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8？
-#EXTINF:-1 tvg-name="欢笑剧场" group-title="央视IPV6",SiTV欢笑剧场「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001193/index.m3u8？
-#EXTINF:-1 tvg-name="纳米科学天地" group-title="央视IPV6",SiTV纳米科学天地「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8？
-#EXTINF:-1 tvg-name="七彩戏剧" group-title="央视IPV6",SiTV七彩戏剧「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001308/index.m3u8？
-#EXTINF:-1 tvg-name="乐游" group-title="央视IPV6",SiTV乐游「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001200/index.m3u8？
-#EXTINF:-1 tvg-name="动漫秀场" group-title="央视IPV6",SiTV动漫秀场「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8？
-#EXTINF:-1 tvg-name="游戏风云" group-title="央视IPV6",SiTV游戏风云「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001192/index.m3u8？
-#EXTINF:-1 tvg-name="生活时尚" group-title="央视IPV6",SiTV生活时尚「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001199/index.m3u8？
-#EXTINF:-1 tvg-name="都市剧场" group-title="央视IPV6",SiTV都市剧场「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8？
-#EXTINF:-1 tvg-name="金色学堂" group-title="央视IPV6",SiTV金色学堂「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8？
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视IPV6",CGTN英语
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="央视IPV6",中国环球
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="央视IPV6",环球纪录
