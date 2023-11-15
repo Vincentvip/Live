@@ -837,46 +837,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1,tvg-id="NewTV海外剧场" tvg-name="NewTV海外剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV海外剧场.png" group-title="NewTV系列IPV6",NewTV海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
-#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",看天下精选
-https://cntv.lat/tv?auth=202311030915&id=ktxjx
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",华语影院
-https://cntv.lat/tv?auth=202311030915&id=hyyy
-#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",电竞天堂
-https://cntv.lat/tv?auth=202311030915&id=djtt
-#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",青春动漫
-https://cntv.lat/tv?auth=202311030915&id=qcdm
-#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",星光影院
-https://cntv.lat/tv?auth=202311030915&id=xgyy
-#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",谍战剧场
-https://cntv.lat/tv?auth=202311030915&id=dzjc
-#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",全球大片
-https://cntv.lat/tv?auth=202311030915&id=qqdp
-#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",热门剧场
-https://cntv.lat/tv?auth=202311030915&id=rmjc
-#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",热门综艺
-https://cntv.lat/tv?auth=202311030915&id=rmzy
-#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",戏曲精选
-https://cntv.lat/tv?auth=202311030915&id=xqjx
-#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",健康养生
-https://cntv.lat/tv?auth=202311030915&id=jkys
-#EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百变课堂
-https://cntv.lat/tv?auth=202311030915&id=bbkt
-#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",宝宝动画
-https://cntv.lat/tv?auth=202311030915&id=bbdh
-#EXTINF:-1 tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育1
-https://cntv.lat/tv?auth=202311030915&id=sport1
-#EXTINF:-1 tvg-id="百视通体育2" tvg-name="百视通体育2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育2
-https://cntv.lat/tv?auth=202311030915&id=sport2
-#EXTINF:-1 tvg-id="百视通体育3" tvg-name="百视通体育3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育3
-https://cntv.lat/tv?auth=202311030915&id=sport3
-#EXTINF:-1 tvg-id="百视通体育4" tvg-name="百视通体育4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育4
-https://cntv.lat/tv?auth=202311030915&id=sport4
-#EXTINF:-1 tvg-id="百视通体育5" tvg-name="百视通体育5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育5
-https://cntv.lat/tv?auth=202311030915&id=sport5
-#EXTINF:-1 tvg-id="百视通体育6" tvg-name="百视通体育6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育6
-https://cntv.lat/tv?auth=202311030915&id=sport6
-#EXTINF:-1 tvg-id="百视通体育7" tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育7
-https://cntv.lat/tv?auth=202311030915&id=sport7
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",百视电影1
 https://bp-caster.bestv.com.cn/88/3/video.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视电影2
@@ -963,101 +924,46 @@ https://bp-caster.bestv.com.cn/130/3/video.m3u8
 https://bp-caster.bestv.com.cn/131/3/video.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",百视搞笑44
 https://bp-caster.bestv.com.cn/132/3/video.m3u8
-#EXTINF:-1 tvg-id="我们的歌" tvg-name="我们的歌" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",我们的歌
-http://kkwk1122.top/bestv.php?id=41
-#EXTINF:-1 tvg-id="谜案大世界" tvg-name="谜案大世界" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",谜案大世界
-http://kkwk1122.top/bestv.php?id=84
-#EXTINF:-1 tvg-id="完美的夏天" tvg-name="完美的夏天" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",完美的夏天
-http://kkwk1122.top/bestv.php?id=59
-#EXTINF:-1 tvg-id="极限挑战" tvg-name="极限挑战" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",极限挑战
-http://kkwk1122.top/bestv.php?id=27
-#EXTINF:-1 tvg-id="汤妈妈" tvg-name="汤妈妈" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",汤妈妈
-http://kkwk1122.top/bestv.php?id=213
-#EXTINF:-1 tvg-id="完美的夏天2" tvg-name="完美的夏天2" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",完美的夏天2
-http://kkwk1122.top/bestv.php?id=222
-#EXTINF:-1 tvg-id="王牌对王牌" tvg-name="王牌对王牌" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",王牌对王牌
-http://kkwk1122.top/bestv.php?id=193
-#EXTINF:-1 tvg-id="东方风云榜" tvg-name="东方风云榜" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",东方风云榜
-http://kkwk1122.top/bestv.php?id=146
-#EXTINF:-1 tvg-id="美好生活家" tvg-name="美好生活家" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",美好生活家
-http://kkwk1122.top/bestv.php?id=228
-#EXTINF:-1 tvg-id="人气美食" tvg-name="人气美食" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",人气美食
-http://kkwk1122.top/bestv.php?id=144
-#EXTINF:-1 tvg-id="漫游记" tvg-name="漫游记" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",漫游记
-http://kkwk1122.top/bestv.php?id=218
-#EXTINF:-1 tvg-id="两个人的世界" tvg-name="两个人的世界" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",两个人的世界
-http://kkwk1122.top/bestv.php?id=124
-#EXTINF:-1 tvg-id="高能脱口秀" tvg-name="高能脱口秀" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",高能脱口秀
-http://kkwk1122.top/bestv.php?id=76
-#EXTINF:-1 tvg-id="奔跑吧兄弟" tvg-name="奔跑吧兄弟" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",奔跑吧兄弟
-http://kkwk1122.top/bestv.php?id=201
-#EXTINF:-1 tvg-id="童年国漫" tvg-name="童年国漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",童年国漫
-http://kkwk1122.top/bestv.php?id=37
-#EXTINF:-1 tvg-id="城市真英雄" tvg-name="城市真英雄" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",城市真英雄
-http://kkwk1122.top/bestv.php?id=119
-#EXTINF:-1 tvg-id="荒野求生" tvg-name="荒野求生" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",荒野求生
-http://kkwk1122.top/bestv.php?id=226
-#EXTINF:-1 tvg-id="整容级妆教" tvg-name="整容级妆教" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",整容级妆教
-http://kkwk1122.top/bestv.php?id=216
-#EXTINF:-1 tvg-id="天籁之战" tvg-name="天籁之战" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",天籁之战
-http://kkwk1122.top/bestv.php?id=156
-#EXTINF:-1 tvg-id="宅家瘦全身" tvg-name="宅家瘦全身" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",宅家瘦全身
-http://kkwk1122.top/bestv.php?id=40
-#EXTINF:-1 tvg-id="居家云打卡" tvg-name="居家云打卡" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",居家云打卡
-http://kkwk1122.top/bestv.php?id=120
-#EXTINF:-1 tvg-id="海派滑稽戏" tvg-name="海派滑稽戏" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",海派滑稽戏
-http://kkwk1122.top/bestv.php?id=38
-#EXTINF:-1 tvg-id="领航" tvg-name="领航" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",领航
-http://kkwk1122.top/bestv.php?id=134
-#EXTINF:-1 tvg-id="带娃小妙招" tvg-name="带娃小妙招" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",带娃小妙招
-http://kkwk1122.top/bestv.php?id=52
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",东方卫视
-http://kkwk1122.top/bestv.php?id=22
-#EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",新闻综合
-http://kkwk1122.top/bestv.php?id=20
-#EXTINF:-1 tvg-id="外语频道" tvg-name="外语频道" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",外语频道
-http://kkwk1122.top/bestv.php?id=17
-#EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",都市频道
-http://kkwk1122.top/bestv.php?id=18
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",哈哈炫动
-http://kkwk1122.top/bestv.php?id=19
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",纪实人文
-http://kkwk1122.top/bestv.php?id=28
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",第一财经
-http://kkwk1122.top/bestv.php?id=21
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经"tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",东方财经
-http://kkwk1122.top/bestv.php?id=26
-#EXTINF:-1,tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://epg.112114.xyz/logo/直播中国.png" group-title="百视",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",穿越火线
-http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",和平精英•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",梦幻西游•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",跑跑卡丁车
-http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",CSGO
-http://tc-tct.douyucdn2.cn/dyliveflv1/601514rYyuBBDiJK_2000.flv?wsAuth=392e2081de888c961c5b04e1cc969e2a&token=cpn-androidmpro-0-601514-ef59ba1cfb089365430a29ba0e9fabff647f749d2b368bd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",JJ斗地主
-http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",LOL•云顶之弈
-http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",QQ飞车•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",狼人杀
-http://tc-tct.douyucdn2.cn/dyliveflv1/4615959rUFUtiJ3v.flv?wsAuth=7971ae0019a9ad2822153b7370372e8c&token=cpn-androidmpro-0-4615959-c88b2c2692ce476579452cdc62babd37285751f91f149297&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",CF•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",王者荣耀
-http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",网易第五人格
-http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",跑跑卡丁车•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png"group-title="百视",永劫无间
-http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-
+#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",看天下精选
+https://cntv.lat/tv?auth=202311030915&id=ktxjx
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",华语影院
+https://cntv.lat/tv?auth=202311030915&id=hyyy
+#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",电竞天堂
+https://cntv.lat/tv?auth=202311030915&id=djtt
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",青春动漫
+https://cntv.lat/tv?auth=202311030915&id=qcdm
+#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",星光影院
+https://cntv.lat/tv?auth=202311030915&id=xgyy
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",谍战剧场
+https://cntv.lat/tv?auth=202311030915&id=dzjc
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",全球大片
+https://cntv.lat/tv?auth=202311030915&id=qqdp
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",热门剧场
+https://cntv.lat/tv?auth=202311030915&id=rmjc
+#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",热门综艺
+https://cntv.lat/tv?auth=202311030915&id=rmzy
+#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",戏曲精选
+https://cntv.lat/tv?auth=202311030915&id=xqjx
+#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",健康养生
+https://cntv.lat/tv?auth=202311030915&id=jkys
+#EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百变课堂
+https://cntv.lat/tv?auth=202311030915&id=bbkt
+#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",宝宝动画
+https://cntv.lat/tv?auth=202311030915&id=bbdh
+#EXTINF:-1 tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育1
+https://cntv.lat/tv?auth=202311030915&id=sport1
+#EXTINF:-1 tvg-id="百视通体育2" tvg-name="百视通体育2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育2
+https://cntv.lat/tv?auth=202311030915&id=sport2
+#EXTINF:-1 tvg-id="百视通体育3" tvg-name="百视通体育3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育3
+https://cntv.lat/tv?auth=202311030915&id=sport3
+#EXTINF:-1 tvg-id="百视通体育4" tvg-name="百视通体育4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育4
+https://cntv.lat/tv?auth=202311030915&id=sport4
+#EXTINF:-1 tvg-id="百视通体育5" tvg-name="百视通体育5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育5
+https://cntv.lat/tv?auth=202311030915&id=sport5
+#EXTINF:-1 tvg-id="百视通体育6" tvg-name="百视通体育6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育6
+https://cntv.lat/tv?auth=202311030915&id=sport6
+#EXTINF:-1 tvg-id="百视通体育7" tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育7
+https://cntv.lat/tv?auth=202311030915&id=sport7
 
 
 
@@ -2812,22 +2718,17 @@ https://yang-1989.eu.org/live/douyu/1997723
 https://yang-1989.eu.org/live/douyu/7722576
 #EXTINF:-1 group-title="游戏赛事",「斗鱼」跑跑卡丁车·手游
 https://yang-1989.eu.org/live/douyu/6672862
+
 #EXTINF:-1 group-title="游戏赛事",穿越火线
 http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe78 38e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-
-
 #EXTINF:-1 group-title="游戏赛事",和平精英•手游
 http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1 group-title="游戏赛事",梦幻西游•手游
 http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1 group-title="游戏赛事",跑跑卡丁车
 http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="游戏赛事",CSGO
-http://tc-tct.douyucdn2.cn/dyliveflv1/601514rYyuBBDiJK_2000.flv?wsAuth=392e2081de888c961c5b04e1cc969e2a&token=cpn-androidmpro-0-601514-ef59ba1cfb089365430a29ba0e9fabff647f749d2b368bd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1 group-title="游戏赛事",JJ斗地主
 http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="游戏赛事",LOL•云顶之弈
-http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1 group-title="游戏赛事",QQ飞车•手游
 http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="游戏赛事",狼人杀
