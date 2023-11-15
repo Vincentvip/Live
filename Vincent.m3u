@@ -864,14 +864,19 @@ http://113.117.74.17:8081/hls/135/index.m3u8
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 #EXTINF:-1 tvg-id="ELEVEN体育二台" tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN體育2台.png" group-title="粤港澳台",ELEVEN体育2
 https://fake-stream.livednow.com/cdn/eleven2?token=bdb4cf2ea26b34f0e7f8aec38dcc97fe
+
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="粤港澳台",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="粤港澳台",纬来体育
+rtmp://9sv1.mine.nu:1935/sat/tv721
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="粤港澳台",纬来体育
+https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="粤港澳台",緯來日本
 http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="粤港澳台",緯來日本台
-https://fake-stream.livednow.com/cdn/vl_jp?token=1602505e9b1d7e81cb90579273adab72
+rtmp://9sv1.mine.nu:1935/sat/tv771
 #EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="粤港澳台",緯來育樂台
-https://fake-stream.livednow.com/cdn/vl_maxtv?token=34f59d4aca557414445108fce20ff1ae
+rtmp://9sv1.mine.nu:1935/sat/tv701
 
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="粤港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
