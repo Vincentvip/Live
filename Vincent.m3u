@@ -810,9 +810,73 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
 
+#EXTINF:-1 group-title="粤港澳台",广东经济科教
+http://113.117.74.17:8081/hls/66/index.m3u8
+#EXTINF:-1 group-title="粤港澳台",广东4k
+http://113.117.74.17:8081/hls/145/index.m3u8
+#EXTINF:-1 group-title="粤港澳台",大湾区卫视
+http://113.117.74.17:8081/hls/80/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" group-title="粤港澳台",凤凰中文
+http://113.117.74.17:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="粤港澳台",凤凰资讯
+http://113.117.74.18:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" group-title="粤港澳台",凤凰香港
+http://113.117.74.18:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳台",翡翠台
+https://pi.0472.org/tv/fct.php?auth=231110
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="粤港澳台",明珠台
+https://fake-stream.livednow.com/cdn/tvb_pearl?token=5e7cb9b1fbb689f099275fc83f567fa0
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="粤港澳台",明珠台
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+#EXTINF:-1 tvg-name="J2" group-title="粤港澳台",J2
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 tvg-name="J2" group-title="粤港澳台",J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="粤港澳台",无线新闻
+https://tv.iill.top/tvb/4
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="粤港澳台",无线新闻
+https://fake-stream.livednow.com/cdn/tvb_news?token=e5cbc531c1b82e3c6468d51b24bb702a
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="粤港澳台",无线财经
+https://fake-stream.livednow.com/cdn/tvb_finance?token=b73036ea1f1169514ce0a27a9788e48e
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="粤港澳台",无线财经
+https://tv.iill.top/tvb/6
+#EXTINF:-1 tvg-name="星河台" group-title="粤港澳台",星河台
+http://113.117.74.17:8081/hls/135/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="粤港澳台",ELEVEN体育1台
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 tvg-id="ELEVEN体育二台" tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN體育2台.png" group-title="粤港澳台",ELEVEN体育2
+https://fake-stream.livednow.com/cdn/eleven2?token=bdb4cf2ea26b34f0e7f8aec38dcc97fe
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="粤港澳台",纬来体育
+https://fake-stream.livednow.com/cdn/videoland_sports?token=c638c2160968a9b1a92eb13ea5a3b61e
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="粤港澳台",緯來日本
+http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="粤港澳台",緯來日本台
+https://fake-stream.livednow.com/cdn/vl_jp?token=1602505e9b1d7e81cb90579273adab72
+#EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="粤港澳台",緯來育樂台
+https://fake-stream.livednow.com/cdn/vl_maxtv?token=34f59d4aca557414445108fce20ff1ae
 
-
-
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="粤港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="粤港澳台",莲花卫视
+https://cntv.lat/tv/lhws.php
+#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="粤港澳台",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="粤港澳台",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-name="澳门莲花" group-title="粤港澳台",澳门莲花
+https://p.ggiptv.com/v/macaulotustv.php
+#EXTINF:-1 group-title="粤港澳台",大爱2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="粤港澳台",大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="粤港澳台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="粤港澳台",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 
 
