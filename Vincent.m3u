@@ -8459,7 +8459,7 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 https://pull-f5-spe.ixigua.com/yeslivetv.com/2177241-676037635/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="敏",BBC
 http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="敏",公视
+
 https://pull-f5-spe.ixigua.com/yeslivetv.com/399e061f-ba37-4f8e-a57f-5153db9559a6/index.m3u8?by=yeslivetv.com
 #EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="敏",年代新闻台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
@@ -8468,6 +8468,10 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="CGTN Europe" tvg-name="CGTN Europe" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="敏",CGTN Europe
 https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,tvg-id="国家地理杂志" tvg-name="国家地理杂志" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174004832702_83.png" group-title="敏",国家地理杂志
+https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8
+
+
 #EXTINF:-1 group-title="请加微信dywwst8售后",2023.11.18更新
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
