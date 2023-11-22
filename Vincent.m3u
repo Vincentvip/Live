@@ -2816,7 +2816,7 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="国际频道" tvg-name="国际频道" tvg-logo=" .png" group-title="国际",朝鲜中央台
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-id="国际频道" tvg-name="国际频道" tvg-logo=" .png" group-title="国际",CNN
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="国际频道" tvg-name="国际频道" tvg-logo=" .png" group-title="国际",新加坡亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-id="国际频道" tvg-name="国际频道" tvg-logo=" .png" group-title="国际",加拿大ONE
