@@ -37,7 +37,6 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 
 
 卫视频道,#genre#
-
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
@@ -111,8 +110,8 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 广东珠江,https://epg.pw/stream/2edf350407f7d14d96462c234b64d1d5ce353df9741f8b8ed1d63d50ed33256d.m3u8#http://r.jdshipin.com/sE5vO#https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 广东经济科教,http://113.117.74.17:8081/hls/66/index.m3u8
 广东新闻,https://php.17186.eu.org/gdtv/xwpd.m3u8#https://php.17186.eu.org/gdtv/web/xwpd.m3u8
-广东体育,http://r.jdshipin.com/LiYdg
-翡翠台,http://r.jdshipin.com/62WM7#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+广东体育,http://r.jdshipin.com/LiYdg#https://epg.pw/stream/1f8c60e6c05b69be6816ad240d74aa967881eec688ed90972c434d2f6a79f5df.m3u8
+翡翠台,http://r.jdshipin.com/62WM7#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8#https://pi.0472.org/tv/fct.php?auth=231122#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 明珠台,https://pi.0472.org/tv/mzt.php?auth=231122
 J2,http://r.jdshipin.com/ndGgS#http://r.jdshipin.com/Nr5jq
 无线新闻,https://tv.iill.top/tvb/4#http://r.jdshipin.com/CkuBd
