@@ -264,6 +264,7 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 精品大剧,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 
 虎牙轮播,#genre#
+香港电影,https://yang-1989.eu.org/live/huya/11602058
 虎牙-周星驰,https://live.metshop.top/huya/11342412
 虎牙-林正英,http://43.138.170.29:35455/huya/11342421
 虎牙-沈腾,http://43.138.170.29:35455/huya/11601968
@@ -576,7 +577,7 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 埋堆堆17,https://yang-1989.eu.org/live/huya/23903130
 埋堆堆18,https://yang-1989.eu.org/live/huya/23734169
 「动画」茶啊二中,https://yang-1989.eu.org/live/huya/11213191
-「解说」大象投影室,https://yang-1989.eu.org/live/huya/21277391
+「解说」投影室,https://yang-1989.eu.org/live/huya/21277391
 「解说」电视剧,https://yang-1989.eu.org/live/huya/25018873
 「解说」电影•1,https://yang-1989.eu.org/live/huya/20289754
 「解说」电影•2,https://yang-1989.eu.org/live/huya/24983280
@@ -592,19 +593,14 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 「录像」互扇巴掌大赛,https://yang-1989.eu.org/live/huya/20072873
 「录像」荒野求生,https://yang-1989.eu.org/live/huya/593667
 「录像」 野行者,https://yang-1989.eu.org/live/huya/20072663
-「轮播」跳舞,https://yang-1989.eu.org/live/huya/24634408
-「轮播」乐高大师赛,https://yang-1989.eu.org/live/huya/26355776
 「轮播」国产悬疑,https://yang-1989.eu.org/live/huya/11342395
 「轮播」成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
-「轮播」电影•1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
 「轮播」哆啦A梦,https://yang-1989.eu.org/live/huya/11601963
-「动漫」航海王,https://yang-1989.eu.org/live/huya/16913382
 「欧美」电影•1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 七龙珠改,https://yang-1989.eu.org/live/huya/11601966
-香港电影,https://yang-1989.eu.org/live/huya/11602058
-樱桃小丸子「中配」,http://zzy789.xyz/bili.php?id=23242774
-中华小当家,https://yang-1989.eu.org/live/huya/11342413
-T-ARA,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9 543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+
+
+
 
 游戏赛事,#genre#
 象棋小李飞刀,https://openhls-tct.douyucdn2.cn/dyliveflv3/851040r2SmOGqDNa_900.m3u8?txSecret=3e1b73317e41efc7cb798f608834042d&txTime=6560bf1b&token=h5-douyu-0-851040-42a065499596301db2e51a4e084b77db&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play3&sid=371763439
@@ -630,7 +626,6 @@ T-ARA,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf
 和平精英-2,https://yang-1989.eu.org/live/douyu/999
 金之战-1,https://yang-1989.eu.org/live/huya/660579
 金之战-2,https://yang-1989.eu.org/live/douyu/9715241
-CSGO,https://yang-1989.eu.org/live/huya/eslcsgo
 DOTA2-1,https://yang-1989.eu.org/live/huya/660118
 DOTA2-2,https://yang-1989.eu.org/live/douyu/30
 云顶之弈,https://yang-1989.eu.org/live/douyu/522423
