@@ -617,6 +617,7 @@ T-ARA,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf
 
 游戏赛事,#genre#
 象棋小李飞刀,https://openhls-tct.douyucdn2.cn/dyliveflv3/851040r2SmOGqDNa_900.m3u8?txSecret=3e1b73317e41efc7cb798f608834042d&txTime=6560bf1b&token=h5-douyu-0-851040-42a065499596301db2e51a4e084b77db&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play3&sid=371763439
+象棋九妹,https://openhls-tct.douyucdn2.cn/dyliveflv3a/6264482rZeLFCrua_900.m3u8?txSecret=5e0b4589fbfe5bdbbe95c0af8dcc8d95&txTime=6560c119&token=h5-douyu-0-6264482-daef3f562fe02db15b948445218dc36f&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play4&sid=371758521
 「虎牙」英雄联盟-1,https://yang-1989.eu.org/live/huya/660000
 「虎牙」英雄联盟-2,https://yang-1989.eu.org/live/huya/660001
 「斗鱼」英雄联盟-3,https://yang-1989.eu.org/live/douyu/288016
