@@ -126,24 +126,6 @@ J2,http://r.jdshipin.com/ndGgS#http://r.jdshipin.com/Nr5jq
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 咪咕直播,#genre#
 咪咕直播4K-1,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播4K-2,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
@@ -337,9 +319,6 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 虎牙-止戈电影,http://43.138.170.29:35455/huya/19863777
 虎牙-中国功夫,http://43.138.170.29:35455/huya/11352941
 虎牙-朱雀青龙,http://43.138.170.29:35455/huya/11352905
-
-
-
 
 斗鱼轮播,#genre#
 欢乐综艺,http://mmitv.top/test/douyu.php?id=131977
@@ -556,6 +535,12 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 斗鱼电2y,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影3y,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影4y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+象棋小李飞刀,https://openhls-tct.douyucdn2.cn/dyliveflv3/851040r2SmOGqDNa_900.m3u8?txSecret=3e1b73317e41efc7cb798f608834042d&txTime=6560bf1b&token=h5-douyu-0-851040-42a065499596301db2e51a4e084b77db&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play3&sid=371763439
+象棋九妹,https://openhls-tct.douyucdn2.cn/dyliveflv3a/6264482rZeLFCrua_900.m3u8?txSecret=5e0b4589fbfe5bdbbe95c0af8dcc8d95&txTime=6560c119&token=h5-douyu-0-6264482-daef3f562fe02db15b948445218dc36f&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play4&sid=371758521
+象棋帽子哥,https://openhls-tct.douyucdn2.cn/dyliveflv3/4487219rEc1mY448_900.m3u8?txSecret=1e010d97d93d787347832f2c09c19613&txTime=6560c26a&token=h5-douyu-0-4487219-6bd3d9669b39f172f25b977e691ad564&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play3&sid=371774801
+象棋小王子,https://openhls-tct.douyucdn2.cn/dyliveflv3a/10237093rNe7bDUT_900.m3u8?txSecret=b44ce70326207bdd382f464c2433cb0d&txTime=6560c1c2&token=h5-douyu-0-10237093-1113f76ad821ebfe885e74bbd07d5052&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play4&sid=371482679
+
+
 
 埋堆堆,#genre#
 埋堆堆1,https://yang-1989.eu.org/live/huya/23749096
@@ -603,10 +588,7 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 
 
 游戏赛事,#genre#
-象棋小李飞刀,https://openhls-tct.douyucdn2.cn/dyliveflv3/851040r2SmOGqDNa_900.m3u8?txSecret=3e1b73317e41efc7cb798f608834042d&txTime=6560bf1b&token=h5-douyu-0-851040-42a065499596301db2e51a4e084b77db&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play3&sid=371763439
-象棋九妹,https://openhls-tct.douyucdn2.cn/dyliveflv3a/6264482rZeLFCrua_900.m3u8?txSecret=5e0b4589fbfe5bdbbe95c0af8dcc8d95&txTime=6560c119&token=h5-douyu-0-6264482-daef3f562fe02db15b948445218dc36f&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play4&sid=371758521
-象棋帽子哥,https://openhls-tct.douyucdn2.cn/dyliveflv3/4487219rEc1mY448_900.m3u8?txSecret=1e010d97d93d787347832f2c09c19613&txTime=6560c26a&token=h5-douyu-0-4487219-6bd3d9669b39f172f25b977e691ad564&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play3&sid=371774801
-象棋小王子,https://openhls-tct.douyucdn2.cn/dyliveflv3a/10237093rNe7bDUT_900.m3u8?txSecret=b44ce70326207bdd382f464c2433cb0d&txTime=6560c1c2&token=h5-douyu-0-10237093-1113f76ad821ebfe885e74bbd07d5052&did=7a675eb9b25bdf80e5c12109000817p1&origin=tct&vhost=play4&sid=371482679
+
 英雄联盟-1,https://yang-1989.eu.org/live/huya/660000
 英雄联盟-2,https://yang-1989.eu.org/live/huya/660001
 英雄联盟-3,https://yang-1989.eu.org/live/douyu/288016
