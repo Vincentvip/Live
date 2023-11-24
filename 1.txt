@@ -616,7 +616,7 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 T-ARA,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9 543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 
 游戏赛事,#genre#
-
+11,https://tc-tct.douyucdn2.cn/dyliveflv3/11261125rQuBUEfn.flv?wsAuth=4f59f5363e722feaa4249c72ab18353d&token=web-h5-0-11261125-80ceba4218f8bee19f0b8b8e55a2afff75b7e36e15f89ddf&logo=0&expire=0&did=50ab0f31b137b5f74efeb49c00081701&ver=Douyu_222082905&pt=2&st=0&sid=371769365&mcid2=0&origin=tct&mix=0&isp=
 「虎牙」英雄联盟-1,https://yang-1989.eu.org/live/huya/660000
 「虎牙」英雄联盟-2,https://yang-1989.eu.org/live/huya/660001
 「斗鱼」英雄联盟-3,https://yang-1989.eu.org/live/douyu/288016
