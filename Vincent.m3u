@@ -1028,8 +1028,8 @@ https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 
 
 
-
-
+#EXTINF:-1 group-title="地方台",汕头综合
+https://sttv-tsl.cutv.com/lKGXIQa/d2sl4G0.m3u8
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="地方台",浙江公共新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="地方台",浙江国际
