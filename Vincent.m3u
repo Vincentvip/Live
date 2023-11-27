@@ -1107,8 +1107,8 @@ https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 
 
 
-
-
+#EXTINF:-1 group-title="地方台",汕头综合
+http://player.200877926.top/169l/0/tide/tidem3u8.php?id=stxwzh
 #EXTINF:-1 group-title="地方台",汕头综合
 https://sttv-tsl.cutv.com/lKGXIQa/s2sgK4X.m3u8
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="地方台",浙江公共新闻
