@@ -780,11 +780,11 @@ rtmp://9sv1.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="粤港澳台",纬来体育
 https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="粤港澳台",緯來日本
-http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+https://euj1.scdn.pp.ua/live/vl_jp.m3u8?token=91kPVsgsch0atgfv6rPk5A&expires=1701274029
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="粤港澳台",緯來日本台
 rtmp://9sv1.mine.nu:1935/sat/tv771
 #EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="粤港澳台",緯來育樂台
-rtmp://9sv1.mine.nu:1935/sat/tv701
+https://euj1.scdn.pp.ua/live/vl_maxtv.m3u8?token=ZjPvBfuJB-zYPmtk_mkwIg&expires=1701274221
 
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="粤港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
