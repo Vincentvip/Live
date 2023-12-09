@@ -1398,15 +1398,15 @@ http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 #EXTINF:-1 group-title="地方台",「广东」广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 #EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="地方台",广州综合
-https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65706f45&txSecret=1a63607edd9de503aea7339efdbfb3ce
+http://r.jdshipin.com/iR6Gq
 #EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="地方台",广州影视
-https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=65706f22&txSecret=d50869af0879ff3900e8a1e178888947
+http://r.jdshipin.com/TcKr2
 #EXTINF:-1 group-title="地方台",「广东」广州新闻
 https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=65706e51&txSecret=a6856a32e437a7dade881770554d7d85
 #EXTINF:-1 group-title="地方台",「广东」广州新闻
 https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=65706ecb&txSecret=9ef9a279d3f3133747d3e40c6d4add54
 #EXTINF:-1 group-title="地方台",「广东」广州南国都市
-https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=65706f7c&txSecret=4cac540a9439f9f0507ddba9b8d421c2
+http://r.jdshipin.com/nWaZO
 #EXTINF:-1 group-title="地方台",「广东」清新综合
 http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
 #EXTINF:-1 group-title="地方台",「广东」韶关公共
