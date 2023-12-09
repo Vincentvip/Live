@@ -725,9 +725,9 @@ http://113.117.74.17:8081/hls/66/index.m3u8
 https://epg.pw/stream/306b0c28c52f4dda8a6c1fe43724b1ab5eb77c847760adb81df408dbc35de1cd.m3u8
 #EXTINF:-1 group-title="粤港澳台",广东新闻
 https://php.17186.eu.org/gdtv/xwpd.m3u8
-#EXTINF:-1 tvg-id="14227" tvg-name="廣東體育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png" group-title="粤港澳台",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png" group-title="粤港澳台",广东体育
 https://epg.pw/stream/1f8c60e6c05b69be6816ad240d74aa967881eec688ed90972c434d2f6a79f5df.m3u8
-#EXTINF:-1 tvg-id="14227" tvg-name="廣東體育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png" group-title="粤港澳台",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png" group-title="粤港澳台",广东体育
 https://epg.pw/stream/836af75f6a9d7292a256cf4a30da02f240d47095a83a85c377351a219fd0f6f9.ctv
 #EXTINF:-1 group-title="粤港澳台",大湾区卫视
 https://epg.pw/stream/c079dca70700c8feb4f52998795bbdb5dc4b21508edc7b98e99429c0492694f3.m3u8
@@ -742,7 +742,7 @@ http://113.117.74.18:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
 https://pi.0472.org/tv/fct.php?auth=231122
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
-http://r.jdshipin.com/62WM7
+http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
 https://pi.0472.org/tv/fct.php?auth=231110
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
