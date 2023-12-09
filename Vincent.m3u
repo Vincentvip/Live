@@ -780,9 +780,9 @@ rtmp://9sv1.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="粤港澳台",纬来体育
 https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="粤港澳台",緯來日本
-https://euj1.scdn.pp.ua/live/vl_jp.m3u8?token=91kPVsgsch0atgfv6rPk5A&expires=1701274029
+rtmp://9sv2.mine.nu:1935/sat/tv771
 #EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="粤港澳台",緯來日本台
-https://euj1.scdn.pp.ua/live/vl_jp.m3u8?token=9cH169YKZwQiXkH9KivJSw&expires=1702064617
+rtmp://9sv2.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="粤港澳台",緯來育樂台
 https://euj1.scdn.pp.ua/live/vl_maxtv.m3u8?token=uzf9Uv1by7j6kp25IQnWVA&expires=1702064743
 #EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="粤港澳台",緯來電影
