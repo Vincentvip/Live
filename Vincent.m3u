@@ -711,6 +711,36 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕IPV4",咪咕直播-2-4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
+#EXTINF:-1 group-title="百视通IPV6",百视通-1
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001148/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通-2
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001149/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通-3
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001150/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通-4
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001151/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通5
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001152/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通-6
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001153/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通-7
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001154/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通-8
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通-9
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通-10
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?love=freedom
+#EXTINF:-1 group-title="百视通IPV6",百视通-11
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?love=freedom
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="粤港澳台",广东珠江
