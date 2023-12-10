@@ -738,20 +738,20 @@ http://113.117.74.18:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="粤港澳台",凤凰香港
 http://113.117.74.18:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
-
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="粤港澳台",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="粤港澳台",明珠台
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="粤港澳台",明珠台
 
-#EXTINF:-1 tvg-name="J2" group-title="粤港澳台",J2
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="粤港澳台",明珠台
+  
+#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="粤港澳台",J2
 http://r.jdshipin.com/ndGgS
-#EXTINF:-1 tvg-name="J2" group-title="粤港澳台",J2
+#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="粤港澳台",J2
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="粤港澳台",无线新闻
 https://tv.iill.top/tvb/4
@@ -761,12 +761,12 @@ http://r.jdshipin.com/CkuBd
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="粤港澳台",无线财经
 https://tv.iill.top/tvb/6
-#EXTINF:-1 tvg-name="星河台" group-title="粤港澳台",星河台
+#EXTINF:-1 tvg-name="星河台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="粤港澳台",星河台
 http://113.117.74.17:8081/hls/135/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="粤港澳台",ELEVEN体育1
 
-#EXTINF:-1 tvg-id="ELEVEN体育二台" tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN體育2台.png" group-title="粤港澳台",ELEVEN体育2
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ELEVEN體育2台.png" group-title="粤港澳台",ELEVEN体育2
 
 
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="粤港澳台",纬来体育
@@ -788,7 +788,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="粤港澳台",香港面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
 #EXTINF:-1 group-title="粤港澳台",大爱2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="粤港澳台",大立电视
@@ -4102,7 +4101,176 @@ https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
 #EXTINF:-1 " group-title="MV",歌团★050
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
-
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpMuw6AUoroLfpgI.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-fyo6wUoguOg8AI.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-Pyo6wUo9LOQ5wQ.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2o6wUosrrb8wc.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnPuo6wUoyJq9hAQ.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggp7b7AUoxcGpzAI.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9v2o6wUo-qKlDA.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1v2o6wUoquagcw.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1v2o6wUoqeWjygM.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0f2o6wUoh8b60gQ.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6J7b7AUoyuWWAw.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6Yzg7AUo4PKNwgM.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggo3g7AUoiM7l7Qc.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0fOR7QUoxrCY2AU.mp4
+#EXTINF:-1 group-title="MV",MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmvSR7QUoyNbK5wQ.mp4
+#EXTINF:-1 group-title="MV",欧美MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_tya4gUo9PKb1QQ.mp4
+#EXTINF:-1 group-title="MV",欧美MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4J2b4gUowKTr0AY.mp4
+#EXTINF:-1 group-title="MV",欧美MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy5ac4gUo7aaGpAQ.mp4
+#EXTINF:-1 group-title="MV",欧美MV.4k
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghq2c4gUowI2L2AI.mp4
+#EXTINF:-1 group-title="MV",舞曲视频
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsMiThQYo2K-O9wQ.mp4
+#EXTINF:-1 group-title="MV",舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzciThQYosK_E0QE.mp4
+#EXTINF:-1 group-title="MV",舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2ciThQYonJO4pgc.mp4
+#EXTINF:-1 group-title="MV",舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvsmThQYozPzOoAQ.mp4
+#EXTINF:-1 group-title="MV",印度神曲1
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg56m04gUokIbBswU.mp4
+#EXTINF:-1 group-title="MV",舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjIPxhwYoufCDrgM.mp4
+#EXTINF:-1 group-title="MV",舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkYPxhwYo2NOyswQ.mp4
+#EXTINF:-1 group-title="MV",舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5YHxhwYorP3XqQY.mp4
+#EXTINF:-1 group-title="MV",舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgru28hwYo9I37jAM.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4oLxhwYo1OOw_Qc.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3YLxhwYo-I3xigQ.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg24LxhwYowK6lUA.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj4PxhwYouNP3_AE.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghoPxhwYo1MrCBA.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghoPxhwYo9buQ_QI.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp4PxhwYo6eLmugQ.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoLxhwYorK_AugI.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguILxhwYojOq7zgY.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt4LxhwYo4IWt2gc.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtILxhwYolI2_GA.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtILxhwYo46Hw5QU.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6YHxhwYo--bAzAI.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj4LxhwYogMe80AY.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjILxhwYo9Z-U3wE.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkILxhwYo3urf9QE.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgge68hwYom6mChwU.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgru68hwYokLrdyAc.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgse68hwYoiN6MlgI.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1u68hwYoifOS2wQ.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0_28hwYogqqamAU.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2u28hwYogq2LwgU.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1u28hwYo6L3_0Ac.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggO68hwYo5qbjzgc.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgre28hwYovPDkNQ.mp4
+#EXTINF:-1 group-title="MV",舞曲MV
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4_28hwYo8a7e1wU.mp4
+#EXTINF:-1 group-title="MV",舞曲mv
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgje68hwYoirvtpAc.mp4
+#EXTINF:-1 group-title="MV",舞曲mv
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp_68hwYojOGw8AU.mp4
+#EXTINF:-1 group-title="MV",华语mv
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi9vx9wUogMjN7wI.mp4
+#EXTINF:-1 group-title="MV",华语舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkt3x9wUosKqzkQU.mp4
+#EXTINF:-1 group-title="MV",感舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0__p4gUo3tvg8AY.mp4
+#EXTINF:-1 group-title="MV",电音舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxeap4gUorKXMlAI.mp4
+#EXTINF:-1 group-title="MV",感舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOKp4gUo9bbBkAI.mp4
+#EXTINF:-1 group-title="MV",电音女王
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9tqp4gUoptCOgQQ.mp4
+#EXTINF:-1 group-title="MV",夜店劲爆舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-IWo4gUoy8LUiQU.mp4
+#EXTINF:-1 group-title="MV",俄罗斯夜店
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6Gg4gUo7pyY0QM.mp4
+#EXTINF:-1 group-title="MV",俄罗斯新感舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz_Sa4gUohOSn6gQ.mp4
+#EXTINF:-1 group-title="MV",德国舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgneOa4gUoovj1pQM.mp4
+#EXTINF:-1 group-title="MV",欧美新感djdj
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-d6a4gUon7WNogc.mp4
+#EXTINF:-1 group-title="MV",欧美舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnqyM5gUo2Oe2wgU.mp4
+#EXTINF:-1 group-title="MV",欧美舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5-Ks4gUoxIuY9QM.mp4
+#EXTINF:-1 group-title="MV",欧美舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguuWs4gUoiNTngQM.mp4
+#EXTINF:-1 group-title="MV",欧美劲爆舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxOGs4gUo7t7A-AY.mp4
+#EXTINF:-1 group-title="MV",新感舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg076s4gUo4MDtygI.mp4
+#EXTINF:-1 group-title="MV",现场舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgrNiq4gUoxJr06AM.mp4
+#EXTINF:-1 group-title="MV",欧美劲爆舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_n4gUorIudNQ.mp4
+#EXTINF:-1 group-title="MV",南飞劲爆舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgm_Cn4gUogPfoqgM.mp4
+#EXTINF:-1 group-title="MV",欧美动感舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzr6n4gUowMTmrwY.mp4
+#EXTINF:-1 group-title="MV",欧美火爆舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyrWn4gUoppu0mQc.mp4
+#EXTINF:-1 group-title="MV",东欧动感舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-ben4gUo-OO4sgU.mp4
+#EXTINF:-1 group-title="MV",新感舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv_yl4gUouY29igM.mp4
+#EXTINF:-1 group-title="MV",电音嗨曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8oml4gUozZjwkQM.mp4
+#EXTINF:-1 group-title="MV",混音舞
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn9_h4gUowJGR1wY.mp4
+#EXTINF:-1 group-title="MV",新感舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmdqh4gUomOXg0wc.mp4
+#EXTINF:-1 group-title="MV",欧美电音舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg27_h4gUo4KbldQ.mp4
+#EXTINF:-1 group-title="MV",慢摇舞蹈
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_Lqh4gUo3PuurgQ.mp4
+#EXTINF:-1 group-title="MV",电子舞曲
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9pyh4gUog7CFAg.mp4
 
 
 #EXTINF:-1 group-title="少儿频道",卡酷少儿
@@ -7711,29 +7879,7 @@ https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-web-us-west-2-tunein-com.s3-us-west-2.amazonaws.com/assets/img/shared/tiles/todays-hits-small.jpg" group-title="广播" radio="true",Today’s Hits
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/newpophits.png" group-title="广播" radio="true",Pop Hits
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249914/images/logod.png?t=1" group-title="广播" radio="true",Alternative Hits
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="广播" radio="true",Country Hits
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s224628/images/logog.jpg?t=4" group-title="广播" radio="true",Country Roads
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249937/images/logog.jpg?t=2" group-title="广播" radio="true",Relax & Unwind
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249973/images/logog.jpg?t=162282" group-title="广播" radio="true",Smooth Jazz
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s291088g.png" group-title="广播" radio="true",The Hit List
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s303095/images/logod.png?t=158589" group-title="广播" radio="true",Dance One
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-profiles.tunein.com/g385/images/logod.png?t=636564760576470000" group-title="广播" radio="true",Disco Beats
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="广播" radio="true",Today's Country Hits
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s293704g.png" group-title="广播" radio="true",Coffee House ☕️
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="广播" radio="true",Big B Radio - 中文流行
 http://cpop.bigbradio.net/s
