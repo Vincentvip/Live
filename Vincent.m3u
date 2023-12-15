@@ -897,11 +897,6 @@ http://88994232.top:8000/udp/239.77.1.238:5146
 http://88994232.top:8000/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-id="南方购物" group-title="「广东」",「广东」南方购物
 http://88994232.top:8000/udp/239.77.0.019:5146
-#EXTINF:-1 group-title="「广东」",「广东」新闻综合
-http://88994232.top:8000/udp/239.77.0.117:5146
-#EXTINF:-1 group-title="「广东」",「广东」新闻综合
-http://88994232.top:8000/udp/239.77.0.025:5146
-
 #EXTINF:-1 group-title="「广东」"tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",「广东」广东少儿
 http://88994232.top:8000/udp/239.77.0.250:5146
 #EXTINF:-1 group-title="「广东」",「广东」深圳少儿
@@ -925,12 +920,12 @@ http://88994232.top:8000/udp/239.77.1.128:5146
 #EXTINF:-1 group-title="「广东」",「广东」惠州1
 http://88994232.top:8000/udp/239.77.1.232:5146
 #EXTINF:-1 group-title="「广东」",「广东」惠州2
-http://88994232.top:8000/udp/239.77.1.232:5146
-#EXTINF:-1 group-title="「广东」",「广东」韶关综合
+http://88994232.top:8000/udp/239.77.1.233:5146
+#EXTINF:-1 group-title="「广东」",「广东」韶关新闻综合
 http://88994232.top:8000/udp/239.77.0.117:5146
-#EXTINF:-1 group-title="「广东」",「广东」新闻综合
+#EXTINF:-1 group-title="「广东」",「广东」湛江新闻综合
 http://88994232.top:8000/udp/239.77.0.141:5146
-#EXTINF:-1 group-title="「广东」",「广东」公共
+#EXTINF:-1 group-title="「广东」",「广东」湛江公共
 http://88994232.top:8000/udp/239.77.0.140:5146
 #EXTINF:-1 group-title="「广东」",「广东」珠海2
 http://88994232.top:8000/udp/239.77.0.154:5146
@@ -942,7 +937,7 @@ http://88994232.top:8000/udp/239.77.0.201:5146
 http://88994232.top:8000/udp/239.77.0.202:5146
 #EXTINF:-1 group-title="「广东」",「广东」茂名综合
 http://88994232.top:8000/udp/239.77.0.206:5146
-#EXTINF:-1 group-title="「广东」",「广东」文化生活
+#EXTINF:-1 group-title="「广东」",「广东」茂名文化生活
 http://88994232.top:8000/udp/239.77.0.207:5146
 #EXTINF:-1 group-title="「广东」",「广东」揭阳综合
 http://88994232.top:8000/udp/239.77.0.229:5146
@@ -951,11 +946,14 @@ http://88994232.top:8000/udp/239.77.0.251:5146
 #EXTINF:-1 group-title="「广东」",「广东」云浮综合
 http://88994232.top:8000/udp/239.77.0.253:5146
 #EXTINF:-1 group-title="「广东」",「广东」云浮文旅
-http://88994232.top:8000/udp/239.77.0.253:5146
+http://88994232.top:8000/udp/239.77.0.254:5146
 #EXTINF:-1 group-title="「广东」",「广东」中国交通
 http://88994232.top:8000/udp/239.77.1.249:5146
+#EXTINF:-1 group-title="「广东」",「广东」新闻综合
+http://88994232.top:8000/udp/239.77.0.025:5146
 #EXTINF:-1 group-title="「广东」",「广东」测试
 http://88994232.top:8000/udp/239.77.1.234:5146
+
 
 
 
