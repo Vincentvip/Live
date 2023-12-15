@@ -1005,15 +1005,12 @@ http://113.117.74.17:8081/hls/135/index.m3u8
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="港澳台「测试」",纬来体育
 https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="港澳台「测试」",緯來日本
-rtmp://9sv2.mine.nu:1935/sat/tv771
-#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="港澳台「测试」",緯來日本台
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="港澳台「测试」",緯來日本
 rtmp://9sv2.mine.nu/sat/tv771
-#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="港澳台「测试」",緯來育樂台
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="港澳台「测试」",緯來育樂
 https://euj1.scdn.pp.ua/live/vl_maxtv.m3u8?token=uzf9Uv1by7j6kp25IQnWVA&expires=1702064743
 #EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="港澳台「测试」",緯來電影
 https://epg.pw/stream/e204d3abd83493f0ce9ddd71c5d573f9726c6be6628a2b106208ce061b700cae.m3u8
-
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台「测试」",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="港澳台「测试」",大立电视台
@@ -1594,8 +1591,6 @@ https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=65706ecb&txSecret=9ef9a2
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 #EXTINF:-1 group-title="地方台IPV4",「广东」广州南国都市
 http://r.jdshipin.com/nWaZO
-#EXTINF:-1 group-title="地方台IPV4",「广东」清新综合
-http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
 #EXTINF:-1 group-title="地方台IPV4",「广东」韶关公共
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
 #EXTINF:-1 group-title="地方台IPV4",「广东」韶关综合
@@ -10005,7 +10000,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8
 
 
-#EXTINF:-1 group-title="请加微信dywwst8售后",2023.12.14更新
+#EXTINF:-1 group-title="请加微信dywwst8售后",2023.12.15更新
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 
