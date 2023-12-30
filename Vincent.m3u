@@ -324,6 +324,15 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="卫视IPV6",广东珠江
 http://[2409:8087:7001:20:1000::4]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="卫视IPV6",广东新闻
+http://php.jdshipin.com:8880/chudian.php?id=gdxw
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="卫视IPV6",广东体育
+https://php.17186.eu.org/gdtv/gdty.m3u8
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="卫视IPV6",广东体育
+http://r.jdshipin.com/LiYdg
+
+
+
 
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视IPV4",北京卫视
@@ -859,163 +868,6 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?lov
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?love=freedom
 
 
-
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="「广东」",「广东」广东珠江
-http://88994232.top:8000/udp/239.77.0.001:5146
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="「广东」",「广东」广东珠江
-http://88994232.top:8000/udp/239.77.0.114:5146
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="「广东」",「广东」广东体育
-http://88994232.top:8000/udp/239.77.0.112:5146
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="「广东」",「广东」广东体育
-http://88994232.top:8000/udp/239.77.0.168:5146
-#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="「广东」",「广东」广东新闻
-http://88994232.top:8000/udp/239.77.0.173:5146
-#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="「广东」",「广东」,广东经济科教
-http://88994232.top:8000/udp/239.77.0.085:5146
-#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="「广东」",「广东」,广东经济科教
-http://88994232.top:8000/udp/239.77.0.167:5146
-#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="「广东」",「广东」广东影视
-http://88994232.top:8000/udp/239.77.0.217:5146
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="「广东」",「广东」广东民生
-http://88994232.top:8000/udp/239.77.0.225:5146
-#EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="「广东」",「广东」广东4K50F
-http://88994232.top:8000/udp/239.77.1.236:5146
-#EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="「广东」",「广东」广东4K
-http://88994232.top:8000/udp/239.77.1.237:5146
-#EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="「广东」",「广东」广东4K
-http://88994232.top:8000/udp/239.77.1.238:5146
-#EXTINF:-1,tvg-id="大湾区"tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="「广东」",「广东」大湾区频道
-http://88994232.top:8000/udp/239.77.0.215:5146
-#EXTINF:-1,tvg-id="南方购物" group-title="「广东」",「广东」南方购物
-http://88994232.top:8000/udp/239.77.0.019:5146
-#EXTINF:-1 group-title="「广东」"tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",「广东」广东少儿
-http://88994232.top:8000/udp/239.77.0.250:5146
-#EXTINF:-1 group-title="「广东」",「广东」深圳少儿
-http://88994232.top:8000/udp/239.77.1.244:5146
-#EXTINF:-1 group-title="「广东」",「广东」深圳都市
-http://88994232.top:8000/udp/239.77.1.124:5146
-#EXTINF:-1 group-title="「广东」",「广东」深圳财经生活
-http://88994232.top:8000/udp/239.77.1.242:5146
-
-#EXTINF:-1 group-title="「广东」",「广东」深圳娱乐
-http://88994232.top:8000/udp/239.77.1.243:5146
-#EXTINF:-1 group-title="「广东」",「广东」深圳电视剧
-http://88994232.top:8000/udp/239.77.1.125:5146
-#EXTINF:-1 group-title="「广东」",「广东」深圳公共
-http://88994232.top:8000/udp/239.77.1.126:5146
-#EXTINF:-1 group-title="「广东」",「广东」深圳体育
-http://88994232.top:8000/udp/239.77.1.128:5146
-#EXTINF:-1 group-title="「广东」",「广东」深圳众创TV
-http://88994232.top:8000/udp/239.77.1.247:5146
-#EXTINF:-1 group-title="「广东」",「广东」惠州1
-http://88994232.top:8000/udp/239.77.1.232:5146
-#EXTINF:-1 group-title="「广东」",「广东」惠州2
-http://88994232.top:8000/udp/239.77.1.233:5146
-#EXTINF:-1 group-title="「广东」",「广东」韶关新闻综合
-http://88994232.top:8000/udp/239.77.0.117:5146
-#EXTINF:-1 group-title="「广东」",「广东」湛江新闻综合
-http://88994232.top:8000/udp/239.77.0.141:5146
-#EXTINF:-1 group-title="「广东」",「广东」湛江公共
-http://88994232.top:8000/udp/239.77.0.140:5146
-#EXTINF:-1 group-title="「广东」",「广东」珠海2
-http://88994232.top:8000/udp/239.77.0.154:5146
-#EXTINF:-1 group-title="「广东」",「广东」珠海1
-http://88994232.top:8000/udp/239.77.0.155:5146
-#EXTINF:-1 group-title="「广东」",「广东」江门综合
-http://88994232.top:8000/udp/239.77.0.201:5146
-#EXTINF:-1 group-title="「广东」",「广东」江门侨乡生活
-http://88994232.top:8000/udp/239.77.0.202:5146
-#EXTINF:-1 group-title="「广东」",「广东」茂名综合
-http://88994232.top:8000/udp/239.77.0.206:5146
-#EXTINF:-1 group-title="「广东」",「广东」茂名文化生活
-http://88994232.top:8000/udp/239.77.0.207:5146
-#EXTINF:-1 group-title="「广东」",「广东」揭阳综合
-http://88994232.top:8000/udp/239.77.0.229:5146
-#EXTINF:-1 group-title="「广东」",「广东」揭阳生活
-http://88994232.top:8000/udp/239.77.0.251:5146
-#EXTINF:-1 group-title="「广东」",「广东」云浮综合
-http://88994232.top:8000/udp/239.77.0.253:5146
-#EXTINF:-1 group-title="「广东」",「广东」云浮文旅
-http://88994232.top:8000/udp/239.77.0.254:5146
-#EXTINF:-1 group-title="「广东」",「广东」中国交通
-http://88994232.top:8000/udp/239.77.1.249:5146
-#EXTINF:-1 group-title="「广东」",「广东」新闻综合
-http://88994232.top:8000/udp/239.77.0.025:5146
-#EXTINF:-1 group-title="「广东」",「广东」测试
-http://88994232.top:8000/udp/239.77.1.234:5146
-
-
-
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="「广东」",「低码率」广东珠江
-http://88994232.top:8000/udp/239.77.0.003:5146
-#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="「广东」",「低码率」广东新闻
-http://88994232.top:8000/udp/239.77.0.004:5146
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="「广东」",「低码率」广东民生
-http://88994232.top:8000/udp/239.77.0.005:5146
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="「广东」",「低码率」广东体育
-http://88994232.top:8000/udp/239.77.0.006:5146
-#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="「广东」",「低码率」,广东经济科教
-http://88994232.top:8000/udp/239.77.0.008:5146
-#EXTINF:-1,tvg-id="大湾区"tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="「广东」",「低码率」大湾区频道
-http://88994232.top:8000/udp/239.77.0.009:5146
-#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="「广东」",「低码率」广东影视
-http://88994232.top:8000/udp/239.77.0.013:5146
-
-#EXTINF:-1 group-title="「广东」",「广东」汕头综合
-http://88994232.top:8000/udp/239.77.1.130:5146
-#EXTINF:-1 group-title="「广东」",「广东」汕头经济生活
-http://88994232.top:8000/udp/239.77.1.131:5146
-#EXTINF:-1 group-title="「广东」",「广东」汕头文旅
-http://88994232.top:8000/udp/239.77.1.132:5146
-#EXTINF:-1,tvg-id="现代教育" group-title="「广东」",「低码率」现代教育
-http://88994232.top:8000/udp/239.77.0.018:5146
-#EXTINF:-1,tvg-id="广东移动" group-title="「广东」",「低码率」广东移动
-http://88994232.top:8000/udp/239.77.0.020:5146
-#EXTINF:-1 group-title="「广东」",「低码率」韶关新闻综合
-http://88994232.top:8000/udp/239.77.0.116:5146
-#EXTINF:-1 group-title="「广东」",「低码率」湛江新闻综合
-http://88994232.top:8000/udp/239.77.0.120:5146
-#EXTINF:-1 group-title="「广东」",「低码率」湛江公共
-http://88994232.top:8000/udp/239.77.0.121:5146
-#EXTINF:-1 group-title="「广东」",「低码率」揭阳综合
-http://88994232.top:8000/udp/239.77.0.157:5146
-#EXTINF:-1 group-title="「广东」",「低码率」揭阳生活
-http://88994232.top:8000/udp/239.77.0.158:5146
-#EXTINF:-1 group-title="「广东」",「低码率」江门综合
-http://88994232.top:8000/udp/239.77.0.195:5146
-#EXTINF:-1 group-title="「广东」",「低码率」江门侨乡生活
-http://88994232.top:8000/udp/239.77.0.196:5146
-#EXTINF:-1 group-title="「广东」",「低码率」茂名综合
-http://88994232.top:8000/udp/239.77.0.204:5146
-#EXTINF:-1 group-title="「广东」",「低码率」茂名文化生活
-http://88994232.top:8000/udp/239.77.0.205:5146
-#EXTINF:-1 group-title="「广东」",「低码率」南海
-http://88994232.top:8000/udp/239.77.0.236:5146
-#EXTINF:-1 group-title="「广东」",「低码率」惠州1
-http://88994232.top:8000/udp/239.77.0.247:5146
-#EXTINF:-1 group-title="「广东」",「低码率」惠州2
-http://88994232.top:8000/udp/239.77.0.248:5146
-
-#EXTINF:-1 group-title="「广东」",「低码率」深圳少儿
-http://88994232.top:8000/udp/239.77.1.038:5146
-#EXTINF:-1 group-title="「广东」",「低码率」深圳都市
-http://88994232.top:8000/udp/239.77.1.034:5146
-#EXTINF:-1 group-title="「广东」",「低码率」深圳财经生活
-http://88994232.top:8000/udp/239.77.1.022:5146
-
-#EXTINF:-1 group-title="「广东」",「低码率」深圳娱乐
-http://88994232.top:8000/udp/239.77.1.036:5146
-#EXTINF:-1 group-title="「广东」",「低码率」深圳电视剧
-http://88994232.top:8000/udp/239.77.1.007:5146
-#EXTINF:-1 group-title="「广东」",「低码率」深圳公共
-http://88994232.top:8000/udp/239.77.1.009:5146
-#EXTINF:-1 group-title="「广东」",「低码率」深圳体育
-http://88994232.top:8000/udp/239.77.1.008:5146
-
-#EXTINF:-1 group-title="「广东」",「低码率」珠海2
-http://88994232.top:8000/udp/239.77.1.231:5146
-#EXTINF:-1 group-title="「广东」",「低码率」珠海1
-http://88994232.top:8000/udp/239.77.1.230:5146
 
 
 
@@ -4314,6 +4166,44 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="国际",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 
+#EXTINF:-1 group-title="国际",HBO
+http://185.188.188.235/live/hbo/playlist.m3u8
+
+#EXTINF:-1 group-title="国际",HBO家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+
+#EXTINF:-1 group-title="国际",HBO喜剧
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="国际",HBO强档巨献
+http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+
+#EXTINF:-1 group-title="国际",HBO原创巨献
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 group-title="国际",福克斯新闻
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",国家地理
+http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+
+#EXTINF:-1 group-title="国际",国家地理
+https://stream5.woniuzfb.com/live/gjdl/KAOJMcRB.m3u8
+#EXTINF:-1 group-title="国际",TVBS高清
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="国际",TVBS新闻
+https://pull-f5-spe.ixigua.com/yeslivetv.com/2177241-676037635/index.m3u8?by=yeslivetv.com
+#EXTINF:-1 group-title="国际",BBC
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+
+https://pull-f5-spe.ixigua.com/yeslivetv.com/399e061f-ba37-4f8e-a57f-5153db9559a6/index.m3u8?by=yeslivetv.com
+#EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="国际",年代新闻台
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
+
+#EXTINF:-1,tvg-id="FOX Live Now" tvg-name="FOX Live Now" tvg-logo="https://upload.112114.xyz/logo/FOXLIVENOW.png" group-title="国际",FOX Live Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-id="CGTN Europe" tvg-name="CGTN Europe" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="国际",CGTN Europe
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,tvg-id="国家地理杂志" tvg-name="国家地理杂志" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174004832702_83.png" group-title="国际",国家地理杂志
+https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8
 
 #EXTINF:-1 group-title="游戏赛事",「虎牙」英雄联盟-1
 https://yang-1989.eu.org/live/huya/660000
@@ -4428,135 +4318,6 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb
 http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="游戏赛事",永劫无间
 http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-
-
-
-#EXTINF:-1 group-title="埋堆堆",埋堆堆1
-https://yang-1989.eu.org/live/huya/23749096
-#EXTINF:-1 group-title="埋堆堆",埋堆堆2
-https://yang-1989.eu.org/live/huya/23735126
-#EXTINF:-1 group-title="埋堆堆",埋堆堆3
-https://yang-1989.eu.org/live/huya/23865152
-#EXTINF:-1 group-title="埋堆堆",埋堆堆4
-https://yang-1989.eu.org/live/huya/23903196
-#EXTINF:-1 group-title="埋堆堆",埋堆堆5
-https://yang-1989.eu.org/live/huya/23740156
-#EXTINF:-1 group-title="埋堆堆",埋堆堆6
-https://yang-1989.eu.org/live/huya/23728660
-#EXTINF:-1 group-title="埋堆堆",埋堆堆7
-https://yang-1989.eu.org/live/huya/23865058
-#EXTINF:-1 group-title="埋堆堆",埋堆堆8
-https://yang-1989.eu.org/live/huya/23734183
-#EXTINF:-1 group-title="埋堆堆",埋堆堆9
-https://yang-1989.eu.org/live/huya/23865036
-#EXTINF:-1 group-title="埋堆堆",埋堆堆10
-https://yang-1989.eu.org/live/huya/23734246
-#EXTINF:-1 group-title="埋堆堆",埋堆堆11
-https://yang-1989.eu.org/live/huya/23863796
-#EXTINF:-1 group-title="埋堆堆",埋堆堆12
-https://yang-1989.eu.org/live/huya/23749083
-#EXTINF:-1 group-title="埋堆堆",埋堆堆13
-https://yang-1989.eu.org/live/huya/23824164
-#EXTINF:-1 group-title="埋堆堆",埋堆堆14
-https://yang-1989.eu.org/live/huya/23863804
-#EXTINF:-1 group-title="埋堆堆",埋堆堆15
-https://yang-1989.eu.org/live/huya/23865142
-#EXTINF:-1 group-title="埋堆堆",埋堆堆16
-https://yang-1989.eu.org/live/huya/23903183
-#EXTINF:-1 group-title="埋堆堆",埋堆堆17
-https://yang-1989.eu.org/live/huya/23903130
-#EXTINF:-1 group-title="埋堆堆",埋堆堆18
-https://yang-1989.eu.org/live/huya/23734169
-
-
-#EXTINF:-1 group-title="埋堆堆",「动画」茶啊二中
-https://yang-1989.eu.org/live/huya/11213191
-#EXTINF:-1 group-title="埋堆堆",「解说」大象投影室
-https://yang-1989.eu.org/live/huya/21277391
-#EXTINF:-1 group-title="埋堆堆",「解说」电视剧
-https://yang-1989.eu.org/live/huya/25018873
-#EXTINF:-1 group-title="埋堆堆",「解说」电影•1
-https://yang-1989.eu.org/live/huya/20289754
-#EXTINF:-1 group-title="埋堆堆",「解说」电影•2
-https://yang-1989.eu.org/live/huya/24983280
-#EXTINF:-1 group-title="埋堆堆",「解说」电影•3
-https://yang-1989.eu.org/live/huya/24396428
-#EXTINF:-1 group-title="埋堆堆",「解说」•1
-https://yang-1989.eu.org/live/huya/19757963
-#EXTINF:-1 group-title="埋堆堆",「解说」恐怖电影
-https://yang-1989.eu.org/live/huya/23419131
-#EXTINF:-1 group-title="埋堆堆",「解说」漫威
-https://yang-1989.eu.org/live/huya/17089779
-#EXTINF:-1 group-title="埋堆堆",「解说」美剧
-https://yang-1989.eu.org/live/huya/20488841
-#EXTINF:-1 group-title="埋堆堆",「解说」七龙珠
-https://yang-1989.eu.org/live/huya/25650806
-#EXTINF:-1 group-title="埋堆堆",「解说」止戈电影
-https://yang-1989.eu.org/live/huya/19863777
-#EXTINF:-1 group-title="埋堆堆",「录像」 挨饿德•1
-https://yang-1989.eu.org/live/huya/20985858
-#EXTINF:-1 group-title="埋堆堆",「录像」 挨饿德•2
-https://yang-1989.eu.org/live/huya/17693860
-#EXTINF:-1 group-title="埋堆堆",「录像」互扇巴掌大赛
-https://yang-1989.eu.org/live/huya/20072873
-#EXTINF:-1 group-title="埋堆堆",「录像」荒野求生
-https://yang-1989.eu.org/live/huya/593667
-#EXTINF:-1 group-title="埋堆堆",「录像」 野行者
-https://yang-1989.eu.org/live/huya/20072663
-#EXTINF:-1 group-title="埋堆堆",「轮播」跳舞
-https://yang-1989.eu.org/live/huya/24634408
-#EXTINF:-1 group-title="埋堆堆",「轮播」乐高大师赛
-https://yang-1989.eu.org/live/huya/26355776
-#EXTINF:-1 group-title="埋堆堆",「轮播」国产悬疑
-https://yang-1989.eu.org/live/huya/11342395
-#EXTINF:-1 group-title="埋堆堆",奥特曼
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key
-#EXTINF:-1 group-title="埋堆堆",「轮播」成龙
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
-#EXTINF:-1 group-title="埋堆堆",「轮播」电影•1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
-#EXTINF:-1 group-title="埋堆堆",「轮播」哆啦A梦
-https://yang-1989.eu.org/live/huya/11601963
-#EXTINF:-1 group-title="埋堆堆",「轮播」动漫
-http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.flv?wsAuth=874ec8068853bd13e2fa21a68f258440&token=cpn-androidmpro-0-206858-355488b41ed19088616f37e791a58f cf3679923943a09438&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="埋堆堆",「动漫」航海王
-https://yang-1989.eu.org/live/huya/16913382
-#EXTINF:-1 group-title="埋堆堆",怀旧动画
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-#EXTINF:-1 group-title="埋堆堆",「轮播」经典小品
-http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce14 0c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 group-title="埋堆堆",铠甲勇士
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_82_720P_t10/c53_lb_82_720P_t10.m3u8?key
-#EXTINF:-1 group-title="埋堆堆",拉拉队集锦
-http://111.62.156.15/tx.flv.huya.com/src/1099531627798-1099531627798-85899440409280512-2199063379052-10057-A-0-1.flv?wsSecret=eb319019991a1 dbf62b1b50ae3742474&wsTime=6283abbe&u=0&seqid=16527099506830430&ctype=tars_mp&fs=bgct&t= 102
-#EXTINF:-1 group-title="埋堆堆",林正英•1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-#EXTINF:-1 group-title="埋堆堆",林正英•2
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
-#EXTINF:-1 group-title="埋堆堆",猫和老鼠
-http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-#EXTINF:-1 group-title="埋堆堆",名侦探柯南
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-#EXTINF:-1 group-title="埋堆堆",「欧美」电影•1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
-#EXTINF:-1 group-title="埋堆堆",七龙珠改
-https://yang-1989.eu.org/live/huya/11601966
-#EXTINF:-1 group-title="埋堆堆",猫和老鼠
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-#EXTINF:-1 group-title="埋堆堆",猫和老鼠
-https://yang-1989.eu.org/live/huya/11352879
-#EXTINF:-1 group-title="埋堆堆",童年经典
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-#EXTINF:-1 group-title="埋堆堆",香港电影
-https://yang-1989.eu.org/live/huya/11602058
-#EXTINF:-1 group-title="埋堆堆",樱桃小丸子「中配」
-http://zzy789.xyz/bili.php?id=23242774
-#EXTINF:-1 group-title="埋堆堆",中华小当家
-https://yang-1989.eu.org/live/huya/11342413
-#EXTINF:-1 group-title="埋堆堆",T-ARA
-http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9 543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-
-
 
 
 
@@ -10024,47 +9785,9 @@ http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
 http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 
 
-#EXTINF:-1 group-title="敏",HBO
-http://185.188.188.235/live/hbo/playlist.m3u8
-
-#EXTINF:-1 group-title="敏",HBO家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-
-#EXTINF:-1 group-title="敏",HBO喜剧
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="敏",HBO强档巨献
-http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-
-#EXTINF:-1 group-title="敏",HBO原创巨献
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 group-title="敏",福克斯新闻
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="敏",国家地理
-http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-
-#EXTINF:-1 group-title="敏",国家地理
-https://stream5.woniuzfb.com/live/gjdl/KAOJMcRB.m3u8
-#EXTINF:-1 group-title="敏",TVBS高清
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="敏",TVBS新闻
-https://pull-f5-spe.ixigua.com/yeslivetv.com/2177241-676037635/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 group-title="敏",BBC
-http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
-
-https://pull-f5-spe.ixigua.com/yeslivetv.com/399e061f-ba37-4f8e-a57f-5153db9559a6/index.m3u8?by=yeslivetv.com
-#EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="敏",年代新闻台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
-
-#EXTINF:-1,tvg-id="FOX Live Now" tvg-name="FOX Live Now" tvg-logo="https://upload.112114.xyz/logo/FOXLIVENOW.png" group-title="敏",FOX Live Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-id="CGTN Europe" tvg-name="CGTN Europe" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="敏",CGTN Europe
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,tvg-id="国家地理杂志" tvg-name="国家地理杂志" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174004832702_83.png" group-title="敏",国家地理杂志
-https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8
 
 
-#EXTINF:-1 group-title="请加微信dywwst8售后",2023.12.25更新
+#EXTINF:-1 group-title="请加微信dywwst8售后",2023.12.30更新
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 
