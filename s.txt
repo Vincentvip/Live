@@ -1,2 +1,3 @@
 频道,#genre#
 汕头综合,https://sttv-tsl.cutv.com/lKGXIQa/x2sl3G0.m3u8
+汕头综合,http://player.200877926.top/169l/0/tide/tidem3u6.php?id=stxwzh
