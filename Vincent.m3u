@@ -2690,8 +2690,8 @@ http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 
 
 
-
-
+#EXTINF:-1 group-title="虎牙轮播",美食李子柒
+http://lxajh.top/tv/douyu.php?id=2901080
 #EXTINF:-1 group-title="虎牙轮播",虎牙-周星星
 https://live.metshop.top/huya/11342412
 #EXTINF:-1 group-title="虎牙轮播",虎牙-林正英
@@ -4772,94 +4772,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,tvg-id="国家地理杂志" tvg-name="国家地理杂志" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174004832702_83.png" group-title="国际",国家地理杂志
 https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8
 
-#EXTINF:-1 group-title="游戏赛事",「虎牙」英雄联盟-1
-https://yang-1989.eu.org/live/huya/660000
-#EXTINF:-1 group-title="游戏赛事",「虎牙」英雄联盟-2
-https://yang-1989.eu.org/live/huya/660001
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」英雄联盟-3
-https://yang-1989.eu.org/live/douyu/288016
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」英雄联盟-4
-https://yang-1989.eu.org/live/douyu/705690
-#EXTINF:-1 group-title="游戏赛事",「虎牙」王者荣耀-1
-https://yang-1989.eu.org/live/huya/660002
-#EXTINF:-1 group-title="游戏赛事",「虎牙」王者荣耀-2
-https://yang-1989.eu.org/live/huya/660164
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-3
-https://yang-1989.eu.org/live/douyu/1863767
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-4
-https://yang-1989.eu.org/live/douyu/1984839
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-5
-https://yang-1989.eu.org/live/douyu/2045445
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-6
-https://yang-1989.eu.org/live/douyu/3606468
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」王者荣耀-♀
-https://yang-1989.eu.org/live/douyu/667319
-#EXTINF:-1 group-title="游戏赛事",「虎牙」绝地求生-1
-https://yang-1989.eu.org/live/huya/660004
-#EXTINF:-1 group-title="游戏赛事",「虎牙」绝地求生-2
-https://yang-1989.eu.org/live/huya/660005
-#EXTINF:-1 group-title="游戏赛事",「虎牙」绝地求生-3
-https://yang-1989.eu.org/live/huya/660136
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」绝地求生-4
-https://yang-1989.eu.org/live/douyu/100
-#EXTINF:-1 group-title="游戏赛事",「虎牙」和平精英-1
-https://yang-1989.eu.org/live/huya/660006
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」和平精英-2
-https://yang-1989.eu.org/live/douyu/999
-#EXTINF:-1 group-title="游戏赛事",「虎牙」金之战-1
-https://yang-1989.eu.org/live/huya/660579
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」金之战-2
-https://yang-1989.eu.org/live/douyu/9715241
-#EXTINF:-1 group-title="游戏赛事",「虎牙」CSGO
-https://yang-1989.eu.org/live/huya/eslcsgo
-#EXTINF:-1 group-title="游戏赛事",「虎牙」DOTA2-1
-https://yang-1989.eu.org/live/huya/660118
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」DOTA2-2
-https://yang-1989.eu.org/live/douyu/30
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」云顶之弈
-https://yang-1989.eu.org/live/douyu/522423
-#EXTINF:-1 group-title="游戏赛事",「虎牙」永劫无间
-https://yang-1989.eu.org/live/huya/660115
-#EXTINF:-1 group-title="游戏赛事",「虎牙」使命召唤·手游-1
-https://yang-1989.eu.org/live/huya/11718629
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」使命召唤·手游-2
-https://yang-1989.eu.org/live/douyu/9223245
-#EXTINF:-1 group-title="游戏赛事",「虎牙」穿越火线-1
-https://yang-1989.eu.org/live/huya/660101
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」穿越火线-2
-https://yang-1989.eu.org/live/douyu/605964
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」穿越火线-3
-https://yang-1989.eu.org/live/douyu/5388537
-#EXTINF:-1 group-title="游戏赛事",「虎牙」穿越火线·手游
-https://yang-1989.eu.org/live/huya/660102
-#EXTINF:-1 group-title="游戏赛事",「虎牙」第五人格-1
-https://yang-1989.eu.org/live/huya/idvesports
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」第五人格-2
-https://yang-1989.eu.org/live/douyu/3226194
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」第五人格-3
-https://yang-1989.eu.org/live/douyu/11030737
-#EXTINF:-1 group-title="游戏赛事",「虎牙」逆战
-https://yang-1989.eu.org/live/huya/nsl2021
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」原神
-https://yang-1989.eu.org/live/douyu/10853239
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」QQ飞车·手游
-https://yang-1989.eu.org/live/douyu/5040227
-#EXTINF:-1 group-title="游戏赛事",「虎牙」无畏契约-1
-https://yang-1989.eu.org/live/huya/660679
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」无畏契约-2
-https://yang-1989.eu.org/live/douyu/4585645
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」JJ斗地主
-https://yang-1989.eu.org/live/douyu/488743
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」我的世界
-https://yang-1989.eu.org/live/douyu/738878
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」FIFA
-https://yang-1989.eu.org/live/douyu/7692166
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」火影忍者
-https://yang-1989.eu.org/live/douyu/1997723
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」跑跑卡丁车
-https://yang-1989.eu.org/live/douyu/7722576
-#EXTINF:-1 group-title="游戏赛事",「斗鱼」跑跑卡丁车·手游
-https://yang-1989.eu.org/live/douyu/6672862
+
 
 #EXTINF:-1 group-title="游戏赛事",穿越火线
 http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe78 38e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
