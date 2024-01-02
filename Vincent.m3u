@@ -4875,22 +4875,14 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e
 http://222.71.90.218:8888/newlive/live/hls/50/live.m3u8
 #EXTINF:-1 group-title="少儿频道",哈哈炫动
 http://222.71.90.218:8888/newlive/live/hls/52/live.m3u8
-#EXTINF:-1 group-title="少儿频道",金鹰卡通
-http://113.100.72.131:8899/rtp/239.77.0.164:5146
+
+
 #EXTINF:-1 group-title="少儿频道",金鹰卡通
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 #EXTINF:-1 group-title="少儿频道",黑莓动画
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
-#EXTINF:-1 group-title="少儿频道",嘉佳卡通
-http://113.100.72.131:8899/rtp/239.77.0.179:5146
-#EXTINF:-1 group-title="少儿频道",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
-#EXTINF:-1 group-title="少儿频道",广东少儿
-http://113.100.72.131:8899/rtp/239.77.0.250:5146
-#EXTINF:-1 group-title="少儿频道",深圳少儿
-http://113.100.72.131:8899/rtp/239.77.1.244:5146
-#EXTINF:-1 group-title="少儿频道",儿歌大全
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
+
+
 #EXTINF:-1 group-title="少儿频道",熊大过年
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 #EXTINF:-1 group-title="少儿频道",倒霉特熊
@@ -4915,14 +4907,7 @@ http://111.20.35.103:6610/000000001000/1000000002000000172/index.m3u8?channel-id
 http://111.20.35.103:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=00
 #EXTINF:-1 group-title="少儿频道",卡酷少儿
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8?
-#EXTINF:-1 group-title="少儿频道",南京少儿
-http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-#EXTINF:-1 group-title="少儿频道",南京少儿
-http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="少儿频道",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="少儿频道",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+
 #EXTINF:-1 group-title="少儿频道",优漫卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 #EXTINF:-1 group-title="少儿频道",嘉佳卡通
@@ -4931,30 +4916,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="少儿频道",金鹰卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
-#EXTINF:-1 group-title="少儿频道",央視少兒
-https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+
 #EXTINF:-1 group-title="少儿频道",靖天卡通
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
-#EXTINF:-1 group-title="少儿频道",青春動漫
-https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 group-title="少儿频道",動漫秀場
-https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
-#EXTINF:-1 group-title="少儿频道",哈哈炫動
-https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 group-title="少儿频道",卡酷少兒
-https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 group-title="少儿频道",寶寶動畫
-https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 group-title="少儿频道",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="少儿频道",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
-#EXTINF:-1 group-title="少儿频道",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
-#EXTINF:-1 group-title="少儿频道",南京少儿
-http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="少儿频道",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8
+
 #EXTINF:-1 group-title="少儿频道",猪猪侠•英雄猪少年
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 #EXTINF:-1 group-title="少儿频道",二次猿动画
@@ -10325,7 +10290,7 @@ http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 
 
 
-#EXTINF:-1 group-title="请加微信dywwst8售后",2024.1.1更新
+#EXTINF:-1 group-title="请加微信dywwst8售后",2024.1.2更新
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 
