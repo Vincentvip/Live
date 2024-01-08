@@ -812,27 +812,18 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.
 
 
 #EXTINF:-1 group-title="数字频道IPV6",百视通-1
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001148/index.m3u8?love=freedom
+
 #EXTINF:-1 group-title="数字频道IPV6",百视通-2
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001149/index.m3u8?love=freedom
+
 #EXTINF:-1 group-title="数字频道IPV6",百视通-3
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001150/index.m3u8?love=freedom
 #EXTINF:-1 group-title="数字频道IPV6",百视通-4
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001151/index.m3u8?love=freedom
 #EXTINF:-1 group-title="数字频道IPV6",百视通5
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001152/index.m3u8?love=freedom
 #EXTINF:-1 group-title="数字频道IPV6",百视通-6
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001153/index.m3u8?love=freedom
 #EXTINF:-1 group-title="数字频道IPV6",百视通-7
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001154/index.m3u8?love=freedom
 #EXTINF:-1 group-title="数字频道IPV6",百视通-8
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.m3u8?love=freedom
 #EXTINF:-1 group-title="数字频道IPV6",百视通-9
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?love=freedom
 #EXTINF:-1 group-title="数字频道IPV6",百视通-10
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?love=freedom
 #EXTINF:-1 group-title="数字频道IPV6",百视通-11
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?love=freedom
 
 
 
@@ -882,50 +873,49 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-id="M1905电影网" tvg-name="M1905电影网" tvg-logo="https://epg.112114.xyz/logo/M电影网.png" group-title="数字频道IPV4",M1905电影网
 http://nas.jdshipin.com:8801/1905.php?id=1905dy
-#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="数字频道IPV4",精品大剧
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV明星大片" tvg-name="NEWTV明星大片" tvg-logo="https://live.fanmingming.com/tv/NEWTV明星大片.png" group-title="数字频道IPV4",明星大片
-http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱电竞
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3%20%EF%BC%8C
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱谍战
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱动漫
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱都市
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱怀旧
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱经典
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱科幻
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱科学
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱浪漫
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱历史
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱旅行
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱奇谈
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱青春
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱赛车
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱体育
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱玩具
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱喜剧
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱悬疑
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱幼教
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字频道IPV4",IHOT爱院线
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+
+
+#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",看天下精选
+http://60.205.114.16/live/ktxjx.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",华语影院
+http://60.205.114.16/live/hyyy.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",电竞天堂
+http://60.205.114.16/live/djtt.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",青春动漫
+http://60.205.114.16/live/qcdm.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",星光影院
+http://60.205.114.16/live/xgyy.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",谍战剧场
+http://60.205.114.16/live/dzjc.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",全球大片
+http://60.205.114.16/live/qqdp.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",热门剧场
+http://60.205.114.16/live/rmjc.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",热门综艺
+http://60.205.114.16/live/rmzy.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",戏曲精选
+http://60.205.114.16/live/xqjx.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",健康养生
+http://60.205.114.16/live/jkys.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",百变课堂
+http://60.205.114.16/live/bbkt.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",宝宝动画
+http://60.205.114.16/live/bbdh.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",百视通体育1
+http://60.205.114.16/live/sport1.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="百视通体育2" tvg-name="百视通体育2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",百视通体育2
+http://60.205.114.16/live/sport2.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="百视通体育3" tvg-name="百视通体育3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",百视通体育3
+http://60.205.114.16/live/sport3.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="百视通体育4" tvg-name="百视通体育4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",百视通体育4
+http://60.205.114.16/live/sport4.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="百视通体育5" tvg-name="百视通体育5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",百视通体育5
+http://60.205.114.16/live/sport5.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="百视通体育6" tvg-name="百视通体育6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",百视通体育6
+http://60.205.114.16/live/sport6.m3u8?user=APTV88&line=1
+#EXTINF:-1 tvg-id="百视通体育7" tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="数字频道IPV4",百视通体育7
+
+
 
 
 
