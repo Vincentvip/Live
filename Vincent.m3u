@@ -966,11 +966,11 @@ http://60.205.114.16/live/sport6.m3u8?user=APTV88&line=1
 
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台「测试」",凤凰中文
-http://113.117.74.17:8081/hls/37/index.m3u8
+https://0472.org/hls/youzaiSB/fhzw.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台「测试」",凤凰资讯
-http://113.117.74.18:8081/hls/36/index.m3u8
+https://0472.org/hls/youzaiSB/fhzx.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台「测试」",凤凰香港
-http://113.117.74.18:8081/hls/38/index.m3u8
+https://0472.org/hls/youzaiSB/fhhk.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台「测试」",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台「测试」",翡翠台
@@ -12947,7 +12947,7 @@ http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfN
 
 
 
-#EXTINF:-1 group-title="微信dywwst8",2024.1.11更新
+#EXTINF:-1 group-title="微信dywwst8",2024.1.12更新
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 
