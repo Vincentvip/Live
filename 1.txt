@@ -1,2 +1,7 @@
 频道,#genre#
-汕头综合,https://sttv-tsl.cutv.com/lKGXIQa/500/i2sgKgX.m3u8
+
+1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122   1000/index.m3u8
+2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122   1001/index.m3u8
+3,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122   1002/index.m3u8
+4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122   1003/index.m3u8
+5,http://60.205.114.16/live/cctv1.m3u8?user=APTV88&line=1
