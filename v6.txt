@@ -150,7 +150,7 @@ iHOT,#genre#
 爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 咪咕体育,#genre#
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+
 咪咕直播-1,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
 咪咕直播-2,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
 咪咕直播-3,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
@@ -208,4 +208,5 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3
 
 动画片2,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 
-
+_7758258,#genre#
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
