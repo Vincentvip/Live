@@ -419,7 +419,7 @@ NewTv,#genre#
 动画片1,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 动画片2,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 
-_7758258,#genre#
+7758258,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8#https://php.17186.eu.org/gdtv/web/gdzj.m3u8
