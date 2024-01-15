@@ -81,7 +81,7 @@ CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 金色学堂,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001194/index.m3u8?love=freedom
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 北京纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+广东体育,http://r.jdshipin.com/LiYdg
 
 NewTv,#genre#
 超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -421,3 +421,5 @@ NewTv,#genre#
 
 _7758258,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+广东体育,http://r.jdshipin.com/LiYdg
+广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
