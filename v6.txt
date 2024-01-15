@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV1,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225816/index.m3u8#http://60.205.114.16/ysp/cctv1.m3u8?
 CCTV2,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226079/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225799/index.m3u8
 CCTV4,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226092/index.m3u8
@@ -79,7 +79,8 @@ CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 生活时尚,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001199/index.m3u8?love=freedom
 都市剧场,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001203/index.m3u8?love=freedom
 金色学堂,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001194/index.m3u8?love=freedom
-
+东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
+北京纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 NewTv,#genre#
 超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -113,8 +114,7 @@ NewTv,#genre#
 精彩影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 庆余年,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?
 未知1,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw698941571_-1832672106/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1674380814&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-未知2,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443039727_1258033443/ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-未知3,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2442676925_-1293999785/ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+未知2,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2442676925_-1293999785/ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 
 
 
@@ -196,6 +196,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3
 
 动漫频道,#genre#
 卡酷少儿,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001245/index.m3u8?love=freedom
+海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 哈哈炫动,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001232/index.m3u8?love=freedom
 动漫秀场,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001196/index.m3u8?love=freedom
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
