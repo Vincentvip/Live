@@ -422,4 +422,4 @@ NewTv,#genre#
 _7758258,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
-广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+广东珠江,https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8#https://php.17186.eu.org/gdtv/web/gdzj.m3u8
