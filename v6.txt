@@ -20,19 +20,18 @@ CCTV17,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225708/index.m3u8#
 CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-CCTV央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-CCTV央视高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-CCTV风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+央视高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
 
 卫视频道,#genre#
@@ -80,12 +79,12 @@ CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 都市剧场,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001203/index.m3u8?love=freedom
 金色学堂,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001194/index.m3u8?love=freedom
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-北京纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-广东体育,http://r.jdshipin.com/LiYdg
+
+
 
 NewTv,#genre#
-超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
@@ -244,10 +243,10 @@ NewTv,#genre#
 文成公主,http://43.138.170.29:35455/huya/11352974
 喜剧合家欢,http://43.138.170.29:35455/huya/11352877
 小鲤鱼,http://43.138.170.29:35455/huya/11601961
-悬疑推理,http://43.138.170.29:35455/huya/17445539
+
 杨门女将,http://43.138.170.29:35455/huya/11336590
 医馆笑传,http://43.138.170.29:35455/huya/11352891
-止戈电影,http://43.138.170.29:35455/huya/19863777
+
 中国功夫,http://43.138.170.29:35455/huya/11352941
 朱雀青龙,http://43.138.170.29:35455/huya/11352905
 欢乐综艺,http://mmitv.top/test/douyu.php?id=131977
@@ -290,7 +289,7 @@ NewTv,#genre#
 音乐欣赏,http://mmitv.top/test/douyu.php?id=3186217
 舌尖美食,http://mmitv.top/test/douyu.php?id=9650849
 篮球人物,http://mmitv.top/test/douyu.php?id=8434598
-鬼片恐怖惊悚,http://43.138.170.29:35455/douyu/2935323
+鬼片惊悚,http://43.138.170.29:35455/douyu/2935323
 科幻动作,http://43.138.170.29:35455/douyu/4332
 怡寳影院,http://43.138.170.29:35455/douyu/434971
 粤语电影1,http://43.138.170.29:35455/douyu/6566671
@@ -301,19 +300,19 @@ NewTv,#genre#
 贝爷求生,http://43.138.170.29:35455/douyu/454867
 经典港剧,http://43.138.170.29:35455/douyu/4549169
 小宇影院,http://43.138.170.29:35455/douyu/323876
-恐怖丧尸鬼片,http://43.138.170.29:35455/douyu/263824
-荒野建造者,http://43.138.170.29:35455/douyu/9611578
+恐怖鬼片,http://43.138.170.29:35455/douyu/263824
+荒野建造,http://43.138.170.29:35455/douyu/9611578
 邦德影院,http://43.138.170.29:35455/douyu/9292499
 可乐影院,http://43.138.170.29:35455/douyu/20415
 特辑影院,http://43.138.170.29:35455/douyu/3637778
 贝爷影院,http://43.138.170.29:35455/douyu/252802
 惊悚影院,http://43.138.170.29:35455/douyu/96577
 漫威影片,http://43.138.170.29:35455/douyu/6140589
-刘德华电影1,http://43.138.170.29:35455/douyu/2516864
-林正英电影2,http://43.138.170.29:35455/douyu/7356023
+刘德华1,http://43.138.170.29:35455/douyu/2516864
+林正英2,http://43.138.170.29:35455/douyu/7356023
 贝爷影厅2,http://43.138.170.29:35455/douyu/36337
 霍格影片,http://43.138.170.29:35455/douyu/8814650
-冰冰经典电影,http://43.138.170.29:35455/douyu/74374
+冰冰电影,http://43.138.170.29:35455/douyu/74374
 避风港影院,http://43.138.170.29:35455/douyu/9826611
 恐怖经典,http://43.138.170.29:35455/douyu/1165374
 华语电影,http://43.138.170.29:35455/douyu/3928
@@ -363,6 +362,8 @@ NewTv,#genre#
 好莱坞解说,http://43.138.170.29:35455/huya/21059587
 精彩不断解说,http://43.138.170.29:35455/huya/24396428
 科幻影视解说,http://43.138.170.29:35455/douyu/3508304
+悬疑推理,http://43.138.170.29:35455/huya/17445539
+止戈电影,http://43.138.170.29:35455/huya/19863777
 爆笑解说1,http://43.138.170.29:35455/douyu/8317926
 爆笑解说2,http://43.138.170.29:35455/douyu/2660125
 老邪说电影,http://mmitv.top/test/douyu.php?id=9222870
@@ -424,3 +425,4 @@ NewTv,#genre#
 广东体育,http://r.jdshipin.com/LiYdg#http://183.62.74.202:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8#https://php.17186.eu.org/gdtv/web/gdzj.m3u8#http://183.62.74.202:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8#http://183.62.74.202:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf
