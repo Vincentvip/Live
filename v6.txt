@@ -266,6 +266,9 @@ NewTv,#genre#
 詹姆斯邦德,http://43.138.170.29:35455/huya/21059585
 杰森·斯坦森,http://43.138.170.29:35455/huya/21059588
 漫威影片,http://43.138.170.29:35455/douyu/6140589
+庆余年,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?
+未知1,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw698941571_-1832672106/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1674380814&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+二更,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2442676925_-1293999785/ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 喜剧专场,http://43.138.170.29:35455/huya/11602044
 港台电影,http://43.138.170.29:35455/huya/880261
 惊悚系列,http://43.138.170.29:35455/huya/11352903
@@ -309,9 +312,6 @@ NewTv,#genre#
 
 
 影视轮播,#genre#
-庆余年,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?
-未知1,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw698941571_-1832672106/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1674380814&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-二更,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2442676925_-1293999785/ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 陈翔六点半,http://43.138.170.29:35455/huya/11274154
 欢乐综艺,http://mmitv.top/test/douyu.php?id=131977
 吃米滴虫,http://mmitv.top/test/douyu.php?id=315457
