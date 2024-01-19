@@ -675,7 +675,7 @@ NewTv,#genre#
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 4K影视,http://nas.jdshipin.com:8801/4kys.php
 
-7758258,#genre#
+7758258_,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 
