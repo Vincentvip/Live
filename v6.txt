@@ -645,8 +645,8 @@ NewTv,#genre#
 中华小当家,http://43.138.170.29:35455/huya/11342413
 猫和老鼠,http://43.138.170.29:35455/huya/11352879
 路飞,http://43.138.170.29:35455/huya/16913382
-动画片1,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-动画片2,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
+黄金机器人,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+动画片,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
 汪汪队,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 柯南,http://43.138.170.29:35455/douyu/1783144
 柯南2,http://43.138.170.29:35455/douyu/7050342
