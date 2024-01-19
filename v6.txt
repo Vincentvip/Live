@@ -659,7 +659,7 @@ NewTv,#genre#
 
 
 
-私人专属,#genre#
+测试,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
@@ -670,12 +670,11 @@ NewTv,#genre#
 广东珠江,http://183.62.74.202:9901/tsfile/live/1000_1.m3u8?
 广东珠江,http://[2409:8087:7001:20:1000::4]:6610/000000001000/1000000004000011654/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8#http://183.62.74.202:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 4K影视,http://nas.jdshipin.com:8801/4kys.php
 
-7758258_,#genre#
+私人专属_111,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 
