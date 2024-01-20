@@ -715,7 +715,7 @@ NewTv,#genre#
 
 测试,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-广东体育,http://r.jdshipin.com/LiYdg
+广东体育,#http://r.jdshipin.com/LiYdg
 广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
 广东体育,http://183.62.74.202:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8key=txiptv&playlive=1&authid=0
@@ -730,5 +730,6 @@ NewTv,#genre#
 
 私人专属_111,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
-
+广东新闻,http://1.zqit.cn:4000/udp/239.77.0.173:5146
+广东体育,http://1.zqit.cn:4000/udp/239.77.0.112:5146
+广东珠江,http://1.zqit.cn:4000/udp/239.77.0.1:5146
