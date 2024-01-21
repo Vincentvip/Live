@@ -736,9 +736,10 @@ NewTv,#genre#
 广东影视,http://1.zqit.cn:4000/udp/239.77.0.217:5146
 广东民生,http://1.zqit.cn:4000/udp/239.77.0.225:5146
 内测_111,#genre#
-翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清#http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-香港翡翠台HD,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$GWXL高清
-香港明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$GWXL高清
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
 1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
 
 
