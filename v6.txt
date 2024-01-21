@@ -736,7 +736,7 @@ NewTv,#genre#
 广东民生,http://1.zqit.cn:4000/udp/239.77.0.225:5146
 内测_111,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
+1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
 私人专属_123,#genre#
 汕头文旅体育高清,http://1.zqit.cn:4000/udp/239.253.43.47:5146
 汕头经济生活高清,http://1.zqit.cn:4000/udp/239.77.1.131:5146
