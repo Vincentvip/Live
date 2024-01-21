@@ -732,8 +732,8 @@ NewTv,#genre#
 广东珠江,http://[2409:8087:7001:20:1000::4]:6610/000000001000/1000000004000011654/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广东新闻,http://1.zqit.cn:4000/udp/239.77.0.173:5146
 广东新闻,http://183.62.74.202:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
+广东影视,http://1.zqit.cn:4000/udp/239.77.0.217:5146
+广东公共,http://1.zqit.cn:4000/udp/239.77.0.225:5146
 内测_111,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
