@@ -504,6 +504,7 @@ NewTv,#genre#
 二更,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2442676925_-1293999785/ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 喜剧专场,http://43.138.170.29:35455/huya/11602044
 港台电影,http://43.138.170.29:35455/huya/880261
+香港动作大片,https://live.metshop.top/yy/1382736816
 惊悚系列,http://43.138.170.29:35455/huya/11352903
 喜剧片1,http://43.138.170.29:35455/huya/11352963
 喜剧片2,http://43.138.170.29:35455/huya/11352894
@@ -735,8 +736,12 @@ NewTv,#genre#
 广东影视,http://1.zqit.cn:4000/udp/239.77.0.217:5146
 广东民生,http://1.zqit.cn:4000/udp/239.77.0.225:5146
 内测_111,#genre#
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清#http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+香港翡翠台HD,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$GWXL高清
+香港明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
 1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
+
+
 私人专属_123,#genre#
 汕头文旅体育高清,http://1.zqit.cn:4000/udp/239.253.43.47:5146
 汕头经济生活高清,http://1.zqit.cn:4000/udp/239.77.1.131:5146
