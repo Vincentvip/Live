@@ -733,11 +733,9 @@ NewTv,#genre#
 广东新闻,http://1.zqit.cn:4000/udp/239.77.0.173:5146
 广东新闻,http://183.62.74.202:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://1.zqit.cn:4000/udp/239.77.0.217:5146
-广东公共,http://1.zqit.cn:4000/udp/239.77.0.225:5146
+广东民生,http://1.zqit.cn:4000/udp/239.77.0.225:5146
 内测_111,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720#http://r.jdshipin.com/qClQf#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
-
 
 私人专属_123,#genre#
 汕头文旅体育高清,http://1.zqit.cn:4000/udp/239.253.43.47:5146
