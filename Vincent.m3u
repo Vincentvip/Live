@@ -890,7 +890,7 @@ https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="港澳台「测试」",纬来体育
 https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 #EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="港澳台「测试」",緯來日本
-rtmp://9sv2.mine.nu/sat/tv771
+http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="港澳台「测试」",緯來育樂
 https://euj1.scdn.pp.ua/live/vl_maxtv.m3u8?token=uzf9Uv1by7j6kp25IQnWVA&expires=1702064743
 #EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="港澳台「测试」",緯來電影
