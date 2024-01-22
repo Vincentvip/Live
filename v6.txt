@@ -727,17 +727,14 @@ NewTv,#genre#
 广东体育,http://1.zqit.cn:4000/udp/239.77.0.112:5146$高清v4
 广东体育,http://113.101.119.83:808/hls/605/index.m3u8$高清v4
 广东体育,http://ictv.91tv.top:9901/tsfile/live/1014_1.m3u8$高清v4
-
 广东体育,http://183.62.74.202:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$标清v4
 
 广东珠江,http://1.zqit.cn:4000/udp/239.77.0.1:5146$高清v4
-广东珠江,https://epg.pw/stream/51b2622bc0ab3fea23acfd8d9b0314a954a98e5e79d4337650f58bee32357425.m3u8$标清v4
 广东珠江,http://183.62.74.202:9901/tsfile/live/1000_1.m3u8?$标清v4
+广东珠江,https://epg.pw/stream/51b2622bc0ab3fea23acfd8d9b0314a954a98e5e79d4337650f58bee32357425.m3u8$标清v4
 广东珠江,http://[2409:8087:7001:20:1000::4]:6610/000000001000/1000000004000011654/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=$标清v6
 
 广东新闻,http://1.zqit.cn:4000/udp/239.77.0.173:5146$高清v4
-
-
 广东新闻,http://183.62.74.202:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$标清v4
 
 广东影视,http://1.zqit.cn:4000/udp/239.77.0.217:5146$高清v4
@@ -750,9 +747,9 @@ NewTv,#genre#
 内测_111,#genre#
 翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8$高清v4
 翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$标清v4
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8$标清v4
-明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
 明珠台,http://ictv.91tv.top:9901/tsfile/live/1007_1.m3u8$高清v4
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
+
 1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
 
 
