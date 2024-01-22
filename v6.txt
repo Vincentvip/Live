@@ -174,7 +174,7 @@ CHC家庭影院,https://epg.pw/stream/478b3f417d179aaeccea8e1f20f585c9d3c7d3a53a
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3$高清v6
 广东卫视,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001032/index.m3u8?love=freedom$高清v6
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$高清v4
-
+广东卫视,http://1.zqit.cn:4000/udp/239.77.0.2:5146$高清v4
 湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230620/1.m3u8$高清v6
 湖南卫视,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001026/index.m3u8?love=freedom$高清v6
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$高清v4
@@ -283,6 +283,8 @@ CHC家庭影院,https://epg.pw/stream/478b3f417d179aaeccea8e1f20f585c9d3c7d3a53a
 
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3$高清v6
 纪实人文,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001019/index.m3u8?love=freedom$高清v6
+纪实人文,
+
 纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3$高清v6
 纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$高清v6
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8$高清v6
@@ -723,21 +725,34 @@ NewTv,#genre#
 
 公测,#genre#
 广东体育,http://1.zqit.cn:4000/udp/239.77.0.112:5146$高清v4
-广东体育,http://183.62.74.202:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$标清v4
-广东珠江,http://1.zqit.cn:4000/udp/239.77.0.1:5146$高清v4
+广东体育,http://113.101.119.83:808/hls/605/index.m3u8$高清v4
+广东体育,http://ictv.91tv.top:9901/tsfile/live/1014_1.m3u8$高清v4
 
+广东体育,http://183.62.74.202:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$标清v4
+
+广东珠江,http://1.zqit.cn:4000/udp/239.77.0.1:5146$高清v4
 广东珠江,https://epg.pw/stream/51b2622bc0ab3fea23acfd8d9b0314a954a98e5e79d4337650f58bee32357425.m3u8$标清v4
 广东珠江,http://183.62.74.202:9901/tsfile/live/1000_1.m3u8?$标清v4
 广东珠江,http://[2409:8087:7001:20:1000::4]:6610/000000001000/1000000004000011654/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=$标清v6
+
 广东新闻,http://1.zqit.cn:4000/udp/239.77.0.173:5146$高清v4
+
+
 广东新闻,http://183.62.74.202:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$标清v4
+
 广东影视,http://1.zqit.cn:4000/udp/239.77.0.217:5146$高清v4
 广东民生,http://1.zqit.cn:4000/udp/239.77.0.225:5146$高清v4
+
+广东经济科教,http://113.101.119.83:808/hls/129/index.m3u8$高清v4
+
+广东大湾区,http://113.101.119.83:808/hls/606/index.m3u8$高清v4
+
 内测_111,#genre#
-翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$高清v4
+翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8$高清v4
 翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$标清v4
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8$标清v4
-明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清v4
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
+明珠台,http://ictv.91tv.top:9901/tsfile/live/1007_1.m3u8$高清v4
 1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
 
 
