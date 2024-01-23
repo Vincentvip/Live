@@ -793,8 +793,8 @@ NewTv,#genre#
 明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
 无线新闻,https://tv.iill.top/tvb/4$高清v4
 无线新闻,https://epg.pw/stream/afd889b01d092e8deca847328ed8fe035d2b0971029d6d925107a1a32c1fa11d.ctv$标清v4
-玮来体育,https://cloud.yumixiu768.com/tmp/123.m3u8$高清v4
-玮来体育,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8$高清v4
+緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8$高清v4
+緯來體育,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8$高清v4
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8$标清v4
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8$标清v4
 CNN新闻,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8$标清v4
