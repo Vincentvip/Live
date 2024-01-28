@@ -856,7 +856,7 @@ ELEVE2,http://lhq-cctv.8866.org:18181/tsfile/live/1216_1.m3u8$高清v4
 汕头经济生活高清,http://1.zqit.cn:4000/udp/239.77.1.131:5146$高清v4
 
 
-动物世界#genre#
+动物世界,#genre#
 动物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
 彩蛇之舞,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
 蛇类大观园,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
