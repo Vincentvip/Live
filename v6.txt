@@ -1427,8 +1427,12 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 广东大湾区,http://119.131.240.240:8089/hls/8/index.m3u8$高清v4
 广东大湾区,http://1.zqit.cn:4000/udp/239.77.0.9:5146$标清v4
 广东大湾区,http://27.45.234.161:2024/hls/18/index.m3u8$流畅v4
-
-
+每日电影,#genre#
+花月杀手,http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=https://vip.ffzyread.com/20231205/20486_1e3f0e55/index.m3u8
+谁说我不靠谱,http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=https://v.cdnlz12.com/20240129/11192_481fceb0/index.m3u8
+爆炸点,http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=SMDCMk9dxvsczGQ79ilUL0kwFekx5VW1nNnhJVnMrbVpJYQ
+刀尖,http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=SMDB14fCoWYmrhO3oq-WPGe2Dekx6TWxCZS9jRUF0bVlrYlJRPT0
+坚如磐石,tvbox-xg:ftp://a.gbl.114s.com:20320/7144/坚如磐石-2023_HD国语中字.mp4
 私人内测_111,#genre#
 翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8$高清v4
 翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$标清v4
