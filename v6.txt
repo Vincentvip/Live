@@ -1440,7 +1440,7 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8$标清v4
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8$标清v4
-CNN新闻,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8$标清v4
+
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$高清v4
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$标清v4
 
@@ -1451,8 +1451,13 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500$高清v4
 翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$标清v4
 明珠台,http://42.186.64.52:5001/site/gudou.php?id=1351_4500
+明珠台,http://feng163.com:9001/bysid/2
 明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
 明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
+无线新闻,http://max.freevar.com/news.php?id=0&hq
+无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
+无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=20123
+无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024
 无线新闻,https://tv.iill.top/tvb/4$高清v4
 无线新闻,https://epg.pw/stream/afd889b01d092e8deca847328ed8fe035d2b0971029d6d925107a1a32c1fa11d.ctv$标清v4
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
@@ -1460,7 +1465,8 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-无线财经体育台,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
+无线财经,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
+无线财经,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 TVB星河,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
