@@ -1352,10 +1352,10 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 深圳龙岗,http://1.zqit.cn:4000/udp/239.77.1.223:5146$高清v4
 惠州1,http://1.zqit.cn:4000/udp/239.77.1.232:5146$高清v4
 惠州2,http://1.zqit.cn:4000/udp/239.77.1.233:5146$高清v4
-汕头综合高清,http://1.zqit.cn:4000/udp/239.253.43.45:5146$高清v4
-汕头综合高清,http://1.zqit.cn:4000/udp/239.77.1.130:5146$高清v4
-汕头文旅体育高清,http://1.zqit.cn:4000/udp/239.253.43.47:5146$高清v4
-汕头经济生活高清,http://1.zqit.cn:4000/udp/239.77.1.131:5146$高清v4
+汕头综合,http://1.zqit.cn:4000/udp/239.253.43.45:5146$高清v4
+汕头综合,http://1.zqit.cn:4000/udp/239.77.1.130:5146$高清v4
+汕头文旅体育,http://1.zqit.cn:4000/udp/239.253.43.47:5146$高清v4
+汕头经济生活,http://1.zqit.cn:4000/udp/239.77.1.131:5146$高清v4
 汕头综合,http://42.186.64.52:5001/site/gudou.php?id=shantouyitaogaoqing_4500
 汕头经济生活,http://42.186.64.52:5001/site/gudou.php?id=shantouertaogaoqing_4500
 汕头文旅体育,http://42.186.64.52:5001/site/gudou.php?id=2508_4500
@@ -1363,9 +1363,9 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 惠州2,http://42.186.64.52:5001/site/gudou.php?id=2316
 广州综合,http://42.186.64.52:5001/site/gudou.php?id=1432_4500
 广州新闻,http://42.186.64.52:5001/site/gudou.php?id=1433_4500
-广州影视.576,http://42.186.64.52:5001/site/gudou.php?id=gzfilms_1500
-广州竞赛.576,http://42.186.64.52:5001/site/gudou.php?id=gzcompetition_1500
-广州法治.576,http://42.186.64.52:5001/site/gudou.php?id=gzeconomic_1500
+广州影视,http://42.186.64.52:5001/site/gudou.php?id=gzfilms_1500
+广州竞赛,http://42.186.64.52:5001/site/gudou.php?id=gzcompetition_1500
+广州法治,http://42.186.64.52:5001/site/gudou.php?id=gzeconomic_1500
 广东珠江,http://42.186.64.52:5001/site/gudou.php?id=1437
 广东体育,http://42.186.64.52:5001/site/gudou.php?id=1413
 广东新闻,http://42.186.64.52:5001/site/gudou.php?id=1454
