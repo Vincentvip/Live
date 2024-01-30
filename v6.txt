@@ -1440,7 +1440,6 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8$标清v4
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8$标清v4
-
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$高清v4
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$标清v4
 
@@ -1457,7 +1456,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 无线新闻,mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
 无线新闻,mitv://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
 无线新闻,http://max.freevar.com/news.php?id=0&hq
-无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
 无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=20123
 无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024
 无线新闻,https://tv.iill.top/tvb/4$高清v4
