@@ -1447,21 +1447,18 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 
 私人香港_111,#genre#
-翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500
-翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8$高清v4
+翡翠台,http://headscale.wisdomitc.com:9981/stream/channelid/389954355?profile=pass$高清v4
+翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500$高清v4
 翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$标清v4
 明珠台,http://42.186.64.52:5001/site/gudou.php?id=1351_4500
 明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
+明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 无线新闻,https://tv.iill.top/tvb/4$高清v4
 无线新闻,https://epg.pw/stream/afd889b01d092e8deca847328ed8fe035d2b0971029d6d925107a1a32c1fa11d.ctv$标清v4
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-翡翠台,mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
-翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
-无线新闻台,mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
-无线新闻台,mitv://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
 HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 无线财经体育台,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
@@ -1474,7 +1471,7 @@ now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 千禧经典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
-明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
+
 香港国际财经台,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
 18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
