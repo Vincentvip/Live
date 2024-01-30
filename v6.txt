@@ -1435,25 +1435,25 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 
 
 
-私人内测_111,#genre#
-翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500
-明珠台,http://42.186.64.52:5001/site/gudou.php?id=1351_4500
-翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8$高清v4
-翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$标清v4
+私人国际_111,#genre#
 
-明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
-无线新闻,https://tv.iill.top/tvb/4$高清v4
-无线新闻,https://epg.pw/stream/afd889b01d092e8deca847328ed8fe035d2b0971029d6d925107a1a32c1fa11d.ctv$标清v4
 
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8$标清v4
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8$标清v4
 CNN新闻,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8$标清v4
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$高清v4
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$标清v4
-台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8$高清v4
+
 
 
 私人香港_111,#genre#
+翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500
+翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8$高清v4
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$标清v4
+明珠台,http://42.186.64.52:5001/site/gudou.php?id=1351_4500
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
+无线新闻,https://tv.iill.top/tvb/4$高清v4
+无线新闻,https://epg.pw/stream/afd889b01d092e8deca847328ed8fe035d2b0971029d6d925107a1a32c1fa11d.ctv$标清v4
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
@@ -1608,7 +1608,7 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 霹雳台湾台,mitv://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
 东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-
+台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8$高清v4
 
 动物世界,#genre#
 动物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
