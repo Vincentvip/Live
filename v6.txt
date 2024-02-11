@@ -1287,10 +1287,10 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 
 
 私人香港_111,#genre#
-翡翠台,http://headscale.wisdomitc.com:9981/stream/channelid/389954355?profile=pass$高清v4
+翡翠台,http://jyjxy.7766.org:8811/hls/36/index.m3u8$高清v4
 翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500$谷豆高清v4
 翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$标清v4
-明珠台,http://42.186.64.52:5001/site/gudou.php?id=1351_4500$谷豆高清v4
+明珠台,http://jyjxy.7766.org:8811/hls/37/index.m3u8
 明珠台,http://feng163.com:9001/bysid/2
 明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
 明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
