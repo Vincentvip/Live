@@ -1154,21 +1154,14 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 咪咕-35,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3$高清v4
 
 动漫频道,#genre#
-卡酷少儿,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001245/index.m3u8?love=freedom$高清v6
+
 卡酷少儿,http://www.kitcc.cn:8887/rtp/239.77.0.79:5146$标清v4
 卡酷少儿,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$标清v4
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6$高清v6
 广东少儿,http://www.kitcc.cn:8887/rtp/239.77.0.250:5146$高清v4
-广东少儿,http://119.131.240.240:8089/hls/11/index.m3u8$标清v4
-广东少儿,http://42.186.64.52:5001/site/gudou.php?id=1457
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-哈哈炫动,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001232/index.m3u8?love=freedom$高清v6
 哈哈炫动,http://www.kitcc.cn:8887/rtp/239.77.0.81:5146$高清v4
-动漫秀场,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001196/index.m3u8?love=freedom$高清v6
-动漫秀场,http://123.179.43.139:808/hls/488/index.m3u8$标清v4
 嘉佳卡通,http://www.kitcc.cn:8887/rtp/239.77.0.179:5146$高清v4
-嘉佳卡通,http://42.186.64.52:5001/site/gudou.php?id=1459
-嘉佳卡通,,http://119.131.240.240:8089/hls/12/index.m3u8$标清v4
 嘉佳卡通,http://183.62.74.202:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$高清v6
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$高清v4
@@ -1190,53 +1183,28 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8$高清v4
 緯來體育,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8$高清v4
 广东体育,http://www.kitcc.cn:8887/rtp/239.77.0.112:5146$高清v4
-广东体育,http://222.217.243.197:8181/tsfile/live/1088_1.m3u8$高清v4
-广东体育,http://ictv.91tv.top:9901/tsfile/live/1014_1.m3u8$高清v4
-广东体育,http://183.62.74.202:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$标清v4
-广东体育,http://119.131.240.240:8089/hls/5/index.m3u8$高清v4
 广东体育,http://nas147.myds.me:8888/udp/239.77.0.112:5146$高清v4
+广东体育,http://183.62.74.202:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$标清v4
+
+
 
 
 广东珠江,http://www.kitcc.cn:8887/rtp/239.77.0.1:5146$高清v4
-广东珠江,http://222.217.243.197:8181/tsfile/live/1083_1.m3u8$高清v4
 广东珠江,http://nas147.myds.me:8888/udp/239.77.0.1:5146$高清v4
 广东珠江,http://[2409:8087:7001:20:1000::4]:6610/000000001000/1000000004000011654/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=$标清v6
-广东珠江,http://119.131.240.240:8089/hls/2/index.m3u8$高清v4
 广东珠江,http://183.62.74.202:9901/tsfile/live/1000_1.m3u8?$标清v4
 广东珠江,https://epg.pw/stream/51b2622bc0ab3fea23acfd8d9b0314a954a98e5e79d4337650f58bee32357425.m3u8$标清v4
-
-
 广东新闻,http://www.kitcc.cn:8887/rtp/239.77.0.173:5146$高清v4
-广东新闻,http://222.217.243.197:8181/tsfile/live/1090_1.m3u8$高清v4
 广东新闻,http://nas147.myds.me:8888/udp/239.77.0.173:5146$高清v4
 广东新闻,http://183.62.74.202:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$标清v4
-广东新闻,http://27.45.234.161:2024/hls/51/index.m3u8$标清v4
-广东新闻,http://119.131.240.240:8089/hls/3/index.m3u8$标清v4
-
 广东影视,http://www.kitcc.cn:8887/rtp/239.77.0.217:5146$高清v4
 广东影视,http://nas147.myds.me:8888/udp/239.77.0.217:5146$高清v4
-广东影视,http://119.131.240.240:8089/hls/9/index.m3u8$标清v4
-广东影视,http://27.45.234.161:2024/hls/60/index.m3u8$流畅v4
-广东影视,http://222.217.243.197:8181/tsfile/live/1091_1.m3u8$高清v4
-
 广东民生,http://www.kitcc.cn:8887/rtp/239.77.0.225:5146$高清v4
-广东民生,http://222.217.243.197:8181/tsfile/live/1084_1.m3u8$高清v4
 广东民生,http://nas147.myds.me:8888/udp/239.77.0.225:5146$高清v4
-广东民生,http://27.45.234.161:2024/hls/52/index.m3u8$流畅v4
-广东民生,http://119.131.240.240:8089/hls/4/index.m3u8$标清v4
-
 广东经济科教,http://www.kitcc.cn:8887/rtp/239.77.0.85:5146$高清v4
-广东经济科教,http://222.217.243.197:8181/tsfile/live/1086_1.m3u8$高清v4
 广东经济科教,http://nas147.myds.me:8888/udp/239.77.0.85:5146$高清v4
-广东经济科教,http://27.45.234.161:2024/hls/59/index.m3u8$流畅v4
-广东经济科教,http://119.131.240.240:8089/hls/7/index.m3u8$高清v4
-
 广东大湾区,http://www.kitcc.cn:8887/rtp/239.77.0.215:5146$高清v4
-广东大湾区,http://222.217.243.197:8181/tsfile/live/1093_1.m3u8$高清v4
-广东大湾区,http://119.131.240.240:8089/hls/8/index.m3u8$高清v4
-广东大湾区,http://www.kitcc.cn:8887/rtp/239.77.0.9:5146$标清v4
-广东大湾区,http://27.45.234.161:2024/hls/18/index.m3u8$流畅v4
-
+广东大湾区,http://nas147.myds.me:8888/239.77.0.9:5146$标清v4
 广州综合,http://www.kitcc.cn:8887/rtp/239.253.43.71:5146$高清v4
 广州新闻,http://www.kitcc.cn:8887/rtp/239.253.43.72:5146$高清v4
 广州影视,http://www.kitcc.cn:8887/rtp/239.253.43.73:5146$高清v4
@@ -1263,20 +1231,6 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 汕头综合,http://nas147.myds.me:8888/udp/239.77.1.130:5146
 汕头经济生活,http://nas147.myds.me:8888/udp/239.77.1.131:5146
 汕头文旅体育,http://nas147.myds.me:8888/udp/239.253.43.47:5146
-惠州1,http://42.186.64.52:5001/site/gudou.php?id=2314
-惠州2,http://42.186.64.52:5001/site/gudou.php?id=2316
-广州综合,http://42.186.64.52:5001/site/gudou.php?id=1432_4500
-广州新闻,http://42.186.64.52:5001/site/gudou.php?id=1433_4500
-广州影视,http://42.186.64.52:5001/site/gudou.php?id=gzfilms_1500
-广州竞赛,http://42.186.64.52:5001/site/gudou.php?id=gzcompetition_1500
-广州法治,http://42.186.64.52:5001/site/gudou.php?id=gzeconomic_1500
-广东珠江,http://42.186.64.52:5001/site/gudou.php?id=1437
-广东体育,http://42.186.64.52:5001/site/gudou.php?id=1413
-广东新闻,http://42.186.64.52:5001/site/gudou.php?id=1454
-广东民生,http://42.186.64.52:5001/site/gudou.php?id=1455
-广东经济科教,http://42.186.64.52:5001/site/gudou.php?id=GDjingjikejiaoHD_7000
-广东大湾区,http://42.186.64.52:5001/site/gudou.php?id=1456
-广东影视,http://42.186.64.52:5001/site/gudou.php?id=1458
 
 
 
@@ -1286,21 +1240,16 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 
 
 
-私人香港_111,#genre#
+私人电台_111,#genre#
 翡翠台,http://jyjxy.7766.org:8811/hls/36/index.m3u8$高清v4
-翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500$谷豆高清v4
 翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$标清v4
 明珠台,http://jyjxy.7766.org:8811/hls/37/index.m3u8
 明珠台,http://feng163.com:9001/bysid/2
-明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$高清v4
 明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
-无线新闻,mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
-无线新闻,mitv://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
-无线新闻,http://max.freevar.com/news.php?id=0&hq
-无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=20123
-无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024
-无线新闻,https://tv.iill.top/tvb/4$高清v4
-无线新闻,https://epg.pw/stream/afd889b01d092e8deca847328ed8fe035d2b0971029d6d925107a1a32c1fa11d.ctv$标清v4
+无线新闻台,http://max.freevar.com/news.php?id=0&hq
+无线财经资讯台,http://max.freevar.com/news.php?id=2&hq
+无线财经咨询台,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8$标清v4
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8$标清v4
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$高清v4
@@ -1310,8 +1259,7 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-无线财经,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
-无线财经,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 TVB星河,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
@@ -1333,7 +1281,6 @@ Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 亚洲剧台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 功夫台,mitv://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
-私人台湾_111,#genre#
 TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS欢乐台,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
