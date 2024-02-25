@@ -188,23 +188,6 @@ CHC家庭影院,
 高尔夫网球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央视文化,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-CCTV1,http://27.46.125.175:808/hls/1/index.m3u8
-CCTV2,http://27.46.125.175:808/hls/2/index.m3u8
-CCTV3,http://27.46.125.175:808/hls/3/index.m3u8
-CCTV4,http://27.46.125.175:808/hls/4/index.m3u8
-CCVT5,http://27.46.125.175:808/hls/5/index.m3u8
-CCTV6,http://27.46.125.175:808/hls/6/index.m3u8
-CCTV7,http://27.46.125.175:808/hls/7/index.m3u8
-CCTV8,http://27.46.125.175:808/hls/8/index.m3u8
-CCTV9,http://27.46.125.175:808/hls/9/index.m3u8
-CCTV10,http://27.46.125.175:808/hls/10/index.m3u8
-CCTV11,http://27.46.125.175:808/hls/11/index.m3u8
-CCTV12,http://27.46.125.175:808/hls/12/index.m3u8
-CCTV13,http://27.46.125.175:808/hls/13/index.m3u8
-CCTV14,http://27.46.125.175:808/hls/14/index.m3u8
-CCTV15,http://27.46.125.175:808/hls/15/index.m3u8
-CCTV5+,http://27.46.125.175:808/hls/16/index.m3u8
-
 
 
 
