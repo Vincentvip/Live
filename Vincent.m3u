@@ -1015,11 +1015,11 @@ http://14.153.156.78:4567/udp/239.77.0.119:5146
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://jyjxy.7766.org:8811/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://headscale.wisdomitc.com:9981/stream/channelid/389954355?profile=pass
+http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
@@ -1044,11 +1044,15 @@ https://tv.iill.top/tvb/6
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="港澳台",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="港澳台",纬来体育
-
+rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="港澳台",緯來日本
 http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="港澳台",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="港澳台",緯來育樂
 https://euj1.scdn.pp.ua/live/vl_maxtv.m3u8?token=uzf9Uv1by7j6kp25IQnWVA&expires=1702064743
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="港澳台",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="港澳台",緯來電影
 
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
@@ -3628,7 +3632,7 @@ http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfN
 
 
 
-#EXTINF:-1 group-title="微信dywwst8",2024.2.25更新
+#EXTINF:-1 group-title="微信dywwst8",2024.2.27更新
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 group-title="点播更改为其他链接",2024.2.11更改
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
