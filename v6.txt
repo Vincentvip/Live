@@ -1026,11 +1026,12 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 汕头经济生活,http://nas147.myds.me:8888/udp/239.77.1.131:5146
 汕头文旅体育,http://nas147.myds.me:8888/udp/239.77.0.179:5146
 
-
+广东新闻,http://183.62.74.202:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://jyjxy.7766.org:8811/hls/18/index.m3u8
 汕头综合,http://jyjxy.7766.org:8811/hls/24/index.m3u8
 广东体育,http://91tv.x3322.net:9921/tsfile/live/1014_1.m3u8
 广东体育,http://202.168.187.208:9921/tsfile/live/1014_1.m3u8
+广东珠江,http://183.62.74.202:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://[2409:8087:7001:20:1000::4]:6610/000000001000/1000000004000011654/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=$标清v6
 
 
