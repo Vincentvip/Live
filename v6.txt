@@ -374,7 +374,7 @@ CHC家庭影院,
 军事评论,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 风尚音乐,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/index.m3u8?channel-v6id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-风尚音乐,
+
 精品剧场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
 欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
@@ -454,7 +454,7 @@ CHC家庭影院,
 
 
 
-明星大片失效,#genre#
+明星大片,#genre#
 周星驰,https://live.metshop.top/huya/11342412
 周星驰,http://159.75.85.63:35455/huya/11342412
 周星驰,https://yang-1989.eu.org/live/huya/11342412
@@ -532,9 +532,6 @@ CHC家庭影院,
 杰森斯坦森,https://epg.112114.xyz/huya/21059588
 杰森斯坦森,https://yang-1989.eu.org/live/huya/21059588
 
-知否知否,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?
-未知1,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw698941571_-1832672106/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?$icpid=3&RTS=1674380814&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-二更,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2442676925_-1293999785/ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 喜剧专场,http://43.138.170.29:35455/huya/11602044
 港台电影,http://43.138.170.29:35455/huya/880261
 香港动作大片,https://live.metshop.top/yy/1382736816
@@ -903,25 +900,17 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 
 卡酷少儿,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
-广东少儿,http://58.63.64.164:8888/udp/239.77.0.250:5146
+广东少儿,http://183.62.74.202:9901/tsfile/live/1037_1.m3u8?
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-哈哈炫动,
-嘉佳卡通,
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-小猪佩奇,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443156656_-1125659309/ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-黄金机器人,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 动画片,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
-汪汪队,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 柯南,http://43.138.170.29:35455/douyu/1783144
 柯南2,http://43.138.170.29:35455/douyu/7050342
 动画点播,http://43.138.170.29:35455/douyu/7256376
 海绵宝宝,http://43.138.170.29:35455/douyu/3949681
 动漫直播,http://43.138.170.29:35455/douyu/1487654
 热血动漫,http://43.138.170.29:35455/douyu/206858
-金鹰卡通,http://27.46.125.175:808/hls/64/index.m3u8
-炫动卡通,http://27.46.125.175:808/hls/65/index.m3u8
-嘉佳卡通,http://27.46.125.175:808/hls/66/index.m3u8
 
 
 
