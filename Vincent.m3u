@@ -745,8 +745,6 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e
 http://php.jdshipin.com:8880/chudian.php?id=gdxw
 #EXTINF:-1 group-title="广 东",广东体育
 http://202.168.187.208:9921/tsfile/live/1014_1.m3u8
-
-
 #EXTINF:-1 group-title="广 东",广东体育
 http://202.168.187.208:9921/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="广 东",广东民生
@@ -759,10 +757,8 @@ http://183.62.74.202:9901/tsfile/live/1035_1.m3u8?
 http://183.62.74.202:9901/tsfile/live/1038_1.m3u8?
 #EXTINF:-1 group-title="广 东",广东珠江
 http://183.62.74.202:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-
 #EXTINF:-1 group-title="广 东",广州影视
 http://91tv.x3322.net:9921/tsfile/live/1020_1.m3u8
-
 #EXTINF:-1 group-title="广 东",广州竞赛
 http://91tv.x3322.net:9921/tsfile/live/1018_1.m3u8
 #EXTINF:-1 group-title="广 东",广州综合
@@ -885,14 +881,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://cntv.sbs/tv?auth=2310201855&id=cgtn
 #EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="国际",CGTN记录
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="国际",CGTN俄语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="国际",CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="国际",CGTN西语
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="国际",CGTN阿语
-https://livear.cgtn.com/1000a/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际",亚洲新闻
@@ -935,19 +924,14 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 
 #EXTINF:-1 group-title="国际",HBO
-http://185.188.188.235/live/hbo/playlist.m3u8
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
 
 #EXTINF:-1 group-title="国际",HBO家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+Family,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
 
 #EXTINF:-1 group-title="国际",HBO喜剧
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="国际",HBO强档巨献
-http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-
-#EXTINF:-1 group-title="国际",HBO原创巨献
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 group-title="国际",福克斯新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",国家地理
@@ -956,9 +940,9 @@ http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249
 #EXTINF:-1 group-title="国际",国家地理
 https://stream5.woniuzfb.com/live/gjdl/KAOJMcRB.m3u8
 #EXTINF:-1 group-title="国际",TVBS高清
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
 #EXTINF:-1 group-title="国际",TVBS新闻
-https://pull-f5-spe.ixigua.com/yeslivetv.com/2177241-676037635/index.m3u8?by=yeslivetv.com
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
 #EXTINF:-1 group-title="国际",BBC
 http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 
@@ -968,10 +952,11 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa
 
 #EXTINF:-1,tvg-id="FOX Live Now" tvg-name="FOX Live Now" tvg-logo="https://upload.112114.xyz/logo/FOXLIVENOW.png" group-title="国际",FOX Live Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-id="CGTN Europe" tvg-name="CGTN Europe" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="国际",CGTN Europe
-https://live.cgtn.com/1000/prog_index.m3u8
+
 #EXTINF:-1,tvg-id="国家地理杂志" tvg-name="国家地理杂志" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174004832702_83.png" group-title="国际",国家地理杂志
-https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8
+#EXTINF:-1 group-title="国际",HBO强档巨献
+#EXTINF:-1 group-title="国际",HBO原创巨献
+
 
 
 
