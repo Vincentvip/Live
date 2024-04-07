@@ -777,14 +777,11 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000032212/index.
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育频道",广东体育
 http://www.kitcc.cn:8887/rtp/239.77.0.112:5146
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育频道",广东体育
-https://php.17186.eu.org/gdtv/gdty.m3u8
+
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="体育频道",纬来体育NBA1
 https://cloud.yumixiu768.com/tmp/123.m3u8
-
-
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="体育频道",纬来体育NBA2
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="体育频道",纬来体育NBA3
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育频道",超级体育
@@ -830,30 +827,15 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516d
 
 
 
-#EXTINF:-1 group-title="广东组播",广东新闻
-http://php.jdshipin.com:8880/chudian.php?id=gdxw
-#EXTINF:-1 group-title="广东组播",广东体育
 
-#EXTINF:-1 group-title="广东组播",广东体育
-http://183.62.74.202:9901/tsfile/live/1032_1.m3u8?
-#EXTINF:-1 group-title="广东组播",广东民生
-http://183.62.74.202:9901/tsfile/live/1036_1.m3u8?
-#EXTINF:-1 group-title="广东组播",广东少儿
-http://183.62.74.202:9901/tsfile/live/1037_1.m3u8?
-#EXTINF:-1 group-title="广东组播",广东影视
-http://183.62.74.202:9901/tsfile/live/1035_1.m3u8?
-#EXTINF:-1 group-title="广东组播",广东新闻
-http://183.62.74.202:9901/tsfile/live/1038_1.m3u8?
-#EXTINF:-1 group-title="广东组播",广东珠江
-http://183.62.74.202:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东组播",广东经济科教
-http://www.kitcc.cn:8887/rtp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东组播",广东体育
 http://www.kitcc.cn:8887/rtp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东组播",广东新闻
+http://www.kitcc.cn:8887/rtp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东组播",广东珠江
 http://www.kitcc.cn:8887/rtp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东组播",广东经济科教
+http://www.kitcc.cn:8887/rtp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东组播",大湾区卫视
 http://www.kitcc.cn:8887/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东组播",广东影视
@@ -862,8 +844,6 @@ http://www.kitcc.cn:8887/rtp/239.77.0.217:5146
 http://www.kitcc.cn:8887/rtp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东组播",广东少儿
 http://www.kitcc.cn:8887/rtp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东组播",广东新闻
-http://www.kitcc.cn:8887/rtp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广东组播",嘉佳卡通
 http://www.kitcc.cn:8887/rtp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东组播",广州综合
@@ -874,8 +854,6 @@ http://www.kitcc.cn:8887/rtp/239.253.43.72:5146
 http://www.kitcc.cn:8887/rtp/239.253.43.73:5146
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东组播",广州法治
 http://www.kitcc.cn:8887/rtp/239.253.43.74:5146
-
-
 #EXTINF:-1 tvg-id="宝安第一课" tvg-name="宝安第一课" tvg-logo="https://epg.112114.xyz/logo/宝安第一课.png" group-title="广东组播",宝安第一课
 http://www.kitcc.cn:8887/rtp/239.77.1.225:5146
 #EXTINF:-1 tvg-id="深圳众创TV" tvg-name="深圳众创TV" tvg-logo="https://epg.112114.xyz/logo/深圳众创TV.png" group-title="广东组播",深圳众创TV
@@ -1362,17 +1340,13 @@ http://www.kitcc.cn:8887/rtp/239.77.1.182:5146
 
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://jyjxy.7766.org:8811/hls/36/index.m3u8
+https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv#http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv#http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv
+https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
-http://jyjxy.7766.org:8811/hls/37/index.m3u8
+
 #EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
 #EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
@@ -1392,11 +1366,7 @@ https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="港澳台",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="港澳台",緯來日本
-http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
-#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本台.png" group-title="港澳台",緯來日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="港澳台",緯來育樂
-https://euj1.scdn.pp.ua/live/vl_maxtv.m3u8?token=uzf9Uv1by7j6kp25IQnWVA&expires=1702064743
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="港澳台",緯來育樂
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="港澳台",緯來電影
@@ -1421,7 +1391,6 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljj
 http://ali.hlspull.yximgs.com/live/huanqiuhklivencjjtjjudtjljcvbcvntjjjsfwetjfvcbcxvdjbjfflvcjtsxw.flv
 #EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png" group-title="港澳台",民视新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
-#EXTINF:-1  group-title="港澳台",香港电台
 
 
 
@@ -2658,7 +2627,7 @@ http://43.138.170.29:35455/huya/11352905
 
 
 
-#EXTINF:-1 group-title="微信dywwst8",2024.3.21更新
+#EXTINF:-1 group-title="微信dywwst8",2024.4.7更新
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 
