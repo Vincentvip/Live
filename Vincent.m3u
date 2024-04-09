@@ -56,9 +56,9 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="央卫数字IPV6",山东卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="央卫数字IPV6",广东卫视
-http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225505/index.m3u8
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225966/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="央卫数字IPV6",广西卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226091/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="央卫数字IPV6",江苏卫视
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="央卫数字IPV6",江西卫视
@@ -76,13 +76,13 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225943/index.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="央卫数字IPV6",湖北卫视
 http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225569/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="央卫数字IPV6",山西卫视
-
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226009/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="央卫数字IPV6",东南卫视
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225500/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="央卫数字IPV6",贵州卫视
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225974/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="央卫数字IPV6",辽宁卫视
-http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225499/index.m3u8
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226089/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="央卫数字IPV6",重庆卫视
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225963/index.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="央卫数字IPV6",宁夏卫视
@@ -96,7 +96,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225981/index.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="央卫数字IPV6",云南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="央卫数字IPV6",三沙卫视
-
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="央卫数字IPV6",厦门卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="央卫数字IPV6",内蒙古卫视
@@ -285,15 +285,13 @@ http://[2409:8087:1a01:df::4021]/PLTV/88888888/224/3221225525/index.m3u8
 #EXTINF:-1,tvg-id="浙江精彩影视" tvg-name="浙江精彩影视" tvg-logo="https://epg.112114.eu.org/logo/浙江精彩影视.png" group-title="央卫数字IPV6",精彩影视
 
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.eu.org/logo/求索动物.png" group-title="央卫数字IPV6",求索动物
-
-#EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://epg.112114.eu.org/logo/求索记录.png" group-title="央卫数字IPV6",求索记录
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.eu.org/logo/求索科学.png" group-title="央卫数字IPV6",求索科学
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.eu.org/logo/浙江求索生活.png" group-title="央卫数字IPV6",求索生活
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1,tvg-id="探索纪实" tvg-name="探索纪实" tvg-logo="https://epg.112114.eu.org/logo/探索纪实.png" group-title="央卫数字IPV6",探索纪实
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1,tvg-id="HD少儿动漫" tvg-name="HD少儿动漫" tvg-logo="https://epg.112114.eu.org/logo/HD少儿动漫.png" group-title="央卫数字IPV6",少儿动漫
 
 #EXTINF:-1,tvg-id="浙江风尚音乐" tvg-name="浙江风尚音乐" tvg-logo="https://epg.112114.eu.org/logo/浙江风尚音乐.png" group-title="央卫数字IPV6",风尚音乐
@@ -309,37 +307,7 @@ http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 group-title="央卫数字IPV6",黑莓动画
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225529/index.m3u8
 
-
-
 #EXTINF:-1 group-title="央卫数字IPV6",北京纪实科教
-
-
-
-#EXTINF:-1 group-title="央卫数字IPV6",兵器科技
-
-#EXTINF:-1 group-title="央卫数字IPV6",怀旧剧场
-
-#EXTINF:-1 group-title="央卫数字IPV6",世界地理
-
-#EXTINF:-1 group-title="央卫数字IPV6",文化精品
-
-#EXTINF:-1 group-title="央卫数字IPV6",央视台球
-
-#EXTINF:-1 group-title="央卫数字IPV6",央视高网
-
-#EXTINF:-1 group-title="央卫数字IPV6",风云剧场
-
-#EXTINF:-1 group-title="央卫数字IPV6",风云音乐
-
-#EXTINF:-1 group-title="央卫数字IPV6",第一剧场
-
-#EXTINF:-1 group-title="央卫数字IPV6",女性时尚
-
-#EXTINF:-1 group-title="央卫数字IPV6",风云足球
-
-#EXTINF:-1 group-title="央卫数字IPV6",电视指南
-
-
 
 #EXTINF:-1 group-title="央卫数字IPV6",超级综艺
 
@@ -759,24 +727,31 @@ rtmp://f13h.mine.nu/sat/tv721
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV5 1
 http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育频道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV5 2
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育频道",CCTV5+ 1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="体育频道",CCTV16
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育频道",CCTV5+ 2
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="体育频道",CCTV16 1
 http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="体育频道",CCTV16 2
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV风云足球.png" group-title="体育频道",CCTV风云足球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV高尔夫网球.png" group-title="体育频道",CCTV高尔夫网球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育频道",五星体育
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+
 
 #EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育频道",超级体育1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-
 #EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育频道",超级体育2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育频道",new超级体育1
-http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225635/index.m3u8
+
 #EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育频道",精品体育1
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育频道",精品体育2
@@ -787,28 +762,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1, group-title="体育频道",DUBAI体育3台
 
 
-#EXTINF:-1 group-title="体育频道",穿越火线
-http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe78 38e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="体育频道",和平精英•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="体育频道",梦幻西游•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="体育频道",跑跑卡丁车
-http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="体育频道",JJ斗地主
-http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="体育频道",QQ飞车•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="体育频道",狼人杀
-http://tc-tct.douyucdn2.cn/dyliveflv1/4615959rUFUtiJ3v.flv?wsAuth=7971ae0019a9ad2822153b7370372e8c&token=cpn-androidmpro-0-4615959-c88b2c2692ce476579452cdc62babd37285751f91f149297&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="体育频道",CF•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="体育频道",王者荣耀
-http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="体育频道",网易第五人格
-http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="体育频道",跑跑卡丁车•手游
-http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 
 
@@ -3451,6 +3404,28 @@ http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 
 
+#EXTINF:-1 group-title="其他",穿越火线
+http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe78 38e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="其他",和平精英•手游
+http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="其他",梦幻西游•手游
+http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="其他",跑跑卡丁车
+http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="其他",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="其他",QQ飞车•手游
+http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="其他",狼人杀
+http://tc-tct.douyucdn2.cn/dyliveflv1/4615959rUFUtiJ3v.flv?wsAuth=7971ae0019a9ad2822153b7370372e8c&token=cpn-androidmpro-0-4615959-c88b2c2692ce476579452cdc62babd37285751f91f149297&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="其他",CF•手游
+http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="其他",王者荣耀
+http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="其他",网易第五人格
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="其他",跑跑卡丁车•手游
+http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 
 
