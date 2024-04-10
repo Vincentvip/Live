@@ -756,10 +756,14 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育频道",精品体育2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1,tvg-id="iHOT爱体育" tvg-name="iHOT爱体育" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱体育.png" group-title="体育频道",iHOT爱体育
+#EXTINF:-1,tvg-id="iHOT爱体育" tvg-name="iHOT爱体育" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱体育.png" group-title="体育频道",iHOT爱体育1
+http://www.kitcc.cn:8887/rtp/239.77.0.176:5146
 #EXTINF:-1, group-title="体育频道",DUBAI体育1台
 #EXTINF:-1, group-title="体育频道",DUBAI体育2台
 #EXTINF:-1, group-title="体育频道",DUBAI体育3台
+
+#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="体育频道",爱体育
+
 
 
 
@@ -887,8 +891,7 @@ http://www.kitcc.cn:8887/rtp/239.77.0.251:5146
 http://www.kitcc.cn:8887/rtp/239.253.43.123:5146
 #EXTINF:-1 tvg-id="梅州客家生活" tvg-name="梅州客家生活" tvg-logo="https://epg.112114.xyz/logo/梅州客家生活.png" group-title="广东组播",梅州客家生活
 http://www.kitcc.cn:8887/rtp/239.253.43.124:5146
-#EXTINF:-1 tvg-id="CCTV-8K超高清" tvg-name="CCTV-8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="广东组播",CCTV-8K超高清
-http://www.kitcc.cn:8887/rtp/239.253.43.106:5146
+
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东组播",广东综艺(4k)
 http://www.kitcc.cn:8887/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东组播",广东综艺 宽色域(4k)
@@ -900,112 +903,10 @@ http://www.kitcc.cn:8887/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东组播",广东综艺 宽色域AVS2(4k)
 http://www.kitcc.cn:8887/rtp/239.77.0.252:5146
 
-#EXTINF:-1 tvg-id="4k测试频道8" tvg-name="4k测试频道8" tvg-logo="https://epg.112114.xyz/logo/4K测试频道8.png" group-title="广东组播",4k测试频道8
-http://www.kitcc.cn:8887/rtp/239.77.0.249:5146
-#EXTINF:-1 tvg-id="精选4k频道3" tvg-name="精选4k频道3" tvg-logo="https://epg.112114.xyz/logo/精选4K频道3.png" group-title="广东组播",精选4k频道3
-http://www.kitcc.cn:8887/rtp/239.77.0.153:5146
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="广东组播",CCTV-4K超高清
-http://www.kitcc.cn:8887/rtp/239.77.0.194:5146
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="广东组播",CCTV-4K超高清
-http://www.kitcc.cn:8887/rtp/239.77.0.174:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="广东组播",CCTV -1
-http://www.kitcc.cn:8887/rtp/239.77.0.86:5146
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="广东组播",CCTV -2
-http://www.kitcc.cn:8887/rtp/239.77.0.137:5146
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="广东组播",CCTV -7
-http://www.kitcc.cn:8887/rtp/239.77.0.138:5146
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="广东组播",CCTV-10
-http://www.kitcc.cn:8887/rtp/239.77.0.134:5146
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东组播",广东卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.84:5146
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="广东组播",CCTV-5＋体育赛事
-http://www.kitcc.cn:8887/rtp/239.77.0.87:5146
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="广东组播",CCTV-3综艺
-http://www.kitcc.cn:8887/rtp/239.77.0.169:5146
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="广东组播",CCTV-4中文国际
-http://www.kitcc.cn:8887/rtp/239.77.0.78:5146
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="广东组播",CCTV-5体育
-http://www.kitcc.cn:8887/rtp/239.77.0.170:5146
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="广东组播",CCTV-6电影
-http://www.kitcc.cn:8887/rtp/239.77.0.171:5146
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="广东组播",CCTV-8电视剧
-http://www.kitcc.cn:8887/rtp/239.77.0.172:5146
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="广东组播",CCTV-9纪录
-http://www.kitcc.cn:8887/rtp/239.77.0.135:5146
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="广东组播",CCTV-11戏曲
-http://www.kitcc.cn:8887/rtp/239.77.1.238:5146
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="广东组播",CCTV-12社会与法
-http://www.kitcc.cn:8887/rtp/239.77.0.136:5146
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="广东组播",CCTV-13新闻
-http://www.kitcc.cn:8887/rtp/239.77.0.188:5146
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="广东组播",CCTV-14少儿
-http://www.kitcc.cn:8887/rtp/239.77.0.133:5146
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="广东组播",CCTV-15音乐
-http://www.kitcc.cn:8887/rtp/239.77.1.239:5146
-#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="广东组播",爱体育
-http://www.kitcc.cn:8887/rtp/239.77.0.176:5146
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="广东组播",CCTV-16奥林匹克
-http://www.kitcc.cn:8887/rtp/239.77.0.165:5146
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="广东组播",CCTV-17农业农村
-http://www.kitcc.cn:8887/rtp/239.77.0.198:5146
 
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="广东组播",湖南卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.88:5146
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="广东组播",浙江卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.89:5146
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="广东组播",江苏卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.90:5146
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="广东组播",北京卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.91:5146
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东组播",深圳卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.92:5146
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="广东组播",黑龙江卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.93:5146
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="广东组播",湖北卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.95:5146
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="广东组播",天津卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.97:5146
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="广东组播",山东卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.94:5146
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="广东组播",东方卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.98:5146
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="广东组播",辽宁卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.123:5146
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="广东组播",四川卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.159:5146
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="广东组播",金鹰纪实
-http://www.kitcc.cn:8887/rtp/239.77.0.160:5146
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="广东组播",重庆卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.182:5146
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="广东组播",安徽卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.183:5146
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="广东组播",贵州卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.230:5146
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="广东组播",CETV-1
-http://www.kitcc.cn:8887/rtp/239.77.0.200:5146
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="广东组播",东南卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.146:5146
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="广东组播",纪实人文
-http://www.kitcc.cn:8887/rtp/239.77.0.147:5146
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="广东组播",河北卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.148:5146
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="广东组播",江西卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.149:5146
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="广东组播",吉林卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.150:5146
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="广东组播",广西卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.139:5146
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="广东组播",甘肃卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.189:5146
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="广东组播",河南卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.17:5146
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="广东组播",云南卫视
-http://www.kitcc.cn:8887/rtp/239.253.43.100:5146
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="广东组播",海南卫视
-http://www.kitcc.cn:8887/rtp/239.253.43.101:5146
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="广东组播",金鹰卡通
-http://www.kitcc.cn:8887/rtp/239.77.0.164:5146
+
+
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="广东组播",CHC高清电影
 http://www.kitcc.cn:8887/rtp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="广东组播",CCTV兵器科技
@@ -1033,8 +934,6 @@ http://www.kitcc.cn:8887/rtp/239.253.43.28:5146
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="广东组播",CCTV风云音乐
 http://www.kitcc.cn:8887/rtp/239.253.43.29:5146
 
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="广东组播",CCTV-16
-http://www.kitcc.cn:8887/rtp/239.77.1.76:5146
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="广东组播",CCTV第一剧场
 http://www.kitcc.cn:8887/rtp/239.253.43.15:5146
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="广东组播",CCTV风云剧场
@@ -1049,10 +948,7 @@ http://www.kitcc.cn:8887/rtp/239.253.43.14:5146
 http://www.kitcc.cn:8887/rtp/239.253.43.11:5146
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-name="CCTV高尔夫·网球" tvg-logo="https://epg.112114.xyz/logo/CCTV高尔夫·网球.png" group-title="广东组播",CCTV高尔夫·网球
 http://www.kitcc.cn:8887/rtp/239.253.43.12:5146
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="广东组播",纪实人文
-http://www.kitcc.cn:8887/rtp/239.77.1.216:5146
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="广东组播",金鹰纪实
-http://www.kitcc.cn:8887/rtp/239.77.1.217:5146
+
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="广东组播",CCTV央视文化精品
 http://www.kitcc.cn:8887/rtp/239.253.43.13:5146
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="广东组播",CCTV世界地理
@@ -1067,8 +963,7 @@ http://www.kitcc.cn:8887/rtp/239.77.1.119:5146
 http://www.kitcc.cn:8887/rtp/239.253.43.8:5146
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="广东组播",CCTV风云音乐
 http://www.kitcc.cn:8887/rtp/239.253.43.6:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="广东组播",CCTV-1综合
-http://www.kitcc.cn:8887/rtp/239.77.1.17:5146
+
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东组播",深圳卫视
 http://www.kitcc.cn:8887/rtp/239.77.1.3:5146
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东组播",深圳都市
@@ -1087,78 +982,10 @@ http://www.kitcc.cn:8887/rtp/239.77.1.244:5146
 http://www.kitcc.cn:8887/rtp/239.77.1.178:5146
 #EXTINF:-1 tvg-id="深视宜和购物" tvg-name="深视宜和购物" tvg-logo="https://epg.112114.xyz/logo/深视宜和购物.png" group-title="广东组播",深视宜和购物
 http://www.kitcc.cn:8887/rtp/239.77.1.87:5146
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="广东组播",CCTV-5＋
-http://www.kitcc.cn:8887/rtp/239.77.1.31:5146
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="广东组播",CCTV-2
-http://www.kitcc.cn:8887/rtp/239.77.1.158:5146
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="广东组播",CCTV-4
-http://www.kitcc.cn:8887/rtp/239.77.1.163:5146
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="广东组播",CCTV-7
-http://www.kitcc.cn:8887/rtp/239.77.1.159:5146
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="广东组播",CCTV-9
-http://www.kitcc.cn:8887/rtp/239.77.1.160:5146
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="广东组播",CCTV-10
-http://www.kitcc.cn:8887/rtp/239.77.1.113:5146
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="广东组播",CCTV-12
-http://www.kitcc.cn:8887/rtp/239.77.1.109:5146
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="广东组播",CCTV-14
-http://www.kitcc.cn:8887/rtp/239.77.1.161:5146
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="广东组播",CCTV-17
-http://www.kitcc.cn:8887/rtp/239.77.1.121:5146
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="广东组播",湖南卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.5:5146
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="广东组播",东方卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.218:5146
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="广东组播",浙江卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.33:5146
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="广东组播",北京卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.4:5146
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="广东组播",江苏卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.18:5146
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="广东组播",安徽卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.92:5146
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="广东组播",湖北卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.93:5146
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="广东组播",山东卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.142:5146
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="广东组播",黑龙江卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.6:5146
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="广东组播",天津卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.141:5146
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="广东组播",重庆卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.162:5146
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="广东组播",辽宁卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.103:5146
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="广东组播",河北卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.214:5146
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="广东组播",四川卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.215:5146
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东组播",广东卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.19:5146
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="广东组播",江西卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.219:5146
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="广东组播",贵州卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.221:5146
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="广东组播",河南卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.229:5146
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="广东组播",CCTV-13新闻
-http://www.kitcc.cn:8887/rtp/239.253.43.196:5146
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="广东组播",吉林卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.111:5146
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="广东组播",海南卫视
-http://www.kitcc.cn:8887/rtp/239.253.43.35:5146
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="广东组播",广西卫视
-http://www.kitcc.cn:8887/rtp/239.253.43.36:5146
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="广东组播",云南卫视
-http://www.kitcc.cn:8887/rtp/239.253.43.37:5146
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="广东组播",东南卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.104:5146
+
 #EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="广东组播",爱体育
 http://www.kitcc.cn:8887/rtp/239.77.1.116:5146
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="广东组播",CETV-1
-http://www.kitcc.cn:8887/rtp/239.77.1.222:5146
-#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="广东组播",CETV-4
-http://www.kitcc.cn:8887/rtp/239.253.43.40:5146
+
 #EXTINF:-1 tvg-id="EYE旅游" tvg-name="EYE旅游" tvg-logo="https://epg.112114.xyz/logo/EYE旅游.png" group-title="广东组播",旅游
 http://www.kitcc.cn:8887/rtp/239.77.1.102:5146
 #EXTINF:-1 tvg-id="收藏" tvg-name="收藏" tvg-logo="https://epg.112114.xyz/logo/收藏.png" group-title="广东组播",收藏
@@ -1187,93 +1014,16 @@ http://www.kitcc.cn:8887/rtp/239.77.0.167:5146
 http://www.kitcc.cn:8887/rtp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东组播",广东珠江
 http://www.kitcc.cn:8887/rtp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="广东组播",CCTV-1
-http://www.kitcc.cn:8887/rtp/239.77.0.129:5146
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="广东组播",CCTV-3
-http://www.kitcc.cn:8887/rtp/239.77.0.175:5146
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="广东组播",CCTV-5
-http://www.kitcc.cn:8887/rtp/239.77.0.177:5146
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="广东组播",CCTV-6
-http://www.kitcc.cn:8887/rtp/239.77.0.178:5146
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="广东组播",CCTV-8
-http://www.kitcc.cn:8887/rtp/239.77.0.181:5146
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="广东组播",湖南卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.127:5146
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="广东组播",浙江卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.125:5146
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="广东组播",江苏卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.126:5146
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东组播",深圳卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.130:5146
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="广东组播",黑龙江卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.124:5146
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="广东组播",湖北卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.128:5146
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="广东组播",天津卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.131:5146
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="广东组播",山东卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.132:5146
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="广东组播",辽宁卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.161:5146
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="广东组播",金鹰纪实
-http://www.kitcc.cn:8887/rtp/239.77.0.162:5146
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="广东组播",四川卫视
-http://www.kitcc.cn:8887/rtp/239.77.0.163:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="广东组播",CCTV-1
-http://www.kitcc.cn:8887/rtp/239.77.1.144:5146
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="广东组播",CCTV-5＋
-http://www.kitcc.cn:8887/rtp/239.77.1.147:5146
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东组播",深圳卫视
 http://www.kitcc.cn:8887/rtp/239.77.1.148:5146
 #EXTINF:-1 tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="广东组播",深圳体育
 http://www.kitcc.cn:8887/rtp/239.77.1.128:5146
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="广东组播",湖南卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.129:5146
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="广东组播",江苏卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.149:5146
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="广东组播",浙江卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.150:5146
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="广东组播",北京卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.151:5146
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东组播",广东卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.152:5146
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="广东组播",山东卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.153:5146
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="广东组播",CCTV-4
-http://www.kitcc.cn:8887/rtp/239.77.1.166:5146
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="广东组播",CCTV-7
-http://www.kitcc.cn:8887/rtp/239.77.1.167:5146
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="广东组播",CCTV-9
-http://www.kitcc.cn:8887/rtp/239.77.1.168:5146
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="广东组播",CCTV-10
-http://www.kitcc.cn:8887/rtp/239.77.1.169:5146
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="广东组播",CCTV-12
-http://www.kitcc.cn:8887/rtp/239.77.1.170:5146
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="广东组播",CCTV-14
-http://www.kitcc.cn:8887/rtp/239.77.1.171:5146
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="广东组播",CCTV-2
-http://www.kitcc.cn:8887/rtp/239.253.43.17:5146
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东组播",深圳都市
 http://www.kitcc.cn:8887/rtp/239.77.1.124:5146
 #EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="广东组播",深圳电视剧
 http://www.kitcc.cn:8887/rtp/239.77.1.125:5146
 #EXTINF:-1 tvg-id="深圳公共" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东组播",深圳公共
 http://www.kitcc.cn:8887/rtp/239.77.1.126:5146
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="广东组播",东方卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.156:5146
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="广东组播",安徽卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.157:5146
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="广东组播",湖北卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.174:5146
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="广东组播",黑龙江卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.179:5146
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="广东组播",天津卫视
-http://www.kitcc.cn:8887/rtp/239.77.1.182:5146
-
-
-
-
-
 
 
 
@@ -3444,7 +3194,7 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516d
 
 
 
-#EXTINF:-1 group-title="2024.4.9修复更新",dywwst8
+#EXTINF:-1 group-title="2024.4.10修复更新",dywwst8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 
