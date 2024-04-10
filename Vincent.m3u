@@ -1031,29 +1031,29 @@ http://www.kitcc.cn:8887/rtp/239.77.1.126:5146
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://113.89.247.82:41968/liveplay.m3u8
+http://113.89.247.82:43977/liveplay.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 #EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
-http://113.89.247.82:44825/liveplay.m3u8
+http://113.89.247.82:35843/liveplay.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经体育台
-http://113.89.247.82:34806/liveplay.m3u8
+http://113.89.247.82:34598/liveplay.m3u8
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经体育台
 #EXTINF:-1 tvg-name="星河台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",星河台
 #EXTINF:-1 group-title="港澳台",香港31台
-http://113.89.247.82:39730/liveplay.m3u8
+http://113.89.247.82:32904/liveplay.m3u8
 #EXTINF:-1 group-title="港澳台",香港32台
-http://113.89.247.82:40213/liveplay.m3u8
+http://113.89.247.82:43454/liveplay.m3u8
 #EXTINF:-1 group-title="港澳台",HOY76
-http://113.89.247.82:43975/liveplay.m3u8
+http://113.89.247.82:43432/liveplay.m3u8
 #EXTINF:-1 group-title="港澳台",HOY77
-http://113.89.247.82:45946/liveplay.m3u8
+http://113.89.247.82:37951/liveplay.m3u8
 #EXTINF:-1 group-title="港澳台",HOY78
 http://113.89.247.82:35444/liveplay.m3u8
 #EXTINF:-1 group-title="港澳台",VIUtv
