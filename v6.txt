@@ -1060,6 +1060,12 @@ TVB西游记,https://epg.112114.xyz/huya/23735126
 嘉峪关综合,https://tv.cry33.com/jygtv.php?id=jygzh
 嘉峪关公共,https://tv.cry33.com/jygtv.php?id=jyggg
 
+CCTV4K 超高清,https://tv.cry33.com/ys4k.php?id=4k
+CCTV8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
+
+
+
+
 私人电台_111,#genre#
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 華視,rtmp://f13h.mine.nu/sat/tv111
