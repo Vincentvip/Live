@@ -493,22 +493,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="央卫数字IPV4",军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="央卫数字IPV4",北京纪实科教8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1,tvg-id="苏州4K频道" tvg-name="苏州4K频道" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="央卫数字IPV4",苏州4K频道
+#EXTINF:-1,tvg-id="苏州4K频道" tvg-name="苏州4K频道" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="央卫数字IPV4",苏州4K频道
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="LoveNrture" group-title="央卫数字IPV4",Love Nrture 4K「自然」
+#EXTINF:-1 tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="央卫数字IPV4",Love Nature 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="央卫数字IPV4",时尚4K「时尚」
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="央卫数字IPV4",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="央卫数字IPV4",咪咕体育4K
+#EXTINF:-1 tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="央卫数字IPV4",Love Nature 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="央卫数字IPV4"group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕体育4K-1
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 group-title="央卫数字IPV4",咪咕体育4K-2
+#EXTINF:-1 group-title="央卫数字IPV4"group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕体育4K-2
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 group-title="央卫数字IPV4",Love Nrture 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 
 
