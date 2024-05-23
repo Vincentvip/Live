@@ -989,19 +989,20 @@ http://www.kitcc.cn:8887/rtp/239.77.1.126:5146
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳台",翡翠台1
 http://m.glx008.com:8000/bysid/1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳台",翡翠台2
+http://bziyunshao.synology.me:8889/bysid/1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳台",翡翠台3
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳台",明珠台1
 https://epg.pw/stream/646ab9165fd9d609642b55e9c72ff6f0eb5d017fa130683f9d877dda5841b307.ctv
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳台",明珠台2
+http://bziyunshao.synology.me:8890/bysid/2
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" " group-title="港澳台",J2
-
-
-
+http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻台
+http://bziyunshao.synology.me:8890/bysid/83
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳台",无线财经台
-
+http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳台",无线财经台
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台",星河台
 https://s2.pub/cctv-16
@@ -1010,25 +1011,25 @@ https://s2.pub/cctv-19
 #EXTINF:-1 group-title="港澳台",功夫台
 https://s2.pub/cctv-20
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳台",RTHK31
-
+http://bziyunshao.synology.me:8892/bysid/31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳台",RTHK32
-
+http://bziyunshao.synology.me:8892/bysid/32
 #EXTINF:-1 group-title="港澳台",香港33台
-
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="港澳台",香港34台
-
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="港澳台",香港35台
 
 #EXTINF:-1 group-title="港澳台",HOY76
-
+http://bziyunshao.synology.me:8891/bysid/76
 #EXTINF:-1 group-title="港澳台",HOY77
-
+http://bziyunshao.synology.me:8891/bysid/77
 #EXTINF:-1 group-title="港澳台",HOY78
-
+http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 group-title="港澳台",VIUtv
-
+http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1 group-title="港澳台",VIUtv6
-
+http://bziyunshao.synology.me:8889/bysid/96
 
 #EXTINF:-1 tvg-id="緯來体育" tvg-name="緯來体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="港澳台",緯來体育
 rtmp://f13h.mine.nu/sat/tv721
