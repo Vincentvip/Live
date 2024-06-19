@@ -352,41 +352,41 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央卫数字IPV4",CCTV17
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.eu.org/logo/CHC高清电影.png" group-title="央卫数字IPV4",CHC影迷电影
-http://148.135.93.213:81/live.php?id=CHC高清电影
+
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="央卫数字IPV4",CHC家庭影院
-http://148.135.93.213:81/live.php?id=CHC家庭影院
+
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="央卫数字IPV4",CHC动作电影
-http://148.135.93.213:81/live.php?id=CHC动作电影
+
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV第一剧场.png" group-title="央卫数字IPV4",CCTV第一剧场
-http://148.135.93.213:81/live.php?id=第一剧场
+
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV风云剧场.png" group-title="央卫数字IPV4",CCTV风云剧场
-http://148.135.93.213:81/live.php?id=风云剧场
+
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV怀旧剧场.png" group-title="央卫数字IPV4",CCTV怀旧剧场
-http://148.135.93.213:81/live.php?id=怀旧剧场
+
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV世界地理.png" group-title="央卫数字IPV4",CCTV世界地理
-http://148.135.93.213:81/live.php?id=世界地理
+
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV风云音乐.png" group-title="央卫数字IPV4",CCTV风云音乐
-http://148.135.93.213:81/live.php?id=风云音乐
+
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV兵器科技.png" group-title="央卫数字IPV4",CCTV兵器科技
-http://148.135.93.213:81/live.php?id=兵器科技
+
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV风云足球.png" group-title="央卫数字IPV4",CCTV风云足球
-http://148.135.93.213:81/live.php?id=风云足球
+
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV高尔夫网球.png" group-title="央卫数字IPV4",CCTV高尔夫网球
-http://148.135.93.213:81/live.php?id=央视高网
+
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV女性时尚.png" group-title="央卫数字IPV4",CCTV女性时尚
-http://148.135.93.213:81/live.php?id=女性时尚
+
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV央视文化精品.png" group-title="央卫数字IPV4",CCTV央视文化精品
-http://148.135.93.213:81/live.php?id=文化精品
+
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV央视台球.png" group-title="央卫数字IPV4",CCTV央视台球
-http://148.135.93.213:81/live.php?id=央视台球
+
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="央卫数字IPV4",求索动物
-http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+
 #EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="央卫数字IPV4",求索科学
-http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="央卫数字IPV4",求索生活
-http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+
 #EXTINF:-1,tvg-id="探索纪实" tvg-name="探索纪实" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="央卫数字IPV4",求索纪录
-http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="央卫数字IPV4",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -453,7 +453,7 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="央卫数字IPV4",黑龙江卫视
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="央卫数字IPV4",纪实人文
-http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
+
 #EXTINF:-1 tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="央卫数字IPV4",超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="央卫数字IPV4",超级综艺
@@ -555,15 +555,10 @@ http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-38
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-39
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-40
-
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-41
-
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-42
-
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-43
-
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-44
-
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播4K-1
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播4K-2
 
@@ -680,8 +675,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育频道",精品体育2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-
-
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育频道",五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="体育频道",央视台球
@@ -690,15 +683,308 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="体育频道",风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
-
 #EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/IHOT爱体育.png" group-title="体育频道",爱体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="体育频道",beIN Sports
+http://php.jdshipin.com:8880/xsj.php?id=beinsports
+#EXTINF:-1 group-title="体育频道",beIN Sports 2
+http://php.jdshipin.com:8880/xsj.php?id=beinsports2
+#EXTINF:-1 group-title="体育频道",beIN Sports 3
+http://php.jdshipin.com:8880/xsj.php?id=beinsports3
+#EXTINF:-1 group-title="体育频道",ELTA 体育-1
+http://php.jdshipin.com:8880/xsj.php?id=elta-sport1
+#EXTINF:-1 group-title="体育频道",ELTA 体育-2
+http://php.jdshipin.com:8880/xsj.php?id=elta-sport2
+#EXTINF:-1 group-title="体育频道",ELTA 体育-3
+http://php.jdshipin.com:8880/xsj.php?id=elta-sport3
+#EXTINF:-1 group-title="体育频道",ELTA体育4台
+http://php.jdshipin.com:8880/xsj.php?id=elta-sport4
+#EXTINF:-1 group-title="体育频道",博斯网球
+http://php.jdshipin.com:8880/xsj.php?id=sportcast-tennis
+#EXTINF:-1 group-title="体育频道",博斯运动-1
+http://php.jdshipin.com:8880/xsj.php?id=sportcast1
+#EXTINF:-1 group-title="体育频道",博斯运动-2
+http://php.jdshipin.com:8880/xsj.php?id=sportcast2
+#EXTINF:-1 group-title="体育频道",博斯无限
+http://php.jdshipin.com:8880/xsj.php?id=sportcast-wx
+#EXTINF:-1 group-title="体育频道",博斯高球-1
+http://php.jdshipin.com:8880/xsj.php?id=sportcast-golf1
+#EXTINF:-1 group-title="体育频道",博斯高球-2
+http://php.jdshipin.com:8880/xsj.php?id=sportcast-golf2
+#EXTINF:-1 group-title="体育频道",博斯魅力
+http://php.jdshipin.com:8880/xsj.php?id=sportcast-meili
+#EXTINF:-1 group-title="体育频道",ESPN
+http://php.jdshipin.com:8880/xsj.php?id=espn
+#EXTINF:-1 group-title="体育频道",ESPN 2
+http://php.jdshipin.com:8880/xsj.php?id=espn2
+#EXTINF:-1 group-title="体育频道",ESPN 3
+http://php.jdshipin.com:8880/xsj.php?id=espn3
+#EXTINF:-1 group-title="体育频道",ESPN 4
+http://php.jdshipin.com:8880/xsj.php?id=espn4
+#EXTINF:-1 group-title="体育频道",myTV SUPER直播足球1台
+http://php.jdshipin.com:8880/xsj.php?id=mytv-super-soccer1
+#EXTINF:-1 group-title="体育频道",myTV SUPER直播足球2台
+http://php.jdshipin.com:8880/xsj.php?id=mytv-super-soccer2
+#EXTINF:-1 group-title="体育频道",myTV SUPER直播足球3台
+http://php.jdshipin.com:8880/xsj.php?id=mytv-super-soccer3
+#EXTINF:-1 group-title="体育频道",myTV SUPER直播足球4台
+http://php.jdshipin.com:8880/xsj.php?id=mytv-super-soccer4
+#EXTINF:-1 group-title="体育频道",myTV SUPER 18
+http://php.jdshipin.com:8880/xsj.php?id=mytvsuper-18
+#EXTINF:-1 group-title="体育频道",纬来体育
+http://php.jdshipin.com:8880/xsj.php?id=videoland-sport
+#EXTINF:-1 group-title="体育频道",NBA
+http://php.jdshipin.com:8880/xsj.php?id=nba
+#EXTINF:-1 group-title="体育频道",WWE
+http://php.jdshipin.com:8880/xsj.php?id=wwe
+#EXTINF:-1 group-title="体育频道",DAZN 1
+http://php.jdshipin.com:8880/xsj.php?id=eleven-sport1
+#EXTINF:-1 group-title="体育频道",DAZN 2
+http://php.jdshipin.com:8880/xsj.php?id=eleven-sport2
+#EXTINF:-1 group-title="体育频道",Eurosports-1
+http://php.jdshipin.com:8880/xsj.php?id=eurosports-1
+#EXTINF:-1 group-title="体育频道",SPOTV
+http://php.jdshipin.com:8880/xsj.php?id=spotv
+#EXTINF:-1 group-title="体育频道",SPOTV-2
+http://php.jdshipin.com:8880/xsj.php?id=spotv2
+#EXTINF:-1 group-title="体育频道",时尚运动 X
+http://php.jdshipin.com:8880/xsj.php?id=ssydx
+#EXTINF:-1 group-title="体育频道",GINX Esports TV
+http://php.jdshipin.com:8880/xsj.php?id=ginx-esports
+#EXTINF:-1 group-title="体育频道",Tech Storm
+http://php.jdshipin.com:8880/xsj.php?id=tech-storm
+#EXTINF:-1 group-title="体育频道",TRACE Sport Stars
+http://php.jdshipin.com:8880/xsj.php?id=trace-sport-stars
+#EXTINF:-1 group-title="体育频道",W-Sport
+http://php.jdshipin.com:8880/xsj.php?id=w-sport
+#EXTINF:-1 group-title="体育频道",PremierSports
+http://php.jdshipin.com:8880/xsj.php?id=premiersports
+#EXTINF:-1 group-title="体育频道",智林体育台
+http://php.jdshipin.com:8880/xsj.php?id=zl-sports
 
 
 
 
-
-
+#EXTINF:-1 group-title="广东组播" ,广东珠江
+http://www.nas147.myds.me:8888/udp/239.77.0.3:5146
+#EXTINF:-1 group-title="广东组播" ,广东珠江
+http://www.nas147.myds.me:8888/udp/239.77.1.94:5146
+#EXTINF:-1 group-title="广东组播" ,广东新闻
+http://www.nas147.myds.me:8888/udp/239.77.0.4:5146
+#EXTINF:-1 group-title="广东组播" ,广东民生
+http://www.nas147.myds.me:8888/udp/239.77.0.5:5146
+#EXTINF:-1 group-title="广东组播" ,广东体育
+http://www.nas147.myds.me:8888/udp/239.77.0.6:5146
+#EXTINF:-1 group-title="广东组播" ,广东体育
+http://www.nas147.myds.me:8888/udp/239.77.1.97:5146
+#EXTINF:-1 group-title="广东组播" ,广东卫视高清
+http://www.nas147.myds.me:8888/udp/239.77.1.19:5146
+#EXTINF:-1 group-title="广东组播" ,广东卫视高清
+http://www.nas147.myds.me:8888/udp/239.77.1.152:5146
+#EXTINF:-1 group-title="广东组播" ,广东卫视高清
+http://www.nas147.myds.me:8888/udp/239.77.0.84:5146
+#EXTINF:-1 group-title="广东组播" ,广东卫视超清
+http://www.nas147.myds.me:8888/udp/239.77.0.166:5146
+#EXTINF:-1 group-title="广东组播" ,广东珠江高清
+http://www.nas147.myds.me:8888/udp/239.77.0.1:5146
+#EXTINF:-1 group-title="广东组播" ,广东珠江超清
+http://www.nas147.myds.me:8888/udp/239.77.0.114:5146
+#EXTINF:-1 group-title="广东组播" ,广东新闻高清
+http://www.nas147.myds.me:8888/udp/239.77.0.173:5146
+#EXTINF:-1 group-title="广东组播" ,广东民生高清
+http://www.nas147.myds.me:8888/udp/239.77.0.225:5146
+#EXTINF:-1 group-title="广东组播" ,广东体育高清
+http://www.nas147.myds.me:8888/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="广东组播" ,广东体育超清
+http://www.nas147.myds.me:8888/udp/239.77.0.168:5146
+#EXTINF:-1 group-title="广东组播" ,经济科教高清
+http://www.nas147.myds.me:8888/udp/239.77.0.85:5146
+#EXTINF:-1 group-title="广东组播" ,经济科教超清
+http://www.nas147.myds.me:8888/udp/239.77.0.167:5146
+#EXTINF:-1 group-title="广东组播" ,大湾区卫视高清
+http://www.nas147.myds.me:8888/udp/239.77.0.215:5146
+#EXTINF:-1 group-title="广东组播" ,广东影视高清
+http://www.nas147.myds.me:8888/udp/239.77.0.217:5146
+#EXTINF:-1 group-title="广东组播" ,南国都市4K
+http://www.nas147.myds.me:8888/udp/239.253.43.99:5146
+#EXTINF:-1 group-title="广东组播" ,广东少儿高清
+http://www.nas147.myds.me:8888/udp/239.77.0.250:5146
+#EXTINF:-1 group-title="广东组播" ,广东国际
+http://www.nas147.myds.me:8888/udp/239.77.0.7:5146
+#EXTINF:-1 group-title="广东组播" ,经济科教
+http://www.nas147.myds.me:8888/udp/239.77.0.8:5146
+#EXTINF:-1 group-title="广东组播" ,大湾区卫视
+http://www.nas147.myds.me:8888/udp/239.77.0.9:5146
+#EXTINF:-1 group-title="广东组播" ,大湾区卫视
+http://www.nas147.myds.me:8888/udp/239.77.1.12:5146
+#EXTINF:-1 group-title="广东组播" ,广东影视
+http://www.nas147.myds.me:8888/udp/239.77.0.11:5146
+#EXTINF:-1 group-title="广东组播" ,广东少儿
+http://www.nas147.myds.me:8888/udp/239.77.0.12:5146
+#EXTINF:-1 group-title="广东组播" ,湛江新闻综合
+http://www.nas147.myds.me:8888/udp/239.77.0.120:5146
+#EXTINF:-1 group-title="广东组播" ,湛江新闻综合高清
+http://www.nas147.myds.me:8888/udp/239.77.0.141:5146
+#EXTINF:-1 group-title="广东组播" ,湛江公共
+http://www.nas147.myds.me:8888/udp/239.77.0.121:5146
+#EXTINF:-1 group-title="广东组播" ,湛江公共高清
+http://www.nas147.myds.me:8888/udp/239.77.0.140:5146
+#EXTINF:-1 group-title="广东组播" ,揭阳综合
+http://www.nas147.myds.me:8888/udp/239.77.0.157:5146
+#EXTINF:-1 group-title="广东组播" ,揭阳综合高清
+http://www.nas147.myds.me:8888/udp/239.77.0.229:5146
+#EXTINF:-1 group-title="广东组播" ,揭阳生活
+http://www.nas147.myds.me:8888/udp/239.77.0.158:5146
+#EXTINF:-1 group-title="广东组播" ,揭阳生活高清
+http://www.nas147.myds.me:8888/udp/239.77.0.251:5146
+#EXTINF:-1 group-title="广东组播" ,汕尾新闻综合
+http://www.nas147.myds.me:8888/udp/239.77.1.189:5146
+#EXTINF:-1 group-title="广东组播" ,汕尾新闻综合高清
+http://www.nas147.myds.me:8888/udp/239.77.0.25:5146
+#EXTINF:-1 group-title="广东组播" ,汕尾文化生活
+http://www.nas147.myds.me:8888/udp/239.77.1.190:5146
+#EXTINF:-1 group-title="广东组播" ,汕尾文化生活高清
+http://www.nas147.myds.me:8888/udp/239.77.0.187:5146
+#EXTINF:-1 group-title="广东组播" ,江门综合
+http://www.nas147.myds.me:8888/udp/239.77.0.195:5146
+#EXTINF:-1 group-title="广东组播" ,江门综合高清
+http://www.nas147.myds.me:8888/udp/239.77.0.201:5146
+#EXTINF:-1 group-title="广东组播" ,江门侨乡生活
+http://www.nas147.myds.me:8888/udp/239.77.0.196:5146
+#EXTINF:-1 group-title="广东组播" ,江门侨乡生活高清
+http://www.nas147.myds.me:8888/udp/239.77.0.202:5146
+#EXTINF:-1 group-title="广东组播" ,江门教育
+http://www.nas147.myds.me:8888/udp/239.77.0.197:5146
+#EXTINF:-1 group-title="广东组播" ,江门教育高清
+http://www.nas147.myds.me:8888/udp/239.77.0.203:5146
+#EXTINF:-1 group-title="广东组播" ,杭州电视台1套
+http://www.nas147.myds.me:8888/udp/239.77.0.247:5146
+#EXTINF:-1 group-title="广东组播" ,杭州电视台1套
+http://www.nas147.myds.me:8888/udp/239.77.1.154:5146
+#EXTINF:-1 group-title="广东组播" ,HZTV-1高清
+http://www.nas147.myds.me:8888/udp/239.77.1.232:5146
+#EXTINF:-1 group-title="广东组播" ,杭州电视台2台
+http://www.nas147.myds.me:8888/udp/239.77.0.248:5146
+#EXTINF:-1 group-title="广东组播" ,珠海-1
+http://www.nas147.myds.me:8888/udp/239.77.1.230:5146
+#EXTINF:-1 group-title="广东组播" ,珠海-1高清
+http://www.nas147.myds.me:8888/udp/239.77.0.155:5146
+#EXTINF:-1 group-title="广东组播" ,珠海-2
+http://www.nas147.myds.me:8888/udp/239.77.1.231:5146
+#EXTINF:-1 group-title="广东组播" ,珠海-2高清
+http://www.nas147.myds.me:8888/udp/239.77.0.154:5146
+#EXTINF:-1 group-title="广东组播" ,肇庆综合
+http://www.nas147.myds.me:8888/udp/239.253.43.3:5146
+#EXTINF:-1 group-title="广东组播" ,肇庆综合高清
+http://www.nas147.myds.me:8888/udp/239.253.43.1:5146
+#EXTINF:-1 group-title="广东组播" ,肇庆生活服务
+http://www.nas147.myds.me:8888/udp/239.253.43.4:5146
+#EXTINF:-1 group-title="广东组播" ,肇庆生活服务高清
+http://www.nas147.myds.me:8888/udp/239.253.43.2:5146
+#EXTINF:-1 group-title="广东组播" ,河源综合
+http://www.nas147.myds.me:8888/udp/239.253.43.215:5146
+#EXTINF:-1 group-title="广东组播" ,河源综合高清
+http://www.nas147.myds.me:8888/udp/239.253.43.213:5146
+#EXTINF:-1 group-title="广东组播" ,河源公共
+http://www.nas147.myds.me:8888/udp/239.253.43.216:5146
+#EXTINF:-1 group-title="广东组播" ,河源公共高清
+http://www.nas147.myds.me:8888/udp/239.253.43.214:5146
+#EXTINF:-1 group-title="广东组播" ,清远新闻综合
+http://www.nas147.myds.me:8888/udp/239.253.43.31:5146
+#EXTINF:-1 group-title="广东组播" ,清远新闻综合高清
+http://www.nas147.myds.me:8888/udp/239.253.43.33:5146
+#EXTINF:-1 group-title="广东组播" ,清远文旅生活
+http://www.nas147.myds.me:8888/udp/239.253.43.32:5146
+#EXTINF:-1 group-title="广东组播" ,清远文旅生活
+http://www.nas147.myds.me:8888/udp/239.77.0.241:5146
+#EXTINF:-1 group-title="广东组播" ,清远文旅生活高清
+http://www.nas147.myds.me:8888/udp/239.253.43.34:5146
+#EXTINF:-1 group-title="广东组播" ,云浮综合
+http://www.nas147.myds.me:8888/udp/239.253.43.195:5146
+#EXTINF:-1 group-title="广东组播" ,云浮综合高清
+http://www.nas147.myds.me:8888/udp/239.77.0.253:5146
+#EXTINF:-1 group-title="广东组播" ,云浮文旅
+http://www.nas147.myds.me:8888/udp/239.253.43.194:5146
+#EXTINF:-1 group-title="广东组播" ,云浮文旅高清
+http://www.nas147.myds.me:8888/udp/239.77.0.254:5146
+#EXTINF:-1 group-title="广东组播" ,茂名综合
+http://www.nas147.myds.me:8888/udp/239.77.0.204:5146
+#EXTINF:-1 group-title="广东组播" ,茂名综合高清
+http://www.nas147.myds.me:8888/udp/239.77.0.206:5146
+#EXTINF:-1 group-title="广东组播" ,茂名公共
+http://www.nas147.myds.me:8888/udp/239.77.0.205:5146
+#EXTINF:-1 group-title="广东组播" ,茂名公共高清
+http://www.nas147.myds.me:8888/udp/239.77.0.207:5146
+#EXTINF:-1 group-title="广东组播" ,汕头综合
+http://www.nas147.myds.me:8888/udp/239.253.43.30:5146
+#EXTINF:-1 group-title="广东组播" ,汕头综合高清
+http://www.nas147.myds.me:8888/udp/239.77.1.130:5146
+#EXTINF:-1 group-title="广东组播" ,汕头综合高清
+http://www.nas147.myds.me:8888/udp/239.253.43.45:5146
+#EXTINF:-1 group-title="广东组播" ,汕头经济生活
+http://www.nas147.myds.me:8888/udp/239.253.43.43:5146
+#EXTINF:-1 group-title="广东组播" ,汕头经济生活高清
+http://www.nas147.myds.me:8888/udp/239.77.1.131:5146
+#EXTINF:-1 group-title="广东组播" ,汕头经济生活高清
+http://www.nas147.myds.me:8888/udp/239.253.43.46:5146
+#EXTINF:-1 group-title="广东组播" ,汕头文旅体育
+http://www.nas147.myds.me:8888/udp/239.253.43.44:5146
+#EXTINF:-1 group-title="广东组播" ,汕头文旅体育高清
+http://www.nas147.myds.me:8888/udp/239.77.1.132:5146
+#EXTINF:-1 group-title="广东组播" ,汕头文旅体育高清
+http://www.nas147.myds.me:8888/udp/239.253.43.47:5146
+#EXTINF:-1 group-title="广东组播" ,佛山公共
+http://www.nas147.myds.me:8888/udp/239.253.43.48:5146
+#EXTINF:-1 group-title="广东组播" ,佛山公共高清
+http://www.nas147.myds.me:8888/udp/239.253.43.53:5146
+#EXTINF:-1 group-title="广东组播" ,佛山南海
+http://www.nas147.myds.me:8888/udp/239.253.43.49:5146
+#EXTINF:-1 group-title="广东组播" ,佛山南海
+http://www.nas147.myds.me:8888/udp/239.77.0.236:5146
+#EXTINF:-1 group-title="广东组播" ,佛山南海高清
+http://www.nas147.myds.me:8888/udp/239.253.43.54:5146
+#EXTINF:-1 group-title="广东组播" ,佛山顺德
+http://www.nas147.myds.me:8888/udp/239.253.43.50:5146
+#EXTINF:-1 group-title="广东组播" ,佛山顺德高清
+http://www.nas147.myds.me:8888/udp/239.253.43.55:5146
+#EXTINF:-1 group-title="广东组播" ,佛山影视
+http://www.nas147.myds.me:8888/udp/239.253.43.51:5146
+#EXTINF:-1 group-title="广东组播" ,佛山影视高清
+http://www.nas147.myds.me:8888/udp/239.253.43.56:5146
+#EXTINF:-1 group-title="广东组播" ,佛山综合
+http://www.nas147.myds.me:8888/udp/239.253.43.52:5146
+#EXTINF:-1 group-title="广东组播" ,佛山综合高清
+http://www.nas147.myds.me:8888/udp/239.253.43.57:5146
+#EXTINF:-1 group-title="广东组播" ,东莞新闻综合
+http://www.nas147.myds.me:8888/udp/239.253.43.102:5146
+#EXTINF:-1 group-title="广东组播" ,东莞新闻综合高清
+http://www.nas147.myds.me:8888/udp/239.253.43.104:5146
+#EXTINF:-1 group-title="广东组播" ,东莞生活资讯
+http://www.nas147.myds.me:8888/udp/239.253.43.103:5146
+#EXTINF:-1 group-title="广东组播" ,东莞生活资讯高清
+http://www.nas147.myds.me:8888/udp/239.253.43.105:5146
+#EXTINF:-1 group-title="广东组播" ,中山综合
+http://www.nas147.myds.me:8888/udp/239.253.43.59:5146
+#EXTINF:-1 group-title="广东组播" ,中山综合高清
+http://www.nas147.myds.me:8888/udp/239.253.43.62:5146
+#EXTINF:-1 group-title="广东组播" ,香山文化
+http://www.nas147.myds.me:8888/udp/239.253.43.60:5146
+#EXTINF:-1 group-title="广东组播" ,香山文化高清
+http://www.nas147.myds.me:8888/udp/239.253.43.63:5146
+#EXTINF:-1 group-title="广东组播" ,中山教育
+http://www.nas147.myds.me:8888/udp/239.253.43.61:5146
+#EXTINF:-1 group-title="广东组播" ,中山教育高清
+http://www.nas147.myds.me:8888/udp/239.253.43.64:5146
+#EXTINF:-1 group-title="广东组播" ,徐闻综合高清
+http://www.nas147.myds.me:8888/udp/239.253.43.112:5146
+#EXTINF:-1 group-title="广东组播" ,广东新闻高清
+http://14.29.76.30:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="广东组播" ,广东影视高清
+http://14.29.76.30:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="广东组播" ,广东珠江高清
+http://14.29.76.30:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="广东组播" ,广东少儿高清
+http://14.29.76.30:9901/tsfile/live/1021_1.m3u8
 
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东组播",广东体育
 http://www.kitcc.cn:8887/rtp/239.77.0.112:5146
@@ -983,7 +1269,74 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPla
 #EXTINF:-1 group-title="港澳台",香港34台
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="港澳台",香港35台
-
+#EXTINF:-1 group-title="港澳台",TVB 翡翠台
+http://php.jdshipin.com:8880/xsj.php?id=feicui
+#EXTINF:-1 group-title="港澳台",TVB 无线新闻台
+http://php.jdshipin.com:8880/xsj.php?id=tvb-news
+#EXTINF:-1 group-title="港澳台",TVB PLUS
+http://php.jdshipin.com:8880/xsj.php?id=tvb-plus
+#EXTINF:-1 group-title="港澳台",TVB 黄金翡翠台
+http://php.jdshipin.com:8880/xsj.php?id=golden-jade
+#EXTINF:-1 group-title="港澳台",TVB 黄金华剧台
+http://php.jdshipin.com:8880/xsj.php?id=golden-chinese-drama
+#EXTINF:-1 group-title="港澳台",TVB 千禧经典台
+http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
+#EXTINF:-1 group-title="港澳台",TVB 粤语片台
+http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
+#EXTINF:-1 group-title="港澳台",TVB 星河台
+http://php.jdshipin.com:8880/xsj.php?id=tvb-xinghe
+#EXTINF:-1 group-title="港澳台",TVB 亚洲剧台
+http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
+#EXTINF:-1 group-title="港澳台",TVB 娱乐新闻台
+http://php.jdshipin.com:8880/xsj.php?id=TVB%20ylxw
+#EXTINF:-1 group-title="港澳台",J2
+http://php.jdshipin.com:8880/xsj.php?id=j2
+#EXTINF:-1 group-title="港澳台",TVB 明珠台
+http://php.jdshipin.com:8880/xsj.php?id=pearl
+#EXTINF:-1 group-title="港澳台",TVB 华语剧台
+http://php.jdshipin.com:8880/xsj.php?id=tvb-drama
+#EXTINF:-1 group-title="港澳台",凤凰卫视 资讯台
+http://php.jdshipin.com:8880/xsj.php?id=phtv-info
+#EXTINF:-1 group-title="港澳台",凤凰卫视 中文台
+http://php.jdshipin.com:8880/xsj.php?id=phtv-cn
+#EXTINF:-1 group-title="港澳台",凤凰卫视 香港台
+http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
+#EXTINF:-1 group-title="港澳台",HOY 资讯台
+http://php.jdshipin.com:8880/xsj.php?id=hoy-info
+#EXTINF:-1 group-title="港澳台",HOY TV
+http://php.jdshipin.com:8880/xsj.php?id=hoytv
+#EXTINF:-1 group-title="港澳台",HOY国际财经
+http://php.jdshipin.com:8880/xsj.php?id=hoy-ibc
+#EXTINF:-1 group-title="港澳台",ViuTV
+http://php.jdshipin.com:8880/xsj.php?id=viutv
+#EXTINF:-1 group-title="港澳台",ViuTV6
+http://php.jdshipin.com:8880/xsj.php?id=viutv6
+#EXTINF:-1 group-title="港澳台",天映频道
+http://php.jdshipin.com:8880/xsj.php?id=celestial
+#EXTINF:-1 group-title="港澳台",天映经典
+http://php.jdshipin.com:8880/xsj.php?id=cccm
+#EXTINF:-1 group-title="港澳台",Thrill
+http://php.jdshipin.com:8880/xsj.php?id=thrill
+#EXTINF:-1 group-title="港澳台",星空卫视
+http://php.jdshipin.com:8880/xsj.php?id=star-xing-kong
+#EXTINF:-1 group-title="港澳台",香港卫视
+http://php.jdshipin.com:8880/xsj.php?id=hks
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://php.jdshipin.com:8880/xsj.php?id=mastv
+#EXTINF:-1 group-title="港澳台",澳门卫视
+http://php.jdshipin.com:8880/xsj.php?id=mstv
+#EXTINF:-1 group-title="港澳台",澳门莲花卫视
+http://php.jdshipin.com:8880/xsj.php?id=lotustv
+#EXTINF:-1 group-title="港澳台",澳门资讯
+http://php.jdshipin.com:8880/xsj.php?id=tdm-information
+#EXTINF:-1 group-title="港澳台",澳视澳门
+http://php.jdshipin.com:8880/xsj.php?id=tdm
+#EXTINF:-1 group-title="港澳台",HKC 18台
+http://php.jdshipin.com:8880/xsj.php?id=hkc18
+#EXTINF:-1 group-title="港澳台",港台电视 31
+http://php.jdshipin.com:8880/xsj.php?id=rthk31
+#EXTINF:-1 group-title="港澳台",港台电视 32
+http://php.jdshipin.com:8880/xsj.php?id=rthk32
 #EXTINF:-1 group-title="港澳台",HOY76
 http://bziyunshao.synology.me:8891/bysid/76
 #EXTINF:-1 group-title="港澳台",HOY77
@@ -1043,6 +1396,109 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://f13h.mine.nu/sat/tv751
 
 
+#EXTINF:-1 group-title="香港Now系列",Now Sports 618 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
+#EXTINF:-1 group-title="香港Now系列",Now 财经台
+http://php.jdshipin.com:8880/xsj.php?id=now-finance
+#EXTINF:-1 group-title="香港Now系列",Now 爆谷台
+http://php.jdshipin.com:8880/xsj.php?id=baogu-movies
+#EXTINF:-1 group-title="香港Now系列",Now 星影台
+http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
+#EXTINF:-1 group-title="香港Now系列",Now 新闻台
+http://php.jdshipin.com:8880/xsj.php?id=now-news
+#EXTINF:-1 group-title="香港Now系列",Now 直播台
+http://php.jdshipin.com:8880/xsj.php?id=now-direct
+#EXTINF:-1 group-title="香港Now系列",Now报价台
+http://php.jdshipin.com:8880/xsj.php?id=now-data
+#EXTINF:-1 group-title="香港Now系列",Now jelli紫金国际台
+http://php.jdshipin.com:8880/xsj.php?id=now-jelli
+#EXTINF:-1 group-title="香港Now系列",Now华剧台
+http://php.jdshipin.com:8880/xsj.php?id=now-chinese-drama
+#EXTINF:-1 group-title="香港Now系列",HBO Now115
+http://php.jdshipin.com:8880/xsj.php?id=Now-HBO
+#EXTINF:-1 group-title="香港Now系列",Now HBO Hits
+http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
+#EXTINF:-1 group-title="香港Now系列",Now HBO Family
+http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily
+#EXTINF:-1 group-title="香港Now系列",Now HBO Signature
+http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature
+#EXTINF:-1 group-title="香港Now系列",MovieMovie
+http://php.jdshipin.com:8880/xsj.php?id=moviemovie
+#EXTINF:-1 group-title="香港Now系列",NowViu剧集台
+http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
+#EXTINF:-1 group-title="香港Now系列",Now Sports 641
+http://php.jdshipin.com:8880/xsj.php?id=now-sports641
+#EXTINF:-1 group-title="香港Now系列",Now NBA
+http://php.jdshipin.com:8880/xsj.php?id=now-nba
+#EXTINF:-1 group-title="香港Now系列",Now Sports精选
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-prime
+#EXTINF:-1 group-title="香港Now系列",Now Sports 1
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-1
+#EXTINF:-1 group-title="香港Now系列",Now Sports 2
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-2
+#EXTINF:-1 group-title="香港Now系列",Now Sports 3
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-3
+#EXTINF:-1 group-title="香港Now系列",Now Sports 4
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-4
+#EXTINF:-1 group-title="香港Now系列",Now Sports 5
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-5
+#EXTINF:-1 group-title="香港Now系列",Now Sports 6
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-6
+#EXTINF:-1 group-title="香港Now系列",Now Sports 7
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-7
+#EXTINF:-1 group-title="香港Now系列",Now Sports Plus
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-plus
+#EXTINF:-1 group-title="香港Now系列",Now Sports 英超1
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
+#EXTINF:-1 group-title="香港Now系列",Now beIN SPORTS 1
+http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports1
+#EXTINF:-1 group-title="香港Now系列",Now beIN SPORTS 2
+http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports2
+#EXTINF:-1 group-title="香港Now系列",Now beIN SPORTS 3
+http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
+#EXTINF:-1 group-title="香港Now系列",Now 668
+http://php.jdshipin.com:8880/xsj.php?id=now-668
+#EXTINF:-1 group-title="香港Now系列",Now Golf 2
+http://php.jdshipin.com:8880/xsj.php?id=now-golf2
+#EXTINF:-1 group-title="香港Now系列",Now Golf 3
+http://php.jdshipin.com:8880/xsj.php?id=now-golf3
+
+
+
+
+
+#EXTINF:-1 group-title="国际",新加坡Hub都会
+http://php.jdshipin.com:8880/xsj.php?id=HubECity
+#EXTINF:-1 group-title="国际",新加坡Hub娱家
+http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
+#EXTINF:-1 group-title="国际",新加坡HubSports 1
+http://php.jdshipin.com:8880/xsj.php?id=hubsports1
+#EXTINF:-1 group-title="国际",新加坡HubSports2
+http://php.jdshipin.com:8880/xsj.php?id=hubsports2
+#EXTINF:-1 group-title="国际",新加坡HubSports3
+http://php.jdshipin.com:8880/xsj.php?id=hubsports3
+#EXTINF:-1 group-title="国际",新加坡HubSport4
+http://php.jdshipin.com:8880/xsj.php?id=hubsports4
+#EXTINF:-1 group-title="国际",新加坡HubSports Plus
+http://php.jdshipin.com:8880/xsj.php?id=hubsports-plus
+#EXTINF:-1 group-title="国际",新加坡Hub Premier 1
+http://php.jdshipin.com:8880/xsj.php?id=hubpremier1
+#EXTINF:-1 group-title="国际",新加坡HubPremier2
+http://php.jdshipin.com:8880/xsj.php?id=hubpremier2
+#EXTINF:-1 group-title="国际",新加坡HubPremier3
+http://php.jdshipin.com:8880/xsj.php?id=hubpremier3
+#EXTINF:-1 group-title="国际",新加坡HubPremier 4
+http://php.jdshipin.com:8880/xsj.php?id=hubpremier4
+#EXTINF:-1 group-title="国际",新加坡HubPremier 5
+http://php.jdshipin.com:8880/xsj.php?id=hubpremier5
+#EXTINF:-1 group-title="国际",新加坡Hub Sensasi
+http://php.jdshipin.com:8880/xsj.php?id=hub-sensasi
+#EXTINF:-1 group-title="国际",新加坡tvn HD
+http://php.jdshipin.com:8880/xsj.php?id=tvnhd
+#EXTINF:-1 group-title="国际",新加坡AstroWarna Hub版
+http://php.jdshipin.com:8880/xsj.php?id=astro-warna-hub
+#EXTINF:-1 group-title="国际",新加坡ONEMalay
+http://php.jdshipin.com:8880/xsj.php?id=one-malay
 
 
 #EXTINF:-1 group-title="国际",CNN新闻
@@ -6027,7 +6483,7 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 
 
-#EXTINF:-1 group-title="2024.6.16更新",dywwst8
+#EXTINF:-1 group-title="2024.6.19更新",dywwst8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 
