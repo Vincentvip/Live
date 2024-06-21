@@ -562,10 +562,12 @@ http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播4K-1
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播4K-2
 
-
+2222
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕IPV4",咪咕直播
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕IPV4",咪咕直播-1
  http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
