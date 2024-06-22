@@ -1,2 +1,249 @@
 #EXTM3U
 停止更新
+
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东组播",广东体育
+http://www.kitcc.cn:8887/rtp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东组播",广东新闻
+http://www.kitcc.cn:8887/rtp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东组播",广东珠江
+http://www.kitcc.cn:8887/rtp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东组播",广东经济科教
+http://www.kitcc.cn:8887/rtp/239.77.0.85:5146
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东组播",大湾区卫视
+http://www.kitcc.cn:8887/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东组播",广东影视
+http://www.kitcc.cn:8887/rtp/239.77.0.217:5146
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东组播",广东民生
+http://www.kitcc.cn:8887/rtp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东组播",广东少儿
+http://www.kitcc.cn:8887/rtp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广东组播",嘉佳卡通
+http://www.kitcc.cn:8887/rtp/239.77.0.179:5146
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东组播",广州综合
+http://www.kitcc.cn:8887/rtp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东组播",广州新闻
+http://www.kitcc.cn:8887/rtp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="广东组播",广州影视
+http://www.kitcc.cn:8887/rtp/239.253.43.73:5146
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东组播",广州法治
+http://www.kitcc.cn:8887/rtp/239.253.43.74:5146
+#EXTINF:-1 tvg-id="宝安第一课" tvg-name="宝安第一课" tvg-logo="https://epg.112114.xyz/logo/宝安第一课.png" group-title="广东组播",宝安第一课
+http://www.kitcc.cn:8887/rtp/239.77.1.225:5146
+#EXTINF:-1 tvg-id="深圳众创TV" tvg-name="深圳众创TV" tvg-logo="https://epg.112114.xyz/logo/深圳众创TV.png" group-title="广东组播",深圳众创TV
+http://www.kitcc.cn:8887/rtp/239.77.1.247:5146
+#EXTINF:-1 tvg-id="深圳移动电视" tvg-name="深圳移动电视" tvg-logo="https://epg.112114.xyz/logo/深圳移动电视.png" group-title="广东组播",深圳移动电视
+http://www.kitcc.cn:8887/rtp/239.77.1.175:5146
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.112114.xyz/logo/佛山综合.png" group-title="广东组播",佛山综合
+http://www.kitcc.cn:8887/rtp/239.253.43.57:5146
+#EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://epg.112114.xyz/logo/佛山影视.png" group-title="广东组播",佛山影视
+http://www.kitcc.cn:8887/rtp/239.253.43.56:5146
+#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png" group-title="广东组播",佛山公共
+http://www.kitcc.cn:8887/rtp/239.253.43.53:5146
+#EXTINF:-1 tvg-id="顺德" tvg-name="顺德" tvg-logo="https://epg.112114.xyz/logo/顺德.png" group-title="广东组播",顺德
+http://www.kitcc.cn:8887/rtp/239.253.43.55:5146
+#EXTINF:-1 tvg-id="南海" tvg-name="南海" tvg-logo="https://epg.112114.xyz/logo/南海.png" group-title="广东组播",南海
+http://www.kitcc.cn:8887/rtp/239.253.43.54:5146
+#EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" group-title="广东组播",中山综合
+http://www.kitcc.cn:8887/rtp/239.253.43.62:5146
+#EXTINF:-1 tvg-id="中山公共" tvg-name="中山公共" tvg-logo="https://epg.112114.xyz/logo/中山公共.png" group-title="广东组播",中山公共
+http://www.kitcc.cn:8887/rtp/239.253.43.63:5146
+#EXTINF:-1 tvg-id="中山教育" tvg-name="中山教育" tvg-logo="https://epg.112114.xyz/logo/中山教育.png" group-title="广东组播",中山教育
+http://www.kitcc.cn:8887/rtp/239.253.43.64:5146
+#EXTINF:-1 tvg-id="珠海-1" tvg-name="珠海-1" tvg-logo="https://epg.112114.xyz/logo/珠海1.png" group-title="广东组播",珠海-1
+http://www.kitcc.cn:8887/rtp/239.77.0.155:5146
+#EXTINF:-1 tvg-id="珠海-2" tvg-name="珠海-2" tvg-logo="https://epg.112114.xyz/logo/珠海2.png" group-title="广东组播",珠海-2
+http://www.kitcc.cn:8887/rtp/239.77.0.154:5146
+#EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" group-title="广东组播",江门综合
+http://www.kitcc.cn:8887/rtp/239.77.0.201:5146
+#EXTINF:-1 tvg-id="江门侨乡生活" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活.png" group-title="广东组播",江门侨乡生活
+http://www.kitcc.cn:8887/rtp/239.77.0.202:5146
+#EXTINF:-1 tvg-id="江门教育" tvg-name="江门教育" tvg-logo="https://epg.112114.xyz/logo/江门教育.png" group-title="广东组播",江门教育
+http://www.kitcc.cn:8887/rtp/239.77.0.203:5146
+#EXTINF:-1 tvg-id="韶关新闻综合" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" group-title="广东组播",韶关新闻综合
+http://www.kitcc.cn:8887/rtp/239.77.0.117:5146
+#EXTINF:-1 tvg-id="韶关绿色生活" tvg-name="韶关绿色生活" tvg-logo="https://epg.112114.xyz/logo/韶关绿色生活.png" group-title="广东组播",韶关绿色生活
+http://www.kitcc.cn:8887/rtp/239.77.0.119:5146
+#EXTINF:-1 tvg-id="清远新闻综合" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" group-title="广东组播",清远新闻综合
+http://www.kitcc.cn:8887/rtp/239.253.43.33:5146
+#EXTINF:-1 tvg-id="清远文旅生活" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活.png" group-title="广东组播",清远文旅生活
+http://www.kitcc.cn:8887/rtp/239.253.43.34:5146
+#EXTINF:-1 tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://epg.112114.xyz/logo/肇庆综合.png" group-title="广东组播",肇庆综合
+http://www.kitcc.cn:8887/rtp/239.253.43.3:5146
+#EXTINF:-1 tvg-id="肇庆生活服务" tvg-name="肇庆生活服务" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务.png" group-title="广东组播",肇庆生活服务
+http://www.kitcc.cn:8887/rtp/239.253.43.4:5146
+#EXTINF:-1 tvg-id="肇庆生活服务" tvg-name="肇庆生活服务" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务.png" group-title="广东组播",肇庆生活服务
+http://www.kitcc.cn:8887/rtp/239.253.43.2:5146
+#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://epg.112114.xyz/logo/云浮综合.png" group-title="广东组播",云浮综合
+http://www.kitcc.cn:8887/rtp/239.77.0.253:5146
+#EXTINF:-1 tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://epg.112114.xyz/logo/云浮文旅.png" group-title="广东组播",云浮文旅
+http://www.kitcc.cn:8887/rtp/239.77.0.254:5146
+#EXTINF:-1 tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://epg.112114.xyz/logo/茂名综合.png" group-title="广东组播",茂名综合
+http://www.kitcc.cn:8887/rtp/239.77.0.206:5146
+#EXTINF:-1 tvg-id="茂名文化生活" tvg-name="茂名文化生活" tvg-logo="https://epg.112114.xyz/logo/茂名文化生活.png" group-title="广东组播",茂名文化生活
+http://www.kitcc.cn:8887/rtp/239.77.0.207:5146
+#EXTINF:-1 tvg-id="湛江综合" tvg-name="湛江综合" tvg-logo="https://epg.112114.xyz/logo/湛江综合.png" group-title="广东组播",湛江综合
+http://www.kitcc.cn:8887/rtp/239.77.0.141:5146
+#EXTINF:-1 tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://epg.112114.xyz/logo/湛江公共.png" group-title="广东组播",湛江公共
+http://www.kitcc.cn:8887/rtp/239.77.0.140:5146
+#EXTINF:-1 tvg-id="徐闻综合" tvg-name="徐闻综合" tvg-logo="https://epg.112114.xyz/logo/徐闻综合.png" group-title="广东组播",徐闻综合
+http://www.kitcc.cn:8887/rtp/239.253.43.112:5146
+#EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" group-title="广东组播",东莞新闻综合
+http://www.kitcc.cn:8887/rtp/239.253.43.104:5146
+#EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" group-title="广东组播",东莞生活资讯
+http://www.kitcc.cn:8887/rtp/239.253.43.105:5146
+#EXTINF:-1 tvg-id="惠州-1" tvg-name="惠州-1" tvg-logo="https://epg.112114.xyz/logo/惠州1.png" group-title="广东组播",惠州-1
+http://www.kitcc.cn:8887/rtp/239.77.1.232:5146
+#EXTINF:-1 tvg-id="惠州-2" tvg-name="惠州-2" tvg-logo="https://epg.112114.xyz/logo/惠州2.png" group-title="广东组播",惠州-2
+http://www.kitcc.cn:8887/rtp/239.77.1.233:5146
+#EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://epg.112114.xyz/logo/河源综合.png" group-title="广东组播",河源综合
+http://www.kitcc.cn:8887/rtp/239.253.43.213:5146
+#EXTINF:-1 tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://epg.112114.xyz/logo/河源公共.png" group-title="广东组播",河源公共
+http://www.kitcc.cn:8887/rtp/239.253.43.214:5146
+#EXTINF:-1 tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合.png" group-title="广东组播",汕尾新闻综合
+http://www.kitcc.cn:8887/rtp/239.77.0.25:5146
+#EXTINF:-1 tvg-id="汕尾文化生活" tvg-name="汕尾文化生活" tvg-logo="https://epg.112114.xyz/logo/汕尾文化生活.png" group-title="广东组播",汕尾文化生活
+http://www.kitcc.cn:8887/rtp/239.77.0.187:5146
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.xyz/logo/汕头综合.png" group-title="广东组播",汕头综合
+http://www.kitcc.cn:8887/rtp/239.253.43.45:5146
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.xyz/logo/汕头经济生活.png" group-title="广东组播",汕头经济生活
+http://www.kitcc.cn:8887/rtp/239.253.43.46:5146
+#EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.xyz/logo/汕头文旅体育.png" group-title="广东组播",汕头文旅体育
+http://www.kitcc.cn:8887/rtp/239.253.43.47:5146
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.112114.xyz/logo/潮州综合.png" group-title="广东组播",潮州综合
+http://www.kitcc.cn:8887/rtp/239.253.43.70:5146
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://epg.112114.xyz/logo/潮州民生.png" group-title="广东组播",潮州民生
+http://www.kitcc.cn:8887/rtp/239.253.43.75:5146
+#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.112114.xyz/logo/揭阳综合.png" group-title="广东组播",揭阳综合
+http://www.kitcc.cn:8887/rtp/239.77.0.229:5146
+#EXTINF:-1 tvg-id="揭阳公共" tvg-name="揭阳公共" tvg-logo="https://epg.112114.xyz/logo/揭阳公共.png" group-title="广东组播",揭阳公共
+http://www.kitcc.cn:8887/rtp/239.77.0.251:5146
+#EXTINF:-1 tvg-id="梅州综合" tvg-name="梅州综合" tvg-logo="https://epg.112114.xyz/logo/梅州综合.png" group-title="广东组播",梅州综合
+http://www.kitcc.cn:8887/rtp/239.253.43.123:5146
+#EXTINF:-1 tvg-id="梅州客家生活" tvg-name="梅州客家生活" tvg-logo="https://epg.112114.xyz/logo/梅州客家生活.png" group-title="广东组播",梅州客家生活
+http://www.kitcc.cn:8887/rtp/239.253.43.124:5146
+
+#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东组播",广东综艺(4k)
+http://www.kitcc.cn:8887/rtp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东组播",广东综艺 宽色域(4k)
+http://www.kitcc.cn:8887/rtp/239.77.0.246:5146
+#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东组播",广东综艺(4k)
+http://www.kitcc.cn:8887/rtp/239.77.0.245:5146
+#EXTINF:-1 tvg-id="广州南国都市4K" tvg-name="广州南国都市4K" tvg-logo="https://epg.112114.xyz/logo/广州南国都市4K.png" group-title="广东组播",广州南国都市4K
+http://www.kitcc.cn:8887/rtp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="广东组播",CHC高清电影
+http://www.kitcc.cn:8887/rtp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="广东组播",CCTV兵器科技
+http://www.kitcc.cn:8887/rtp/239.253.43.18:5146
+#EXTINF:-1 tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="广东组播",CCTV电视指南
+http://www.kitcc.cn:8887/rtp/239.253.43.19:5146
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="广东组播",CCTV风云足球
+http://www.kitcc.cn:8887/rtp/239.253.43.20:5146
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="广东组播",CCTV央视台球
+http://www.kitcc.cn:8887/rtp/239.253.43.21:5146
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-name="CCTV高尔夫·网球" tvg-logo="https://epg.112114.xyz/logo/CCTV高尔夫·网球.png" group-title="广东组播",CCTV高尔夫·网球
+http://www.kitcc.cn:8887/rtp/239.253.43.22:5146
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="广东组播",CCTV女性时尚
+http://www.kitcc.cn:8887/rtp/239.253.43.23:5146
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="广东组播",CCTV世界地理
+http://www.kitcc.cn:8887/rtp/239.253.43.24:5146
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="广东组播",CCTV怀旧剧场
+http://www.kitcc.cn:8887/rtp/239.253.43.25:5146
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="广东组播",CCTV风云剧场
+http://www.kitcc.cn:8887/rtp/239.253.43.26:5146
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="广东组播",CCTV央视文化精品
+http://www.kitcc.cn:8887/rtp/239.253.43.27:5146
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="广东组播",CCTV第一剧场
+http://www.kitcc.cn:8887/rtp/239.253.43.28:5146
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="广东组播",CCTV风云音乐
+http://www.kitcc.cn:8887/rtp/239.253.43.29:5146
+
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="广东组播",CCTV第一剧场
+http://www.kitcc.cn:8887/rtp/239.253.43.15:5146
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="广东组播",CCTV风云剧场
+http://www.kitcc.cn:8887/rtp/239.253.43.16:5146
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="广东组播",CCTV怀旧剧场
+http://www.kitcc.cn:8887/rtp/239.253.43.5:5146
+#EXTINF:-1 tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="广东组播",CCTV电视指南
+http://www.kitcc.cn:8887/rtp/239.253.43.10:5146
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="广东组播",CCTV风云足球
+http://www.kitcc.cn:8887/rtp/239.253.43.14:5146
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="广东组播",CCTV央视台球
+http://www.kitcc.cn:8887/rtp/239.253.43.11:5146
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-name="CCTV高尔夫·网球" tvg-logo="https://epg.112114.xyz/logo/CCTV高尔夫·网球.png" group-title="广东组播",CCTV高尔夫·网球
+http://www.kitcc.cn:8887/rtp/239.253.43.12:5146
+
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="广东组播",CCTV央视文化精品
+http://www.kitcc.cn:8887/rtp/239.253.43.13:5146
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="广东组播",CCTV世界地理
+http://www.kitcc.cn:8887/rtp/239.253.43.7:5146
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="广东组播",CCTV兵器科技
+http://www.kitcc.cn:8887/rtp/239.253.43.9:5146
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="广东组播",茶频道
+http://www.kitcc.cn:8887/rtp/239.77.1.207:5146
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="广东组播",快乐垂钓
+http://www.kitcc.cn:8887/rtp/239.77.1.119:5146
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="广东组播",CCTV女性时尚
+http://www.kitcc.cn:8887/rtp/239.253.43.8:5146
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="广东组播",CCTV风云音乐
+http://www.kitcc.cn:8887/rtp/239.253.43.6:5146
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东组播",深圳卫视
+http://www.kitcc.cn:8887/rtp/239.77.1.3:5146
+#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东组播",深圳都市
+http://www.kitcc.cn:8887/rtp/239.77.1.176:5146
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="广东组播",深圳电视剧
+http://www.kitcc.cn:8887/rtp/239.77.1.177:5146
+#EXTINF:-1 tvg-id="深圳财*生活" tvg-name="深圳财*生活" tvg-logo="https://epg.112114.xyz/logo/深圳财*生活.png" group-title="广东组播",深圳财*生活
+http://www.kitcc.cn:8887/rtp/239.77.1.242:5146
+#EXTINF:-1 tvg-id="深圳娱乐" tvg-name="深圳娱乐" tvg-logo="https://epg.112114.xyz/logo/深圳娱乐.png" group-title="广东组播",深圳娱乐
+http://www.kitcc.cn:8887/rtp/239.77.1.243:5146
+#EXTINF:-1 tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="广东组播",深圳体育
+http://www.kitcc.cn:8887/rtp/239.77.1.140:5146
+#EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://epg.112114.xyz/logo/深圳少儿.png" group-title="广东组播",深圳少儿
+http://www.kitcc.cn:8887/rtp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="深圳公共" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东组播",深圳公共
+http://www.kitcc.cn:8887/rtp/239.77.1.178:5146
+#EXTINF:-1 tvg-id="深视宜和购物" tvg-name="深视宜和购物" tvg-logo="https://epg.112114.xyz/logo/深视宜和购物.png" group-title="广东组播",深视宜和购物
+http://www.kitcc.cn:8887/rtp/239.77.1.87:5146
+
+#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="广东组播",爱体育
+http://www.kitcc.cn:8887/rtp/239.77.1.116:5146
+
+#EXTINF:-1 tvg-id="EYE旅游" tvg-name="EYE旅游" tvg-logo="https://epg.112114.xyz/logo/EYE旅游.png" group-title="广东组播",旅游
+http://www.kitcc.cn:8887/rtp/239.77.1.102:5146
+#EXTINF:-1 tvg-id="收藏" tvg-name="收藏" tvg-logo="https://epg.112114.xyz/logo/收藏.png" group-title="广东组播",收藏
+http://www.kitcc.cn:8887/rtp/239.77.1.106:5146
+#EXTINF:-1 tvg-id="深圳龙岗" tvg-name="深圳龙岗" tvg-logo="https://epg.112114.xyz/logo/深圳龙岗.png" group-title="广东组播",深圳龙岗
+http://www.kitcc.cn:8887/rtp/239.77.1.223:5146
+#EXTINF:-1 tvg-id="深圳东部" tvg-name="深圳东部" tvg-logo="https://epg.112114.xyz/logo/深圳东部.png" group-title="广东组播",深圳东部
+http://www.kitcc.cn:8887/rtp/239.77.1.224:5146
+#EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="https://epg.112114.xyz/logo/汕头新闻综合.png" group-title="广东组播",汕头新闻综合
+http://www.kitcc.cn:8887/rtp/239.77.1.130:5146
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.xyz/logo/汕头经济生活.png" group-title="广东组播",汕头经济生活
+http://www.kitcc.cn:8887/rtp/239.77.1.131:5146
+#EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.xyz/logo/汕头文旅体育.png" group-title="广东组播",汕头文旅体育
+http://www.kitcc.cn:8887/rtp/239.77.1.132:5146
+#EXTINF:-1 tvg-id="深圳宝安" tvg-name="深圳宝安" tvg-logo="https://epg.112114.xyz/logo/深圳宝安.png" group-title="广东组播",深圳宝安
+http://www.kitcc.cn:8887/rtp/239.77.1.67:5146
+#EXTINF:-1 tvg-id="导视-IPTV" tvg-name="导视-IPTV" tvg-logo="https://epg.112114.xyz/logo/导视IPTV.png" group-title="广东组播",导视-IPTV
+http://www.kitcc.cn:8887/rtp/239.77.1.165:5146
+#EXTINF:-1 tvg-id="广场舞-IPTV" tvg-name="广场舞-IPTV" tvg-logo="https://epg.112114.xyz/logo/广场舞IPTV.png" group-title="广东组播",广场舞-IPTV
+http://www.kitcc.cn:8887/rtp/239.77.1.164:5146
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东组播",广东卫视
+http://www.kitcc.cn:8887/rtp/239.77.0.166:5146
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东组播",广东经济科教
+http://www.kitcc.cn:8887/rtp/239.77.0.167:5146
+#EXTINF:-1 tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="广东组播",深圳体育健康
+http://www.kitcc.cn:8887/rtp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东组播",广东珠江
+http://www.kitcc.cn:8887/rtp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东组播",深圳卫视
+http://www.kitcc.cn:8887/rtp/239.77.1.148:5146
+#EXTINF:-1 tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="广东组播",深圳体育
+http://www.kitcc.cn:8887/rtp/239.77.1.128:5146
+#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东组播",深圳都市
+http://www.kitcc.cn:8887/rtp/239.77.1.124:5146
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="广东组播",深圳电视剧
+http://www.kitcc.cn:8887/rtp/239.77.1.125:5146
+#EXTINF:-1 tvg-id="深圳公共" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东组播",深圳公共
+http://www.kitcc.cn:8887/rtp/239.77.1.126:5146
