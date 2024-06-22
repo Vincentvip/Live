@@ -1266,6 +1266,33 @@ http://bziyunshao.synology.me:8892/bysid/32
 http://bziyunshao.synology.me:8892/bysid/33
 #EXTINF:-1 group-title="港澳台",香港34台
 http://bziyunshao.synology.me:8892/bysid/34
+
+#EXTINF:-1 group-title="港澳台",ViuTVsix[
+http://bziyunshao.synology.me:8889/bysid/96
+#EXTINF:-1 group-title="港澳台",ViuTV
+http://bziyunshao.synology.me:8889/bysid/99
+#EXTINF:-1 group-title="港澳台",明珠台
+http://bziyunshao.synology.me:8890/bysid/2
+#EXTINF:-1 group-title="港澳台",J2台
+http://bziyunshao.synology.me:8890/bysid/82
+#EXTINF:-1 group-title="港澳台",無綫新聞台
+http://bziyunshao.synology.me:8890/bysid/83
+#EXTINF:-1 group-title="港澳台",無綫財經
+http://bziyunshao.synology.me:8890/bysid/85
+#EXTINF:-1 group-title="港澳台",國際財經台
+http://bziyunshao.synology.me:8891/bysid/76
+#EXTINF:-1 group-title="港澳台",HOY TV
+http://bziyunshao.synology.me:8891/bysid/77
+#EXTINF:-1 group-title="港澳台",HOY 資訊台
+http://bziyunshao.synology.me:8891/bysid/78
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="港澳台",香港35台
 #EXTINF:-1 group-title="港澳台",TVB 翡翠台
 http://php.jdshipin.com:8880/xsj.php?id=feicui
@@ -1352,8 +1379,7 @@ rtmp://f13h.mine.nu/sat/tv721
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="港澳台",緯來育樂
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="港澳台",緯來電影
-
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://epg.112114.xyz/logo/緯來電影台.png" group-title="港澳台",緯來電影
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="大立电视台" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="港澳台",大立电视台
@@ -1373,7 +1399,6 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="民視新聞" group-title="港澳台",民视新闻台
 #EXTINF:-1 tvg-name="美亚电视C+" tvg-logo="https://live.staticflickr.com/65535/53672235757_76973441c4_m.jpg" group-title="港澳台",美亚电视C+720P  *
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-
 #EXTINF:-1 tvg-name="東森超視" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="港澳台",东森超视
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724151437383611_37.png" group-title="港澳台",民視
@@ -1394,71 +1419,71 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://f13h.mine.nu/sat/tv751
 
 
-#EXTINF:-1 group-title="香港Now系列",Now Sports 618 欧洲杯
+#EXTINF:-1 group-title="香港Now",Now Sports 618 欧洲杯
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
-#EXTINF:-1 group-title="香港Now系列",Now 财经台
+#EXTINF:-1 group-title="香港Now",Now 财经台
 http://php.jdshipin.com:8880/xsj.php?id=now-finance
-#EXTINF:-1 group-title="香港Now系列",Now 爆谷台
+#EXTINF:-1 group-title="香港Now",Now 爆谷台
 http://php.jdshipin.com:8880/xsj.php?id=baogu-movies
-#EXTINF:-1 group-title="香港Now系列",Now 星影台
+#EXTINF:-1 group-title="香港Now",Now 星影台
 http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
-#EXTINF:-1 group-title="香港Now系列",Now 新闻台
+#EXTINF:-1 group-title="香港Now",Now 新闻台
 http://php.jdshipin.com:8880/xsj.php?id=now-news
-#EXTINF:-1 group-title="香港Now系列",Now 直播台
+#EXTINF:-1 group-title="香港Now",Now 直播台
 http://php.jdshipin.com:8880/xsj.php?id=now-direct
-#EXTINF:-1 group-title="香港Now系列",Now报价台
+#EXTINF:-1 group-title="香港Now",Now报价台
 http://php.jdshipin.com:8880/xsj.php?id=now-data
-#EXTINF:-1 group-title="香港Now系列",Now jelli紫金国际台
+#EXTINF:-1 group-title="香港Now",Now jelli紫金国际台
 http://php.jdshipin.com:8880/xsj.php?id=now-jelli
-#EXTINF:-1 group-title="香港Now系列",Now华剧台
+#EXTINF:-1 group-title="香港Now",Now华剧台
 http://php.jdshipin.com:8880/xsj.php?id=now-chinese-drama
-#EXTINF:-1 group-title="香港Now系列",HBO Now115
+#EXTINF:-1 group-title="香港Now",HBO Now115
 http://php.jdshipin.com:8880/xsj.php?id=Now-HBO
-#EXTINF:-1 group-title="香港Now系列",Now HBO Hits
+#EXTINF:-1 group-title="香港Now",Now HBO Hits
 http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
-#EXTINF:-1 group-title="香港Now系列",Now HBO Family
+#EXTINF:-1 group-title="香港Now",Now HBO Family
 http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily
-#EXTINF:-1 group-title="香港Now系列",Now HBO Signature
+#EXTINF:-1 group-title="香港Now",Now HBO Signature
 http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature
-#EXTINF:-1 group-title="香港Now系列",MovieMovie
+#EXTINF:-1 group-title="香港Now",MovieMovie
 http://php.jdshipin.com:8880/xsj.php?id=moviemovie
-#EXTINF:-1 group-title="香港Now系列",NowViu剧集台
+#EXTINF:-1 group-title="香港Now",NowViu剧集台
 http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
-#EXTINF:-1 group-title="香港Now系列",Now Sports 641
+#EXTINF:-1 group-title="香港Now",Now Sports 641
 http://php.jdshipin.com:8880/xsj.php?id=now-sports641
-#EXTINF:-1 group-title="香港Now系列",Now NBA
+#EXTINF:-1 group-title="香港Now",Now NBA
 http://php.jdshipin.com:8880/xsj.php?id=now-nba
-#EXTINF:-1 group-title="香港Now系列",Now Sports精选
+#EXTINF:-1 group-title="香港Now",Now Sports精选
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-prime
-#EXTINF:-1 group-title="香港Now系列",Now Sports 1
+#EXTINF:-1 group-title="香港Now",Now Sports 1
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-1
-#EXTINF:-1 group-title="香港Now系列",Now Sports 2
+#EXTINF:-1 group-title="香港Now",Now Sports 2
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-2
-#EXTINF:-1 group-title="香港Now系列",Now Sports 3
+#EXTINF:-1 group-title="香港Now",Now Sports 3
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-3
-#EXTINF:-1 group-title="香港Now系列",Now Sports 4
+#EXTINF:-1 group-title="香港Now",Now Sports 4
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-4
-#EXTINF:-1 group-title="香港Now系列",Now Sports 5
+#EXTINF:-1 group-title="香港Now",Now Sports 5
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-5
-#EXTINF:-1 group-title="香港Now系列",Now Sports 6
+#EXTINF:-1 group-title="香港Now",Now Sports 6
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-6
-#EXTINF:-1 group-title="香港Now系列",Now Sports 7
+#EXTINF:-1 group-title="香港Now",Now Sports 7
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-7
-#EXTINF:-1 group-title="香港Now系列",Now Sports Plus
+#EXTINF:-1 group-title="香港Now",Now Sports Plus
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-plus
-#EXTINF:-1 group-title="香港Now系列",Now Sports 英超1
+#EXTINF:-1 group-title="香港Now",Now Sports 英超1
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
-#EXTINF:-1 group-title="香港Now系列",Now beIN SPORTS 1
+#EXTINF:-1 group-title="香港Now",Now beIN SPORTS 1
 http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports1
-#EXTINF:-1 group-title="香港Now系列",Now beIN SPORTS 2
+#EXTINF:-1 group-title="香港Now",Now beIN SPORTS 2
 http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports2
-#EXTINF:-1 group-title="香港Now系列",Now beIN SPORTS 3
+#EXTINF:-1 group-title="香港Now",Now beIN SPORTS 3
 http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
-#EXTINF:-1 group-title="香港Now系列",Now 668
+#EXTINF:-1 group-title="香港Now",Now 668
 http://php.jdshipin.com:8880/xsj.php?id=now-668
-#EXTINF:-1 group-title="香港Now系列",Now Golf 2
+#EXTINF:-1 group-title="香港Now",Now Golf 2
 http://php.jdshipin.com:8880/xsj.php?id=now-golf2
-#EXTINF:-1 group-title="香港Now系列",Now Golf 3
+#EXTINF:-1 group-title="香港Now",Now Golf 3
 http://php.jdshipin.com:8880/xsj.php?id=now-golf3
 
 
