@@ -1231,64 +1231,64 @@ http://www.kitcc.cn:8887/rtp/239.77.1.126:5146
 
 
 
-#EXTINF:-1 group-title="港澳台",ViuTV
+#EXTINF:-1 group-title="港澳",ViuTV
 https://s2.pub/cctv-7
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳台",翡翠台1
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台1
 http://m.glx008.com:8000/bysid/1
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳台",翡翠台2
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台2
 http://bziyunshao.synology.me:8889/bysid/1
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳台",翡翠台3
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台3
 
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳台",明珠台1
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳",明珠台1
 http://bziyunshao.synology.me:8890/bysid/2
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳台",明珠台2
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳",明珠台2
 
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" " group-title="港澳台",J2
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" " group-title="港澳",J2
 http://bziyunshao.synology.me:8890/bysid/82
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" " group-title="港澳台",J2
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" " group-title="港澳",J2
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳",无线新闻台
 http://bziyunshao.synology.me:8890/bysid/83
-#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳台",无线财经台
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳",无线财经台
 http://bziyunshao.synology.me:8890/bysid/85
-#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳台",无线财经台
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳",无线财经台
 
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳台",RTHK31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 http://bziyunshao.synology.me:8892/bysid/31
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳台",RTHK32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
 http://bziyunshao.synology.me:8892/bysid/32
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://live.fanmingming.com/tv/RTHK33.png" group-title="港澳台",RTHK33
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://live.fanmingming.com/tv/RTHK33.png" group-title="港澳",RTHK33
 http://bziyunshao.synology.me:8892/bysid/33
-#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://live.fanmingming.com/tv/RTHK34.png" group-title="港澳台",RTHK34
+#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://live.fanmingming.com/tv/RTHK34.png" group-title="港澳",RTHK34
 http://bziyunshao.synology.me:8892/bysid/34
-#EXTINF:-1 tvg-id="星河台"tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台",星河台
+#EXTINF:-1 tvg-id="星河台"tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳",星河台
 https://s2.pub/cctv-16
-#EXTINF:-1 tvg-id="星河台"tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台",星河台
+#EXTINF:-1 tvg-id="星河台"tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳",星河台
 http://jxtv2.gdsz.eu.org:8081/hls/135/index.m3u8
-#EXTINF:-1 group-title="港澳台",娱乐新闻台
+#EXTINF:-1 group-title="港澳",娱乐新闻台
 https://s2.pub/cctv-19
-#EXTINF:-1 group-title="港澳台",功夫台
+#EXTINF:-1 group-title="港澳",功夫台
 https://s2.pub/cctv-20
-#EXTINF:-1 group-title="港澳台",tvb
+#EXTINF:-1 group-title="港澳",tvb
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 group-title="港澳台",ViuTVsix
+#EXTINF:-1 group-title="港澳",ViuTVsix
 http://bziyunshao.synology.me:8889/bysid/96
-#EXTINF:-1 group-title="港澳台",ViuTV
+#EXTINF:-1 group-title="港澳",ViuTV
 http://bziyunshao.synology.me:8889/bysid/99
-#EXTINF:-1 group-title="港澳台",明珠台
+#EXTINF:-1 group-title="港澳",明珠台
 http://bziyunshao.synology.me:8890/bysid/2
-#EXTINF:-1 group-title="港澳台",J2台
+#EXTINF:-1 group-title="港澳",J2台
 http://bziyunshao.synology.me:8890/bysid/82
-#EXTINF:-1 group-title="港澳台",無綫新聞台
+#EXTINF:-1 group-title="港澳",無綫新聞台
 http://bziyunshao.synology.me:8890/bysid/83
-#EXTINF:-1 group-title="港澳台",無綫財經
+#EXTINF:-1 group-title="港澳",無綫財經
 http://bziyunshao.synology.me:8890/bysid/85
-#EXTINF:-1 group-title="港澳台",國際財經台
+#EXTINF:-1 group-title="港澳",國際財經台
 http://bziyunshao.synology.me:8891/bysid/76
-#EXTINF:-1 group-title="港澳台",HOY TV
+#EXTINF:-1 group-title="港澳",HOY TV
 http://bziyunshao.synology.me:8891/bysid/77
-#EXTINF:-1 group-title="港澳台",HOY 資訊台
+#EXTINF:-1 group-title="港澳",HOY 資訊台
 http://bziyunshao.synology.me:8891/bysid/78
 
 
@@ -1298,82 +1298,82 @@ http://bziyunshao.synology.me:8891/bysid/78
 
 
 
-#EXTINF:-1 group-title="港澳台",香港35台
-#EXTINF:-1 group-title="港澳台",TVB 翡翠台
+#EXTINF:-1 group-title="港澳",香港35台
+#EXTINF:-1 group-title="港澳",TVB 翡翠台
 http://php.jdshipin.com:8880/xsj.php?id=feicui
-#EXTINF:-1 group-title="港澳台",TVB 无线新闻台
+#EXTINF:-1 group-title="港澳",TVB 无线新闻台
 http://php.jdshipin.com:8880/xsj.php?id=tvb-news
-#EXTINF:-1 group-title="港澳台",TVB PLUS
+#EXTINF:-1 group-title="港澳",TVB PLUS
 http://php.jdshipin.com:8880/xsj.php?id=tvb-plus
-#EXTINF:-1 group-title="港澳台",TVB 黄金翡翠台
+#EXTINF:-1 group-title="港澳",TVB 黄金翡翠台
 http://php.jdshipin.com:8880/xsj.php?id=golden-jade
-#EXTINF:-1 group-title="港澳台",TVB 黄金华剧台
+#EXTINF:-1 group-title="港澳",TVB 黄金华剧台
 http://php.jdshipin.com:8880/xsj.php?id=golden-chinese-drama
-#EXTINF:-1 group-title="港澳台",TVB 千禧经典台
+#EXTINF:-1 group-title="港澳",TVB 千禧经典台
 http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
-#EXTINF:-1 group-title="港澳台",TVB 粤语片台
+#EXTINF:-1 group-title="港澳",TVB 粤语片台
 http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
-#EXTINF:-1 group-title="港澳台",TVB 星河台
+#EXTINF:-1 group-title="港澳",TVB 星河台
 http://php.jdshipin.com:8880/xsj.php?id=tvb-xinghe
-#EXTINF:-1 group-title="港澳台",TVB 亚洲剧台
+#EXTINF:-1 group-title="港澳",TVB 亚洲剧台
 http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
-#EXTINF:-1 group-title="港澳台",TVB 娱乐新闻台
+#EXTINF:-1 group-title="港澳",TVB 娱乐新闻台
 http://php.jdshipin.com:8880/xsj.php?id=TVB%20ylxw
-#EXTINF:-1 group-title="港澳台",J2
+#EXTINF:-1 group-title="港澳",J2
 http://php.jdshipin.com:8880/xsj.php?id=j2
-#EXTINF:-1 group-title="港澳台",TVB 明珠台
+#EXTINF:-1 group-title="港澳",TVB 明珠台
 http://php.jdshipin.com:8880/xsj.php?id=pearl
-#EXTINF:-1 group-title="港澳台",TVB 华语剧台
+#EXTINF:-1 group-title="港澳",TVB 华语剧台
 http://php.jdshipin.com:8880/xsj.php?id=tvb-drama
 
-#EXTINF:-1 group-title="港澳台",HOY 资讯台
+#EXTINF:-1 group-title="港澳",HOY 资讯台
 http://php.jdshipin.com:8880/xsj.php?id=hoy-info
-#EXTINF:-1 group-title="港澳台",HOY TV
+#EXTINF:-1 group-title="港澳",HOY TV
 http://php.jdshipin.com:8880/xsj.php?id=hoytv
-#EXTINF:-1 group-title="港澳台",HOY国际财经
+#EXTINF:-1 group-title="港澳",HOY国际财经
 http://php.jdshipin.com:8880/xsj.php?id=hoy-ibc
-#EXTINF:-1 group-title="港澳台",ViuTV
+#EXTINF:-1 group-title="港澳",ViuTV
 http://php.jdshipin.com:8880/xsj.php?id=viutv
-#EXTINF:-1 group-title="港澳台",ViuTV6
+#EXTINF:-1 group-title="港澳",ViuTV6
 http://php.jdshipin.com:8880/xsj.php?id=viutv6
-#EXTINF:-1 group-title="港澳台",天映频道
+#EXTINF:-1 group-title="港澳",天映频道
 http://php.jdshipin.com:8880/xsj.php?id=celestial
-#EXTINF:-1 group-title="港澳台",天映经典
+#EXTINF:-1 group-title="港澳",天映经典
 http://php.jdshipin.com:8880/xsj.php?id=cccm
-#EXTINF:-1 group-title="港澳台",Thrill
+#EXTINF:-1 group-title="港澳",Thrill
 http://php.jdshipin.com:8880/xsj.php?id=thrill
-#EXTINF:-1 group-title="港澳台",星空卫视
+#EXTINF:-1 group-title="港澳",星空卫视
 http://php.jdshipin.com:8880/xsj.php?id=star-xing-kong
-#EXTINF:-1 group-title="港澳台",香港卫视
+#EXTINF:-1 group-title="港澳",香港卫视
 http://php.jdshipin.com:8880/xsj.php?id=hks
-#EXTINF:-1 group-title="港澳台",澳亚卫视
+#EXTINF:-1 group-title="港澳",澳亚卫视
 http://php.jdshipin.com:8880/xsj.php?id=mastv
-#EXTINF:-1 group-title="港澳台",澳门卫视
+#EXTINF:-1 group-title="港澳",澳门卫视
 http://php.jdshipin.com:8880/xsj.php?id=mstv
-#EXTINF:-1 group-title="港澳台",澳门莲花卫视
+#EXTINF:-1 group-title="港澳",澳门莲花卫视
 http://php.jdshipin.com:8880/xsj.php?id=lotustv
-#EXTINF:-1 group-title="港澳台",澳门资讯
+#EXTINF:-1 group-title="港澳",澳门资讯
 http://php.jdshipin.com:8880/xsj.php?id=tdm-information
-#EXTINF:-1 group-title="港澳台",澳视澳门
+#EXTINF:-1 group-title="港澳",澳视澳门
 http://php.jdshipin.com:8880/xsj.php?id=tdm
-#EXTINF:-1 group-title="港澳台",HKC 18台
+#EXTINF:-1 group-title="港澳",HKC 18台
 http://php.jdshipin.com:8880/xsj.php?id=hkc18
-#EXTINF:-1 group-title="港澳台",港台电视 31
+#EXTINF:-1 group-title="港澳",港台电视 31
 http://php.jdshipin.com:8880/xsj.php?id=rthk31
-#EXTINF:-1 group-title="港澳台",港台电视 32
+#EXTINF:-1 group-title="港澳",港台电视 32
 http://php.jdshipin.com:8880/xsj.php?id=rthk32
-#EXTINF:-1 group-title="港澳台",HOY76
+#EXTINF:-1 group-title="港澳",HOY76
 http://bziyunshao.synology.me:8891/bysid/76
-#EXTINF:-1 group-title="港澳台",HOY77
+#EXTINF:-1 group-title="港澳",HOY77
 http://bziyunshao.synology.me:8891/bysid/77
-#EXTINF:-1 group-title="港澳台",HOY78
+#EXTINF:-1 group-title="港澳",HOY78
 http://bziyunshao.synology.me:8891/bysid/78
-#EXTINF:-1 group-title="港澳台",VIUtv
+#EXTINF:-1 group-title="港澳",VIUtv
 http://bziyunshao.synology.me:8889/bysid/99
-#EXTINF:-1 group-title="港澳台",VIUtv6
+#EXTINF:-1 group-title="港澳",VIUtv6
 http://bziyunshao.synology.me:8889/bysid/96
 
-#EXTINF:-1 tvg-id="香港卫视" group-title="港澳台",香港卫视
+#EXTINF:-1  group-title="港澳",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
@@ -1429,109 +1429,10 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 
 
-#EXTINF:-1 group-title="香港Now",Now Sports 618 欧洲杯
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
-#EXTINF:-1 group-title="香港Now",Now 财经台
-http://php.jdshipin.com:8880/xsj.php?id=now-finance
-#EXTINF:-1 group-title="香港Now",Now 爆谷台
-http://php.jdshipin.com:8880/xsj.php?id=baogu-movies
-#EXTINF:-1 group-title="香港Now",Now 星影台
-http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
-#EXTINF:-1 group-title="香港Now",Now 新闻台
-http://php.jdshipin.com:8880/xsj.php?id=now-news
-#EXTINF:-1 group-title="香港Now",Now 直播台
-http://php.jdshipin.com:8880/xsj.php?id=now-direct
-#EXTINF:-1 group-title="香港Now",Now报价台
-http://php.jdshipin.com:8880/xsj.php?id=now-data
-#EXTINF:-1 group-title="香港Now",Now jelli紫金国际台
-http://php.jdshipin.com:8880/xsj.php?id=now-jelli
-#EXTINF:-1 group-title="香港Now",Now华剧台
-http://php.jdshipin.com:8880/xsj.php?id=now-chinese-drama
-#EXTINF:-1 group-title="香港Now",HBO Now115
-http://php.jdshipin.com:8880/xsj.php?id=Now-HBO
-#EXTINF:-1 group-title="香港Now",Now HBO Hits
-http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
-#EXTINF:-1 group-title="香港Now",Now HBO Family
-http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily
-#EXTINF:-1 group-title="香港Now",Now HBO Signature
-http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature
-#EXTINF:-1 group-title="香港Now",MovieMovie
-http://php.jdshipin.com:8880/xsj.php?id=moviemovie
-#EXTINF:-1 group-title="香港Now",NowViu剧集台
-http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
-#EXTINF:-1 group-title="香港Now",Now Sports 641
-http://php.jdshipin.com:8880/xsj.php?id=now-sports641
-#EXTINF:-1 group-title="香港Now",Now NBA
-http://php.jdshipin.com:8880/xsj.php?id=now-nba
-#EXTINF:-1 group-title="香港Now",Now Sports精选
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-prime
-#EXTINF:-1 group-title="香港Now",Now Sports 1
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-1
-#EXTINF:-1 group-title="香港Now",Now Sports 2
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-2
-#EXTINF:-1 group-title="香港Now",Now Sports 3
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-3
-#EXTINF:-1 group-title="香港Now",Now Sports 4
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-4
-#EXTINF:-1 group-title="香港Now",Now Sports 5
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-5
-#EXTINF:-1 group-title="香港Now",Now Sports 6
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-6
-#EXTINF:-1 group-title="香港Now",Now Sports 7
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-7
-#EXTINF:-1 group-title="香港Now",Now Sports Plus
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-plus
-#EXTINF:-1 group-title="香港Now",Now Sports 英超1
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
-#EXTINF:-1 group-title="香港Now",Now beIN SPORTS 1
-http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports1
-#EXTINF:-1 group-title="香港Now",Now beIN SPORTS 2
-http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports2
-#EXTINF:-1 group-title="香港Now",Now beIN SPORTS 3
-http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
-#EXTINF:-1 group-title="香港Now",Now 668
-http://php.jdshipin.com:8880/xsj.php?id=now-668
-#EXTINF:-1 group-title="香港Now",Now Golf 2
-http://php.jdshipin.com:8880/xsj.php?id=now-golf2
-#EXTINF:-1 group-title="香港Now",Now Golf 3
-http://php.jdshipin.com:8880/xsj.php?id=now-golf3
 
 
 
 
-
-#EXTINF:-1 group-title="国际",新加坡Hub都会
-http://php.jdshipin.com:8880/xsj.php?id=HubECity
-#EXTINF:-1 group-title="国际",新加坡Hub娱家
-http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
-#EXTINF:-1 group-title="国际",新加坡HubSports 1
-http://php.jdshipin.com:8880/xsj.php?id=hubsports1
-#EXTINF:-1 group-title="国际",新加坡HubSports2
-http://php.jdshipin.com:8880/xsj.php?id=hubsports2
-#EXTINF:-1 group-title="国际",新加坡HubSports3
-http://php.jdshipin.com:8880/xsj.php?id=hubsports3
-#EXTINF:-1 group-title="国际",新加坡HubSport4
-http://php.jdshipin.com:8880/xsj.php?id=hubsports4
-#EXTINF:-1 group-title="国际",新加坡HubSports Plus
-http://php.jdshipin.com:8880/xsj.php?id=hubsports-plus
-#EXTINF:-1 group-title="国际",新加坡Hub Premier 1
-http://php.jdshipin.com:8880/xsj.php?id=hubpremier1
-#EXTINF:-1 group-title="国际",新加坡HubPremier2
-http://php.jdshipin.com:8880/xsj.php?id=hubpremier2
-#EXTINF:-1 group-title="国际",新加坡HubPremier3
-http://php.jdshipin.com:8880/xsj.php?id=hubpremier3
-#EXTINF:-1 group-title="国际",新加坡HubPremier 4
-http://php.jdshipin.com:8880/xsj.php?id=hubpremier4
-#EXTINF:-1 group-title="国际",新加坡HubPremier 5
-http://php.jdshipin.com:8880/xsj.php?id=hubpremier5
-#EXTINF:-1 group-title="国际",新加坡Hub Sensasi
-http://php.jdshipin.com:8880/xsj.php?id=hub-sensasi
-#EXTINF:-1 group-title="国际",新加坡tvn HD
-http://php.jdshipin.com:8880/xsj.php?id=tvnhd
-#EXTINF:-1 group-title="国际",新加坡AstroWarna Hub版
-http://php.jdshipin.com:8880/xsj.php?id=astro-warna-hub
-#EXTINF:-1 group-title="国际",新加坡ONEMalay
-http://php.jdshipin.com:8880/xsj.php?id=one-malay
 
 
 #EXTINF:-1 group-title="国际",CNN新闻
