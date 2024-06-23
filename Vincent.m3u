@@ -640,6 +640,7 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=Fifa
 
 
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="体育频道",广东体育
+http://14.154.198.168:4022/udp/239.77.0.168:5146
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="体育频道",广东体育1
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="体育频道",广东体育2
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="体育频道",广东体育3
@@ -915,11 +916,13 @@ http://m.glx008.com:8000/bysid/1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台2
 http://bziyunshao.synology.me:8889/bysid/1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台3
-
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台4
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳",明珠台1
 http://bziyunshao.synology.me:8890/bysid/2
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳",明珠台2
-
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" " group-title="港澳",J2
 http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" " group-title="港澳",J2
@@ -930,11 +933,14 @@ http://bziyunshao.synology.me:8890/bysid/83
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳",无线财经台
 http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳",无线财经台
-
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 http://bziyunshao.synology.me:8892/bysid/31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
 http://bziyunshao.synology.me:8892/bysid/32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://live.fanmingming.com/tv/RTHK33.png" group-title="港澳",RTHK33
 http://bziyunshao.synology.me:8892/bysid/33
 #EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://live.fanmingming.com/tv/RTHK34.png" group-title="港澳",RTHK34
@@ -943,18 +949,28 @@ http://bziyunshao.synology.me:8892/bysid/34
 https://s2.pub/cctv-16
 #EXTINF:-1 tvg-id="星河台"tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳",星河台
 http://jxtv2.gdsz.eu.org:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="港澳",Astro AOD
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="港澳",华丽翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 group-title="港澳",娱乐新闻台
 https://s2.pub/cctv-19
 #EXTINF:-1 group-title="港澳",功夫台
 https://s2.pub/cctv-20
 #EXTINF:-1 group-title="港澳",功夫台
 https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳",tvb
+#EXTINF:-1 group-title="港澳",TVB plus 
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="港澳",TVB plus
+http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 #EXTINF:-1 group-title="港澳",ViuTVsix
 http://bziyunshao.synology.me:8889/bysid/96
+#EXTINF:-1 group-title="港澳",ViuTVsix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1 group-title="港澳",ViuTV
 http://bziyunshao.synology.me:8889/bysid/99
+#EXTINF:-1 group-title="港澳",ViuTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="港澳",ViuTV
 https://s2.pub/cctv-7
 #EXTINF:-1 group-title="港澳",HOY76
@@ -969,7 +985,6 @@ http://bziyunshao.synology.me:8889/bysid/99
 http://bziyunshao.synology.me:8889/bysid/96
 #EXTINF:-1  group-title="港澳",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
 #EXTINF:-1 group-title="港澳",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
@@ -978,65 +993,40 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 
 
-#EXTINF:-1 group-title="港澳",香港35台
+
 #EXTINF:-1 group-title="港澳",TVB 翡翠台
-
 #EXTINF:-1 group-title="港澳",TVB 无线新闻台
-
 #EXTINF:-1 group-title="港澳",TVB PLUS
-
 #EXTINF:-1 group-title="港澳",TVB 黄金翡翠台
-
 #EXTINF:-1 group-title="港澳",TVB 黄金华剧台
-
 #EXTINF:-1 group-title="港澳",TVB 千禧经典台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="港澳",TVB 粤语片台
-
 #EXTINF:-1 group-title="港澳",TVB 星河台
-
 #EXTINF:-1 group-title="港澳",TVB 亚洲剧台
-
 #EXTINF:-1 group-title="港澳",TVB 娱乐新闻台
-
 #EXTINF:-1 group-title="港澳",J2
-
 #EXTINF:-1 group-title="港澳",TVB 明珠台
-
 #EXTINF:-1 group-title="港澳",TVB 华语剧台
-
 #EXTINF:-1 group-title="港澳",HOY 资讯台
-
 #EXTINF:-1 group-title="港澳",HOY TV
 #EXTINF:-1 group-title="港澳",HOY国际财经
 #EXTINF:-1 group-title="港澳",ViuTV
 #EXTINF:-1 group-title="港澳",ViuTV6
 #EXTINF:-1 group-title="港澳",天映频道
-
 #EXTINF:-1 group-title="港澳",天映经典
-
 #EXTINF:-1 group-title="港澳",Thrill
-
 #EXTINF:-1 group-title="港澳",星空卫视
-
 #EXTINF:-1 group-title="港澳",香港卫视
-
 #EXTINF:-1 group-title="港澳",澳亚卫视
-
 #EXTINF:-1 group-title="港澳",澳门卫视
-
 #EXTINF:-1 group-title="港澳",澳门莲花卫视
-
 #EXTINF:-1 group-title="港澳",澳门资讯
-
 #EXTINF:-1 group-title="港澳",澳视澳门
-
 #EXTINF:-1 group-title="港澳",HKC 18台
-
 #EXTINF:-1 group-title="港澳",港台电视 31
-
 #EXTINF:-1 group-title="港澳",港台电视 32
-
+#EXTINF:-1 group-title="港澳",香港35台
 
 
 
@@ -1046,10 +1036,9 @@ rtmp://f13h.mine.nu/sat/tv721
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂台.png" group-title="台湾",緯來育樂
 rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://epg.112114.xyz/logo/緯來電影台.png" group-title="台湾",緯來電影
 #EXTINF:-1 group-title="台湾",纬来精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://epg.112114.xyz/logo/緯來電影台.png" group-title="台湾",緯來電影
-
 #EXTINF:-1 group-title="台湾",东森超视
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 group-title="台湾",民视
@@ -1060,7 +1049,7 @@ rtmp://f13h.mine.nu/sat/tv071
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 group-title="台湾",华视
 rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 group-title="台湾",MOMO綜合HD
+#EXTINF:-1 group-title="台湾",MOMO綜合
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 group-title="台湾",DAZN体育1台
 rtmp://f13h.mine.nu/sat/tv731
@@ -1070,19 +1059,21 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://f13h.mine.nu/sat/tv751
 #EXTINF:-1 group-title="台湾",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
-
 #EXTINF:-1 group-title="台湾",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 group-title="台湾",Tvbs
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="台湾",Tvbs新闻
-#EXTINF:-1 tvg-name="台視新聞"  group-title="台湾",台视新闻
+#EXTINF:-1 tvg-name="台視新聞" group-title="台湾",台视新闻
 #EXTINF:-1 tvg-name="民視新聞" group-title="台湾",民视新闻台
-#EXTINF:-1 tvg-name="美亚电视C+" group-title="台湾",美亚电视
+#EXTINF:-1 tvg-name="美亚电视" group-title="台湾",美亚电视
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+#EXTINF:-1 tvg-name="美亚电视C+" group-title="台湾",美亚电视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="大立电视台" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-
+#EXTINF:-1 group-title="台湾",台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="台湾",大爱2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="台湾",番薯台
@@ -6081,7 +6072,7 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 
 
-#EXTINF:-1 group-title="2024.6.19更新",dywwst8
+#EXTINF:-1 group-title="2024.6.23更新",dywwst8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 
 
