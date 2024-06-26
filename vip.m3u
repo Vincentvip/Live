@@ -478,3 +478,138 @@ http://14.29.76.30:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="广东组播" ,广东少儿高清
 http://14.29.76.30:9901/tsfile/live/1021_1.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png"group-title="备用线路2",CCTV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png"group-title="备用线路2",CCTV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png"group-title="备用线路2",CCTV-3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png"group-title="备用线路2",CCTV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png"group-title="备用线路2",CCTV-5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png"group-title="备用线路2",CCTV-5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png"group-title="备用线路2",CCTV-6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png"group-title="备用线路2",CCTV-7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png"group-title="备用线路2",CCTV-8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="cctvjilu" tvg-logo="cctvjilu.png"group-title="备用线路2",CCTV-9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="cctv10" tvg-logo="cctv10.png"group-title="备用线路2",CCTV-10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="cctv11" tvg-logo="cctv11.png"group-title="备用线路2",CCTV-11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="cctv12" tvg-logo="cctv12.png"group-title="备用线路2",CCTV-12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png"group-title="备用线路2",CCTV-13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png"group-title="备用线路2",CCTV-14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="cctv15" tvg-logo="cctv15.png"group-title="备用线路2",CCTV-15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="cctv16" tvg-logo="cctv16.png"group-title="备用线路2",CCTV-16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png"group-title="备用线路2",CCTV-17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png"group-title="备用线路2",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="bingtuan" tvg-logo="bingtuan.png"group-title="备用线路2",兵团卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+#EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png"group-title="备用线路2",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png"group-title="备用线路2",卡酷少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="btvjishi" tvg-logo="btvjishi.png"group-title="备用线路2",BTV纪实
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-id="cetv1" tvg-logo="cetv1.png"group-title="备用线路2",CETV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="cetv2" tvg-logo="cetv2.png"group-title="备用线路2",CETV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-id="cetv3" tvg-logo="cetv3.png"group-title="备用线路2",CETV-3
+http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+#EXTINF:-1 tvg-id="cetv4" tvg-logo="cetv4.png"group-title="备用线路2",CETV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 tvg-id="chongqing" tvg-logo="chongqing.png"group-title="备用线路2",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png"group-title="备用线路2",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png"group-title="备用线路2",东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png"group-title="备用线路2",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png"group-title="备用线路2",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-id="guangxi" tvg-logo="guangxi.png"group-title="备用线路2",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+#EXTINF:-1 tvg-id="guizhou" tvg-logo="guizhou.png"group-title="备用线路2",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png"group-title="备用线路2",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-id="henan" tvg-logo="henan.png"group-title="备用线路2",河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png"group-title="备用线路2",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png"group-title="备用线路2",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png"group-title="备用线路2",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-id="jiangxi" tvg-logo="jiangxi.png"group-title="备用线路2",江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-id="jilin" tvg-logo="jilin.png"group-title="备用线路2",吉林卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="liaoning" tvg-logo="liaoning.png"group-title="备用线路2",辽宁卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png"group-title="备用线路2",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png"group-title="备用线路2",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png"group-title="备用线路2",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="sdetv" tvg-logo="sdetv.png"group-title="备用线路2",山东教育电视台
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png"group-title="备用线路2",山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png"group-title="备用线路2",山西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="shan3xi" tvg-logo="shan3xi.png"group-title="备用线路2",陕西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png"group-title="备用线路2",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-id="sichuan" tvg-logo="sichuan.png"group-title="备用线路2",四川卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 tvg-id="tianjin" tvg-logo="tianjin.png"group-title="备用线路2",天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-id="travel" tvg-logo="travel.png"group-title="备用线路2",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="xiamen" tvg-logo="xiamen.png"group-title="备用线路2",厦门卫视
+http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png"group-title="备用线路2",新疆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="xizang" tvg-logo="xizang.png"group-title="备用线路2",西藏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="yanbian" tvg-logo="yanbian.png"group-title="备用线路2",延边卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+#EXTINF:-1 tvg-id="yunnan" tvg-logo="yunnan.png"group-title="备用线路2",云南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+#EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png"group-title="备用线路2",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+
