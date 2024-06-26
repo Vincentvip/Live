@@ -949,11 +949,10 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=Fifa
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="4k测试",动物星球
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="4k测试",CCTV 4k超高清
+https://tv.cry33.com/ys4k.php?id=4k
+#EXTINF:-1 group-title="4k测试",CCTV16 4k
+https://tv.cry33.com/ys4k.php?id=16-4k
 
 
 
