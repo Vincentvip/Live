@@ -382,11 +382,11 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
 
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="央卫数字IPV4",凤凰中文
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://jxtv2.gdsz.eu.org:8081/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="央卫数字IPV4",凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://jxtv2.gdsz.eu.org:8081/hls/37/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="央卫数字IPV4",凤凰香港
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+http://jxtv2.gdsz.eu.org:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="央卫数字IPV4",北京卫视
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="央卫数字IPV4",北京纪实科教
@@ -688,27 +688,24 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="港澳",ViuTV
 https://s2.pub/cctv-7
 #EXTINF:-1 group-title="港澳",HOY76
-http://bziyunshao.synology.me:8891/bysid/76
+
 #EXTINF:-1 group-title="港澳",HOY77
-http://bziyunshao.synology.me:8891/bysid/77
+
 #EXTINF:-1 group-title="港澳",HOY78
-http://bziyunshao.synology.me:8891/bysid/78
-#EXTINF:-1 group-title="港澳",VIUtv
-http://bziyunshao.synology.me:8889/bysid/99
-#EXTINF:-1 group-title="港澳",VIUtv6
-http://bziyunshao.synology.me:8889/bysid/96
+
+
 #EXTINF:-1  group-title="港澳",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港澳",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
+#EXTINF:-1 group-title="港澳",凤凰香港
+http://php.jdshipin.com:8880/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港澳",凤凰中文
+http://php.jdshipin.com:8880/iptv.php?id=fhzw
 
 
 
-
-
-
-#EXTINF:-1 group-title="港澳",TVB 翡翠台
 #EXTINF:-1 group-title="港澳",TVB 无线新闻台
 #EXTINF:-1 group-title="港澳",TVB PLUS
 #EXTINF:-1 group-title="港澳",TVB 黄金翡翠台
