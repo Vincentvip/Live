@@ -624,41 +624,41 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?
 
 
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台1
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台
 http://php.jdshipin.com:8880/iptv.php?id=fct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台2
-http://bziyunshao.synology.me:8889/bysid/1
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台3
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台4
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" " group-title="港澳",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳",明珠台1
-http://bziyunshao.synology.me:8890/bysid/2
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳",明珠台2
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳",明珠台
+
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" " group-title="港澳",明珠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" " group-title="港澳",J2
-http://bziyunshao.synology.me:8890/bysid/82
+
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" " group-title="港澳",J2
 http://php.jdshipin.com:8880/iptv.php?id=j2
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳",无线新闻台
-http://bziyunshao.synology.me:8890/bysid/83
+http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳",无线财经台
-http://bziyunshao.synology.me:8890/bysid/85
+
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳",无线财经台
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
-http://bziyunshao.synology.me:8892/bysid/31
+
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
-http://bziyunshao.synology.me:8892/bysid/32
+
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://live.fanmingming.com/tv/RTHK33.png" group-title="港澳",RTHK33
-http://bziyunshao.synology.me:8892/bysid/33
+
 #EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://live.fanmingming.com/tv/RTHK34.png" group-title="港澳",RTHK34
-http://bziyunshao.synology.me:8892/bysid/34
+
 #EXTINF:-1 tvg-id="星河台"tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳",星河台
 https://s2.pub/cctv-16
 #EXTINF:-1 tvg-id="星河台"tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳",星河台
@@ -678,11 +678,11 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 group-title="港澳",TVB plus
 http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 #EXTINF:-1 group-title="港澳",ViuTVsix
-http://bziyunshao.synology.me:8889/bysid/96
+
 #EXTINF:-1 group-title="港澳",ViuTVsix
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1 group-title="港澳",ViuTV
-http://bziyunshao.synology.me:8889/bysid/99
+
 #EXTINF:-1 group-title="港澳",ViuTV
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="港澳",ViuTV
@@ -5663,23 +5663,8 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-	
-
-
-
-#EXTINF:-1 group-title="2024.7.1更新",dywwst8
+#EXTINF:-1 group-title="2024.7.2更新",dywwst8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-
-
 
 
 
