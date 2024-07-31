@@ -498,25 +498,25 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 
 
 
-#EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://epg.iill.top/logo/咪咕.png",咪咕直播-1
+#EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://epg.iill.top/logo/咪咕.png",睛彩竞技
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://epg.iill.top/logo/咪咕.png",咪咕直播-2
+#EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://epg.iill.top/logo/咪咕.png",睛彩篮球
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://epg.iill.top/logo/咪咕.png",咪咕直播-3
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://epg.iill.top/logo/咪咕.png",咪咕直播-4
+#EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://epg.iill.top/logo/咪咕.png",睛彩篮球
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://epg.iill.top/logo/咪咕.png",咪咕直播-5
+#EXTINF:-1 group-title="咪咕IPV6" tvg-logo="https://epg.iill.top/logo/咪咕.png",睛彩竞技
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕善跑.png" tvg-name="全民热练" group-title="咪咕IPV6",咪咕直播-6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕善跑.png" group-title="咪咕IPV6",睛彩青少
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV6",咪咕直播-7
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV6",睛彩竞技
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV6",咪咕直播-8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV6",睛彩篮球
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV6",咪咕直播-9
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV6",咪咕直播-10
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV6",睛彩篮球
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="咪咕IPV6",BesTV 1
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -534,11 +534,11 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",咪咕直播-1
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",咪咕直播-2
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",咪咕直播-3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",睛彩竞技
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",咪咕直播-4
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
@@ -549,7 +549,7 @@ http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",咪咕直播-7
 http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",咪咕直播-8
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",咪咕直播-9
 http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕IPV4",咪咕直播-10
