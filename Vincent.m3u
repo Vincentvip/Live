@@ -506,15 +506,15 @@ http://219.128.40.183:4022/udp/239.77.0.246:5146
 http://219.128.40.183:4022/udp/239.77.0.245:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="广东电信tv",广东综艺 宽色域AVS2(4k) (AVS2)
 http://219.128.40.183:4022/udp/239.77.0.252:5146
-#EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合高清
+#EXTINF:-1 tvg-name="广州综合" group-title="广东电信tv",广州综合高清
 http://219.128.40.183:4022/udp/239.253.43.71:5146
-#EXTINF:-1 tvg-name="广州新闻" group-title="IPTV-广州电视台",广州新闻高清
+#EXTINF:-1 tvg-name="广州新闻" group-title="广东电信tv",广州新闻高清
 http://219.128.40.183:4022/udp/239.253.43.72:5146
-#EXTINF:-1 tvg-name="广州影视" group-title="IPTV-广州电视台",广州影视高清
+#EXTINF:-1 tvg-name="广州影视" group-title="广东电信tv",广州影视高清
 http://219.128.40.183:4022/udp/239.253.43.73:5146
-#EXTINF:-1 tvg-name="广州法治" group-title="IPTV-广州电视台",广州法治高清
+#EXTINF:-1 tvg-name="广州法治" group-title="广东电信tv",广州法治高清
 http://219.128.40.183:4022/udp/239.253.43.74:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+#EXTINF:-1 tvg-name="南国都市" group-title="广东电信tv",南国都市 4K
 http://219.128.40.183:4022/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="广东电信tv",深圳卫视
 http://219.128.40.183:4022/udp/239.77.0.55:5146
@@ -1275,86 +1275,86 @@ http://219.128.40.183:4022/udp/239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" group-title="广东电信tv",IPTV收视指南
 http://219.128.40.183:4022/udp/239.77.0.111:5146
 #EXTINF:-1,4k测试频道8
-http://219.128.40.183:4022/udp/239.77.0.249:5146
-#EXTINF:-1,EBU
+
+#EXTINF:-1,group-title="广东电信tv",EBU
 http://219.128.40.183:4022/udp/239.253.43.165:5146
-#EXTINF:-1,PPTV-1
+#EXTINF:-1,group-title="广东电信tv",PPTV-1
 http://219.128.40.183:4022/udp/239.77.1.183:5146
-#EXTINF:-1,PPTV-2
+#EXTINF:-1,group-title="广东电信tv",PPTV-2
 http://219.128.40.183:4022/udp/239.77.1.184:5146
-#EXTINF:-1,PPTV-3
+#EXTINF:-1,group-title="广东电信tv",PPTV-3
 http://219.128.40.183:4022/udp/239.77.1.185:5146
-#EXTINF:-1,PPTV-4
+#EXTINF:-1,group-title="广东电信tv",PPTV-4
 http://219.128.40.183:4022/udp/239.77.1.186:5146
-#EXTINF:-1,Unknown@239.253.43.82:5146
+#EXTINF:-1,group-title="广东电信tv",阳江1
 http://219.128.40.183:4022/udp/239.253.43.82:5146
-#EXTINF:-1,Unknown@239.253.43.83:5146
+#EXTINF:-1,group-title="广东电信tv",阳江2
 http://219.128.40.183:4022/udp/239.253.43.83:5146
-#EXTINF:-1,Unknown@239.77.1.114:5146
+#EXTINF:-1,group-title="广东电信tv",早期教育
 http://219.128.40.183:4022/udp/239.77.1.114:5146
-#EXTINF:-1,九屏同播
+#EXTINF:-1,group-title="广东电信tv",九屏同播
 http://219.128.40.183:4022/udp/239.77.1.234:5146
-#EXTINF:-1,四屏同播
+#EXTINF:-1,group-title="广东电信tv",四屏同播
 http://219.128.40.183:4022/udp/239.77.1.107:5146
-#EXTINF:-1,广东IPTV广告
+#EXTINF:-1,group-title="广东电信tv",广东IPTV广告
 http://219.128.40.183:4022/udp/239.77.0.190:5146
-#EXTINF:-1,广东IPTV广告
+#EXTINF:-1,group-title="广东电信tv",广东IPTV广告
 http://219.128.40.183:4022/udp/239.77.0.191:5146
-#EXTINF:-1,广东IPTV广告
+#EXTINF:-1,group-title="广东电信tv",广东IPTV广告
 http://219.128.40.183:4022/udp/239.77.0.233:5146
-#EXTINF:-1,广东IPTV广告
+#EXTINF:-1,group-title="广东电信tv",广东IPTV广告
 http://219.128.40.183:4022/udp/239.77.0.153:5146
-#EXTINF:-1,广东IPTV广告
+#EXTINF:-1,group-title="广东电信tv",广东IPTV广告
 http://219.128.40.183:4022/udp/239.77.0.185:5146
-#EXTINF:-1,广东IPTV广告
+#EXTINF:-1,group-title="广东电信tv",广东IPTV广告
 http://219.128.40.183:4022/udp/239.77.0.193:5146
-#EXTINF:-1,广东IPTV广告
+#EXTINF:-1,group-title="广东电信tv",广东IPTV广告
 http://219.128.40.183:4022/udp/239.77.0.232:5146
-#EXTINF:-1,极K精选-测试
+#EXTINF:-1,group-title="广东电信tv",极K精选-测试
 http://219.128.40.183:4022/udp/239.77.0.231:5146
-#EXTINF:-1,极k影视-测试
+#EXTINF:-1,group-title="广东电信tv",极k影视-测试
 http://219.128.40.183:4022/udp/239.253.43.218:5146
-#EXTINF:-1,爱上4K
+#EXTINF:-1,group-title="广东电信tv",爱上4K
 http://219.128.40.183:4022/udp/239.253.43.219:5146
-#EXTINF:-1,百事通高清
+#EXTINF:-1,group-title="广东电信tv",百事通高清
 http://219.128.40.183:4022/udp/239.253.43.119:5146
-#EXTINF:-1,百事通高清
+#EXTINF:-1,group-title="广东电信tv",百事通高清
 http://219.128.40.183:4022/udp/239.253.43.118:5146
-#EXTINF:-1,百事通高清
+#EXTINF:-1,group-title="广东电信tv",百事通高清
 http://219.128.40.183:4022/udp/239.253.43.117:5146
-#EXTINF:-1,百事通高清
+#EXTINF:-1,group-title="广东电信tv",百事通高清
 http://219.128.40.183:4022/udp/239.253.43.116:5146
-#EXTINF:-1,百事通高清
+#EXTINF:-1,group-title="广东电信tv",百事通高清
 http://219.128.40.183:4022/udp/239.253.43.115:5146
-#EXTINF:-1,直播室101
+#EXTINF:-1,group-title="广东电信tv",直播室101
 http://219.128.40.183:4022/udp/239.253.43.217:5146
-#EXTINF:-1,直播室102
+#EXTINF:-1,group-title="广东电信tv",直播室102
 http://219.128.40.183:4022/udp/239.253.43.153:5146
-#EXTINF:-1,直播室103
+#EXTINF:-1,group-title="广东电信tv",直播室103
 http://219.128.40.183:4022/udp/239.253.43.154:5146
-#EXTINF:-1,直播室104
+#EXTINF:-1,group-title="广东电信tv",直播室104
 http://219.128.40.183:4022/udp/239.253.43.155:5146
-#EXTINF:-1,直播室105
+#EXTINF:-1,group-title="广东电信tv",直播室105
 http://219.128.40.183:4022/udp/239.253.43.156:5146
-#EXTINF:-1,直播室106
+#EXTINF:-1,group-title="广东电信tv",直播室106
 http://219.128.40.183:4022/udp/239.253.43.157:5146
-#EXTINF:-1,直播室107
+#EXTINF:-1,group-title="广东电信tv",直播室107
 http://219.128.40.183:4022/udp/239.253.43.158:5146
-#EXTINF:-1,直播室108
+#EXTINF:-1,group-title="广东电信tv",直播室108
 http://219.128.40.183:4022/udp/239.253.43.160:5146
-#EXTINF:-1,直播室109
+#EXTINF:-1,group-title="广东电信tv",直播室109
 http://219.128.40.183:4022/udp/239.253.43.161:5146
-#EXTINF:-1,直播室110
+#EXTINF:-1,group-title="广东电信tv",直播室110
 http://219.128.40.183:4022/udp/239.253.43.162:5146
-#EXTINF:-1,直播室111
+#EXTINF:-1,group-title="广东电信tv",直播室111
 http://219.128.40.183:4022/udp/239.253.43.163:5146
-#EXTINF:-1,精选频道1
+#EXTINF:-1,group-title="广东电信tv",精选频道1
 http://219.128.40.183:4022/udp/239.77.0.186:5146
-#EXTINF:-1,网络通道3HD
+#EXTINF:-1,group-title="广东电信tv",网络通道3HD
 http://219.128.40.183:4022/udp/239.77.1.187:5146
-#EXTINF:-1,网络通道4HD
+#EXTINF:-1,group-title="广东电信tv",网络通道4HD
 http://219.128.40.183:4022/udp/239.77.0.235:5146
-#EXTINF:-1,网络通道6HD
+#EXTINF:-1,group-title="广东电信tv",网络通道6HD
 http://219.128.40.183:4022/udp/239.77.1.122:5146
 
 
@@ -3758,7 +3758,7 @@ http://120.196.232.124:8088/rrs04.hw.gmcc.net/PLTV/651/224/3221227277/1.m3u8
 
 
 
-#EXTINF:-1 group-title="2025.1.16更新",dywwst8
+#EXTINF:-1 group-title="2025.1.30更新",dywwst8
 https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84gp61a7n0ms.mp4
 
 
