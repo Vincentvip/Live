@@ -161,7 +161,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="体育频道",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="体育频道",纬来体育
-https://stream1.freetv.fun/70e72b12687f2e217c691f117268eba4335bf281933d621d2497ec79c01a6c98.ctv
+
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="体育频道",纬来体育
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV5
@@ -705,120 +705,6 @@ http://cfss.cc/cdn/hy/21059596.flv
 http://cfss.cc/cdn/hy/21059554.flv
 #EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://live.fanmingming.com/tv/搞笑_陈翔六点半.png" group-title="影视",搞笑_陈翔六点半
 http://cfss.cc/cdn/hy/11274154.flv
-
-
-#EXTINF:-1 tvg-id="电影_星爷" tvg-name="电影_星爷" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_星爷
-http://home.kuaidi521.com:35455/huya/11342412
-#EXTINF:-1 tvg-id="电影_英叔" tvg-name="电影_英叔" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_英叔
-http://home.kuaidi521.com:35455/huya/11342421
-#EXTINF:-1 tvg-id="电影_发哥" tvg-name="电影_发哥" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_发哥
-http://home.kuaidi521.com:35455/huya/11342387
-#EXTINF:-1 tvg-id="电影_成龙" tvg-name="电影_成龙" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_成龙
-http://home.kuaidi521.com:35455/huya/11342386
-#EXTINF:-1 tvg-id="电影_王晶" tvg-name="电影_王晶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_王晶
-http://home.kuaidi521.com:35455/huya/11602058
-#EXTINF:-1 tvg-id="电影_沈腾" tvg-name="电影_沈腾" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_沈腾
-http://home.kuaidi521.com:35455/huya/11601968
-#EXTINF:-1 tvg-id="电影_黄渤" tvg-name="电影_黄渤" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_黄渤
-http://home.kuaidi521.com:35455/huya/11352876
-#EXTINF:-1 tvg-id="电影_强森" tvg-name="电影_强森" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_强森
-http://home.kuaidi521.com:35455/huya/21059581
-#EXTINF:-1 tvg-id="电影_漫威" tvg-name="电影_漫威" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_漫威
-http://home.kuaidi521.com:35455/huya/11602034
-#EXTINF:-1 tvg-id="电影_宇宙" tvg-name="电影_宇宙" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_宇宙
-http://home.kuaidi521.com:35455/huya/11342428
-#EXTINF:-1 tvg-id="电影_怪兽" tvg-name="电影_怪兽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_怪兽
-http://home.kuaidi521.com:35455/huya/21059577
-#EXTINF:-1 tvg-id="电影_贺岁" tvg-name="电影_贺岁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_贺岁
-http://home.kuaidi521.com:35455/huya/11601971
-#EXTINF:-1 tvg-id="电影_玄幻" tvg-name="电影_玄幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_玄幻
-http://home.kuaidi521.com:35455/huya/11342414
-#EXTINF:-1 tvg-id="电影_谍战" tvg-name="电影_谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_谍战
-http://home.kuaidi521.com:35455/huya/21059585
-#EXTINF:-1 tvg-id="电影_战争" tvg-name="电影_战争" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_战争
-http://home.kuaidi521.com:35455/huya/21059592
-#EXTINF:-1 tvg-id="电影_喜剧" tvg-name="电影_喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_喜剧
-http://home.kuaidi521.com:35455/huya/11352877
-#EXTINF:-1 tvg-id="电影_港片" tvg-name="电影_港片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_港片
-http://home.kuaidi521.com:35455/huya/11602043
-#EXTINF:-1 tvg-id="电影_国产" tvg-name="电影_国产" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_国产
-http://home.kuaidi521.com:35455/huya/11352973
-#EXTINF:-1 tvg-id="电影_周星星" tvg-name="电影_周星星" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_周星星
-http://home.kuaidi521.com:35455/huya/11336587
-#EXTINF:-1 tvg-id="电影_李连杰" tvg-name="电影_李连杰" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_李连杰
-http://home.kuaidi521.com:35455/huya/11342390
-#EXTINF:-1 tvg-id="电影_洪金宝" tvg-name="电影_洪金宝" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_洪金宝
-http://home.kuaidi521.com:35455/huya/11279251
-#EXTINF:-1 tvg-id="电影_梁家辉" tvg-name="电影_梁家辉" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_梁家辉
-http://home.kuaidi521.com:35455/huya/11342429
-#EXTINF:-1 tvg-id="电影_许冠英" tvg-name="电影_许冠英" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_许冠英
-http://home.kuaidi521.com:35455/huya/11601972
-#EXTINF:-1 tvg-id="电影_刘德华" tvg-name="电影_刘德华" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_刘德华
-http://home.kuaidi521.com:35455/huya/11342424
-#EXTINF:-1 tvg-id="电影_斯坦森" tvg-name="电影_斯坦森" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_斯坦森
-http://home.kuaidi521.com:35455/huya/21059588
-#EXTINF:-1 tvg-id="电影_蜘蛛侠" tvg-name="电影_蜘蛛侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_蜘蛛侠
-http://home.kuaidi521.com:35455/huya/21059599
-#EXTINF:-1 tvg-id="电影_贺岁片" tvg-name="电影_贺岁片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_贺岁片
-http://home.kuaidi521.com:35455/huya/11601986
-#EXTINF:-1 tvg-id="电影_功夫片" tvg-name="电影_功夫片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_功夫片
-http://home.kuaidi521.com:35455/huya/11352941
-#EXTINF:-1 tvg-id="电影_黑帮片" tvg-name="电影_黑帮片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_黑帮片
-http://home.kuaidi521.com:35455/huya/11336719
-#EXTINF:-1 tvg-id="电影_丧尸片" tvg-name="电影_丧尸片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_丧尸片
-http://home.kuaidi521.com:35455/huya/21059578
-#EXTINF:-1 tvg-id="电影_灾难片" tvg-name="电影_灾难片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_灾难片
-http://home.kuaidi521.com:35455/huya/11602075
-#EXTINF:-1 tvg-id="电影_谍战片" tvg-name="电影_谍战片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_谍战片
-http://home.kuaidi521.com:35455/huya/21059587
-#EXTINF:-1 tvg-id="电影_战争片" tvg-name="电影_战争片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_战争片
-http://home.kuaidi521.com:35455/huya/21059574
-#EXTINF:-1 tvg-id="电影_犯罪片" tvg-name="电影_犯罪片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_犯罪片
-http://home.kuaidi521.com:35455/huya/11352974
-#EXTINF:-1 tvg-id="电影_古装片" tvg-name="电影_古装片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_古装片
-http://home.kuaidi521.com:35455/huya/11336590
-#EXTINF:-1 tvg-id="电影_高分动作" tvg-name="电影_高分动作" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_高分动作
-http://home.kuaidi521.com:35455/huya/11352884
-#EXTINF:-1 tvg-id="电影_动作电影" tvg-name="电影_动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_动作电影
-http://home.kuaidi521.com:35455/huya/11602077
-#EXTINF:-1 tvg-id="电影_搞笑喜剧" tvg-name="电影_搞笑喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_搞笑喜剧
-http://home.kuaidi521.com:35455/huya/11342423
-#EXTINF:-1 tvg-id="电影_喜剧专场" tvg-name="电影_喜剧专场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_喜剧专场
-http://home.kuaidi521.com:35455/huya/11602044
-#EXTINF:-1 tvg-id="电影_欢笑影院" tvg-name="电影_欢笑影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_欢笑影院
-http://home.kuaidi521.com:35455/huya/11352894
-#EXTINF:-1 tvg-id="电影_不挤影院" tvg-name="电影_不挤影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_不挤影院
-http://home.kuaidi521.com:35455/huya/11352897
-#EXTINF:-1 tvg-id="电影_国产悬疑" tvg-name="电影_国产悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_国产悬疑
-http://home.kuaidi521.com:35455/huya/11342395
-#EXTINF:-1 tvg-id="电影_快意江湖" tvg-name="电影_快意江湖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_快意江湖
-http://home.kuaidi521.com:35455/huya/11342435
-#EXTINF:-1 tvg-id="电影_黑帮斗争" tvg-name="电影_黑帮斗争" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_黑帮斗争
-http://home.kuaidi521.com:35455/huya/11342419
-#EXTINF:-1 tvg-id="电影_古墓系列" tvg-name="电影_古墓系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_古墓系列
-http://home.kuaidi521.com:35455/huya/11352913
-#EXTINF:-1 tvg-id="电影_嫣然影厅" tvg-name="电影_嫣然影厅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_嫣然影厅
-http://home.kuaidi521.com:35455/huya/11601977
-#EXTINF:-1 tvg-id="电影_女神系列" tvg-name="电影_女神系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_女神系列
-http://home.kuaidi521.com:35455/huya/11336571
-#EXTINF:-1 tvg-id="电影_经典女神" tvg-name="电影_经典女神" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_经典女神
-http://home.kuaidi521.com:35455/huya/11352909
-#EXTINF:-1 tvg-id="电影_经典港片" tvg-name="电影_经典港片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_经典港片
-http://home.kuaidi521.com:35455/huya/11352965
-#EXTINF:-1 tvg-id="电影_喜乐影院" tvg-name="电影_喜乐影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_喜乐影院
-http://home.kuaidi521.com:35455/huya/21059580
-#EXTINF:-1 tvg-id="电影_蘑菇影厅" tvg-name="电影_蘑菇影厅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_蘑菇影厅
-http://home.kuaidi521.com:35455/huya/11601981
-#EXTINF:-1 tvg-id="电影_搞笑恐怖" tvg-name="电影_搞笑恐怖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_搞笑恐怖
-http://home.kuaidi521.com:35455/huya/11601960
-#EXTINF:-1 tvg-id="电影_死神来了" tvg-name="电影_死神来了" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_死神来了
-http://home.kuaidi521.com:35455/huya/11352903
-#EXTINF:-1 tvg-id="电影_变形金刚" tvg-name="电影_变形金刚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_变形金刚
-http://home.kuaidi521.com:35455/huya/21059596
-#EXTINF:-1 tvg-id="电影_怪兽系列" tvg-name="电影_怪兽系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_怪兽系列
-http://home.kuaidi521.com:35455/huya/21059554
-#EXTINF:-1 tvg-id="搞笑_陈翔六点半" tvg-name="搞笑_陈翔六点半" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",搞笑_陈翔六点半
-http://home.kuaidi521.com:35455/huya/11274154
 
 
 
